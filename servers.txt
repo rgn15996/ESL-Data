@@ -1,0 +1,95 @@
+Loading Server data
+Loaded 10136 nodes from server data
+
+removing deinstalled...
+now there are 7119 left
+There are 2551 Virtual guests
+There are 13 system types
+=================================================
+server count: 6185
+tape library count: 64
+tape drive count: 169
+cabinet count: 120
+cluster count: 273
+farm count: 74
+storage count: 140
+cluster node count: 61
+cluster package count: 2
+san switch count: 25
+#UNDEFINED# count: 1
+mainframe count: 4
+firewall count: 1
+--------------
+There are 45 OS vesions
+=================================================
+Unknown count: 1289
+VIO 2 count: 40
+Windows 2003 Standard count: 1239
+Windows 2000 Server count: 80
+Windows 2003 Enterprise count: 189
+Windows 2003 Standard R2 count: 6
+AIX 5.2 count: 9
+Windows 2000 count: 27
+Windows 2003 Standard x64 count: 23
+Windows 2003 Enterprise x64 count: 7
+z/OS 1.9 count: 2
+Windows 2008 Enterprise x64 count: 1381
+AIX 5.3 count: 202
+Windows NT 4.0 count: 30
+#UNDEFINED# count: 155
+VM ESX 3.0.0 count: 225
+Other count: 3
+AIX 6.1 count: 799
+Windows 2000 A count: 3
+Windows 2003 Web count: 6
+VM ESX 3.5 count: 1
+z/OS 1.11 count: 14
+z/OS count: 6
+Windows 2008 Standard count: 27
+Windows 2008 Standard x64 count: 281
+MS-DOS count: 7
+VM ESX count: 1
+OS/400 V5R4M5 count: 4
+LINUX Other count: 2
+Windows 2003 Standard R2 x64 count: 1
+HP-UX B.11.31 count: 51
+Windows 2008 Enterprise count: 248
+Windows 2008 Enterprise R2 x64 count: 105
+Windows 2008 Standard R2 x64 count: 62
+LINUX RedHat 6.1 count: 19
+VM ESX 4.1 count: 166
+Windows 2003 Enterprise R2 count: 166
+Windows 2003 Enterprise R2 x64 count: 58
+Solaris 10 (SunOS 5.10) count: 23
+LINUX RedHat ES 6.1 64bit count: 134
+LINUX RedHat ES 5.4 64bit count: 2
+VM ESXi 4.1 count: 22
+HP-UX B.11.23 count: 1
+LINUX RedHat 6.2 count: 1
+LINUX RedHat ES 5.8 64bit count: 2
+--------------
+There are 6 virtualisation roles
+=================================================
+Secure Resource Partition count: 1227
+#UNDEFINED# count: 2749
+Server for Secure Resource Partition count: 61
+Virtual Guest count: 2595
+Server for Virtual Guest count: 413
+Farm count: 74
+--------------
+There are 5 virtualisation Technologies
+=================================================
+LPAR count: 0
+#UNDEFINED# count: 2749
+VMWare count: 0
+HP-IVM count: 0
+Solaris Zones count: 0
+--------------
+There are 5 status type
+=================================================
+in production count: 5703
+move to production count: 1033
+obsolete count: 376
+out of production count: 3
+installed in DC count: 4
+--------------
