@@ -188,6 +188,21 @@ module ESLdata
     puts "Loaded #{count} rows from relationship data"
   end
 
+  def ESLdata.load_hsns(hsns)
+    count = 0
+    puts "Loading HSN data"
+    CSV.foreach("data/esl_aviva_3_sol.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
+      hsns[count] = row
+      hsns[count].each do |field, value|
+        if value.nil? then
+          hsns[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+    puts "Loaded #{count} rows from HSN data"
+  end      
+
   def ESLdata.del_deinstalled(servers)
     servers.delete_if {|server| server[:system_status] == "deinstalled"}
   end
