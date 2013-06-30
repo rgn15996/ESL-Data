@@ -120,27 +120,35 @@ module ESLdata
   end
 
   def ESLdata.isVMGuest(server)
-    server[:system_type] == "server" && 
-    server[:virtualization_role] == "Virtual Guest" && 
-    server[:virtualization_technology] == "VMWare"
+    if ESLdata.classify_server(server) == "VMWare_guest" then
+      return true
+    else
+      return false
+    end
   end
 
   def ESLdata.isVMHost(server)
-    server[:system_type] == "server" && 
-    server[:virtualization_role] == "Server for Virtual Guest" && 
-    server[:virtualization_technology] == "VMWare"
+    if ESLdata.classify_server(server) == "VMWare_host" then
+      return true
+    else
+      return false
+    end
   end
 
   def ESLdata.isPowerVMGuest(server)
-    (server[:system_type] == "server" || server[:system_type == "cluster node"]) && 
-    server[:virtualization_role] == "Secure Resource Partition" && 
-    server[:virtualization_technology] == "LPAR"
+    if ESLdata.classify_server(server) == "PowerVM_guest" then
+      return true
+    else
+      return false
+    end
   end
 
   def ESLdata.isPowerVMHost(server)
-    server[:system_type] == "server" && 
-    server[:virtualization_role] == "Server for Secure Resource Partition" && 
-    server[:virtualization_technology] == "LPAR"
+    if ESLdata.classify_server(server) == "PowerVM_host" then
+      return true
+    else
+      return false
+    end
   end
 
   def ESLdata.load_servers(servers)
@@ -210,7 +218,7 @@ module ESLdata
   def ESLdata.find_vmguests(servers)
     vmguests = Array.new
     servers.each do |server|
-      if isvmguest(server) then
+      if ESLdata.isVMGuest(server) then
         vmguests << server
       end
     end
@@ -220,7 +228,7 @@ module ESLdata
   def ESLdata.find_vmhosts(servers)
     vmhosts = Array.new
     servers.each do |server|
-      if isvmhost(server) then
+      if ESLdata.isVMhost(server) then
         vmhosts << server
       end
     end

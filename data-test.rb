@@ -23,19 +23,16 @@ ESLdata.del_deinstalled(srvs)
 
 puts "now there are #{srvs.length} left"
 
-vms = ESLdata.find_vmguests(srvs)
+# vms = ESLdata.find_vmguests(srvs)
 
-puts "There are #{vms.length} Virtual guests"
+# puts "There are #{vms.length} Virtual guests"
 
 srvs.each do |sys|
-  # puts "#{sys[:full_node_name]} is a #{sys[:system_type]}"
   system_types << sys[:system_type]
   os_versions << sys[:os_version]
   virt_roles << sys[:virtualization_role]
   virt_types << sys[:virtualization_technology]
   sys_status << sys[:system_status]
-  if ESLdata.isvmguest(sys) then vmguests << sys
-
 end
 
 puts "There are #{system_types.uniq.count} system types"

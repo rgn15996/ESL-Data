@@ -1,6 +1,6 @@
 require 'csv'
 require 'rubygems'
-require 'neography'
+require 'json'
 require "#{File.dirname(__FILE__)}/esldata"
 
 count = 0
