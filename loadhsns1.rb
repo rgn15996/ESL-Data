@@ -23,26 +23,29 @@ hsns.each_slice(100) do |hsn_batch|
     ci = hsn[:full_node_name] 
     hsn_name = hsn[:solution_name]
 
-    chash[:statement] = "MATCH n" +
-                        "WHERE n.name = #{ci}" +
-                        "CREATE UNIQUE " 
-    chash[:statement] = "MATCH n:PowerVM_guest, m:PowerVM_host" +
-      " WHERE n.name = '#{child}' AND m.name = '#{parent}' " +
-      "CREATE UNIQUE n-[r:IS_HOSTED_ON]->m RETURN r;"
+    chash[:statement] = "MATCH n " +
+                        "WHERE n.name = '#{ci}' " +
+                        "CREATE UNIQUE n-[r:IS_COMPONENT_OF]->(m:HSN {name:'#{hsn_name}'}) " +
+                        "RETURN m,r;" 
+    # chash[:statement] = "MATCH n:PowerVM_guest, m:PowerVM_host" +
+    #   " WHERE n.name = '#{child}' AND m.name = '#{parent}' " +
+    #   "CREATE UNIQUE n-[r:IS_HOSTED_ON]->m RETURN r;"
     batch_query[:statements] << chash.clone
     chash.clear
   end
   response = ESLdata.open_transaction()
   if response.code == 201 then
     url = response.headers[:location].to_s
+    puts url
+    puts batch_query.to_json
     res = ESLdata.transact_query(url, batch_query.to_json)
     commit_url = JSON.parse(res)["commit"]
+    puts commit_url
     res2 = ESLdata.commit_transaction(commit_url)
     print "."
   end
 end
 
-
-  #puts cypher_query.to_json
+#puts cypher_query.to_json
 
   
