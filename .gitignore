@@ -1,5 +1,6 @@
 # Exclude the data
 data/
+old-data/
 
 #################
 ## Eclipse
