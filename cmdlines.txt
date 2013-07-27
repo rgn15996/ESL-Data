@@ -1,0 +1,1 @@
+C:\Users\nobleric\dev\neo4j>bin\neo4jshell -c -path ./data/graph.db -file ..\ESL-data\set-labels.cql -v

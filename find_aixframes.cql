@@ -1,1 +1,0 @@
-MATCH n:PowerVM_host RETURN n;

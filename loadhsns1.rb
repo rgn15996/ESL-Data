@@ -25,7 +25,7 @@ hsns.each_slice(100) do |hsn_batch|
 
     chash[:statement] = "MATCH n " +
                         "WHERE n.name = '#{ci}' " +
-                        "CREATE UNIQUE n-[r:IS_COMPONENT_OF]->(m:HSN {name:'#{hsn_name}'}) " +
+                        "CREATE UNIQUE n-[r:IS_COMPONENT_OF]->(m:hsn {name:'#{hsn_name}'}) " +
                         "RETURN m,r;" 
     # chash[:statement] = "MATCH n:PowerVM_guest, m:PowerVM_host" +
     #   " WHERE n.name = '#{child}' AND m.name = '#{parent}' " +

@@ -1,0 +1,1 @@
+c:\Users\nobleric\dev\neo4j\bin\neo4jshell -c -v -path c:/Users/nobleric/dev/neo4j/data/graph.db -file %1

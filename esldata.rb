@@ -6,39 +6,40 @@ module ESLdata
   def ESLdata.classify_server(server)
     server_type = "Unknown"
     # :system_type :os_class :virtualization_role :virtualization_technology classifiaction
+    # classication is camel cased with initial lower case
     templates = [
-      ["server", "*", "Virtual Guest", "VMWare", "VMWare_guest"],
-      ["server", "*", "Server for Virtual Guest", "VMWare", "VMWare_host"],
-      ["cluster node", "*", "Server for Virtual Guest", "VMWare", "VMWare_host"],
-      ["farm", "VMWare", "Farm", "VMWare", "VMWare_cluster"],
-      ["server", "AIX", "Secure Resource Partition", "LPAR", "PowerVM_guest"],
-      ["cluster node", "AIX", "Secure Resource Partition", "LPAR", "PowerVM_guest"],
-      ["server", "AIX", "Server for Secure Resource Partition", "LPAR", "PowerVM_host"],
-      ["server", "Other", "Server for Secure Resource Partition", "LPAR", "PowerVM_host"],
-      ["server", "AIX", "#UNDEFINED#", "#UNDEFINED#", "AIX_Physical_server"],
-      ["server", "Windows", "#UNDEFINED#", "#UNDEFINED#", "Windows_Physical_server"],
-      ["server", "Linux", "#UNDEFINED#", "#UNDEFINED#", "Linux_Physical_server"],
-      ["server", "HP-UX", "#UNDEFINED#", "#UNDEFINED#", "HPUX_Physical_server"],
-      ["server", "Other", "#UNDEFINED#", "#UNDEFINED#", "Unidentified_server"],
-      ["cluster", "*", "#UNDEFINED#", "#UNDEFINED#", "Cluster"],
-      ["cluster node", "*", "#UNDEFINED#", "#UNDEFINED#", "Cluster_node"],
-      ["cluster package", "*", "#UNDEFINED#", "#UNDEFINED#", "Cluster_package"],
-      ["cabinet", "*", "#UNDEFINED#", "#UNDEFINED#", "Cabinet"],
-      ["storage", "*", "#UNDEFINED#", "#UNDEFINED#", "Storage"],
-      ["tape drive", "*", "#UNDEFINED#", "#UNDEFINED#", "Tape_drive"],
-      ["tape library", "*", "#UNDEFINED#", "#UNDEFINED#", "Tape_library"],
-      ["server", "*", "Virtual Guest", "HP-IVM", "HP_guest"],
-      ["server", "*", "Server for Virtual Guest", "HP-IVM", "HP_host"],
-      ["server", "*", "Virtual Guest", "Solaris Zones", "Solaris_zone"],
-      ["farm", "*", "Farm", "Solaris Zones", "Solaris_host"],
-      ["san switch", "*", "#UNDEFINED#", "#UNDEFINED#", "SAN_switch"],
-      ["server", "OS/400", "Server for Virtual Guest", "LPAR", "AS400"],
-      ["server", "OS/400", "Server for Secure Resource Partition", "LPAR", "AS400"],
-      ["mainframe", "*", "Server for Secure Resource Partition", "LPAR", "Mainframe"],
-      ["server", "z/OS", "Secure Resource Partition", "LPAR", "Mainframe_LPAR"],
-      ["server", "Other", "Secure Resource Partition", "LPAR", "Unknown_IBM_LPAR"],
-      ["server", "z/OS", "#UNDEFINED#", "#UNDEFINED#", "Mainframe_LPAR_THING"],
-      ["firewall", "*", "#UNDEFINED#", "#UNDEFINED#", "Firewall"]      
+      ["server", "*", "Virtual Guest", "VMWare", "vmwareGuest"],
+      ["server", "*", "Server for Virtual Guest", "VMWare", "vmwareHost"],
+      ["cluster node", "*", "Server for Virtual Guest", "VMWare", "vmwareHost"],
+      ["farm", "VMWare", "Farm", "VMWare", "vmwareCluster"],
+      ["server", "AIX", "Secure Resource Partition", "LPAR", "powervmGuest"],
+      ["cluster node", "AIX", "Secure Resource Partition", "LPAR", "powervmGuest"],
+      ["server", "AIX", "Server for Secure Resource Partition", "LPAR", "powervmHost"],
+      ["server", "Other", "Server for Secure Resource Partition", "LPAR", "powervmHost"],
+      ["server", "AIX", "#UNDEFINED#", "#UNDEFINED#", "aixPhysicalServer"],
+      ["server", "Windows", "#UNDEFINED#", "#UNDEFINED#", "windowsPhysicalServer"],
+      ["server", "Linux", "#UNDEFINED#", "#UNDEFINED#", "linuxPhysicalServer"],
+      ["server", "HP-UX", "#UNDEFINED#", "#UNDEFINED#", "hpuxPhysicalServer"],
+      ["server", "Other", "#UNDEFINED#", "#UNDEFINED#", "unidentifiedServer"],
+      ["cluster", "*", "#UNDEFINED#", "#UNDEFINED#", "cluster"],
+      ["cluster node", "*", "#UNDEFINED#", "#UNDEFINED#", "clusterNode"],
+      ["cluster package", "*", "#UNDEFINED#", "#UNDEFINED#", "clusterPackage"],
+      ["cabinet", "*", "#UNDEFINED#", "#UNDEFINED#", "cabinet"],
+      ["storage", "*", "#UNDEFINED#", "#UNDEFINED#", "storage"],
+      ["tape drive", "*", "#UNDEFINED#", "#UNDEFINED#", "tapeDrive"],
+      ["tape library", "*", "#UNDEFINED#", "#UNDEFINED#", "tapeLibrary"],
+      ["server", "*", "Virtual Guest", "HP-IVM", "hpGuest"],
+      ["server", "*", "Server for Virtual Guest", "HP-IVM", "hpHost"],
+      ["server", "*", "Virtual Guest", "Solaris Zones", "solarisZone"],
+      ["farm", "*", "Farm", "Solaris Zones", "solarisHost"],
+      ["san switch", "*", "#UNDEFINED#", "#UNDEFINED#", "sanSwitch"],
+      ["server", "OS/400", "Server for Virtual Guest", "LPAR", "as400"],
+      ["server", "OS/400", "Server for Secure Resource Partition", "LPAR", "as400"],
+      ["mainframe", "*", "Server for Secure Resource Partition", "LPAR", "mainframe"],
+      ["server", "z/OS", "Secure Resource Partition", "LPAR", "mainframeLpar"],
+      ["server", "Other", "Secure Resource Partition", "LPAR", "unknownIbmLpar"],
+      ["server", "z/OS", "#UNDEFINED#", "#UNDEFINED#", "mainframeLpar"],
+      ["firewall", "*", "#UNDEFINED#", "#UNDEFINED#", "firewall"]      
     ]
 
     test_array = [
@@ -70,14 +71,100 @@ module ESLdata
 
     return server_type
   end
+  
+  def ESLdata.CQLCreate(sys, index)
+    query_string = "CREATE (n#{index} { "
+    sys.each do |key,value|
+      query_string += "#{key} : '#{value}', "
+    end
+    query_string.chomp!(', ')
+    query_string += "})"
+  end
+
+  def ESLdata.CQLcreateNodes(sys,index)
+    fields = [
+      "full_node_name",
+      #"arpa_domain",
+      "availability",
+      #"cluster_architecture",
+      "cluster_technology",
+      #"contract_server_size",
+      "contract_service_level",
+      "coverage",
+      "domain",
+      "environment",
+      "impact",
+      #{}"ir_rules",
+      #{}"management_region",
+      "number_of_cores_per_cpu",
+      "number_of_logical_cpus",
+      "number_of_physical_cpus",
+      "os_class",
+      "os_language",
+      "os_version",
+      "system_status",
+      "system_type",
+      "virtualization_role",
+      "virtualization_technology",
+      #{}"business_area",
+      #{}"business_name",
+      "sub_business_name",
+      "floor_spceslot",
+      #{}"dc_name",
+      "is_virtual",
+      "billable_yn",
+      "customer_classification",
+      #{}"category",
+      #{}"security_class",
+      #{}"time_zone",
+      "technical_owner",
+      "contract_system_status",
+      #{}"billing_start",
+      #{}"billing_end",
+      "service_level",
+      "assyst_queue_name",
+      "installed_memory"
+      #"transformation_status",
+      #"create_date",
+      #"decommission_date",
+      #"project_number",
+      #"oa1_change_number",
+      #"oa1_change_date",
+      #"oa2_change_number",
+      #"dual_running"
+    ]
+    query_string = "CREATE (n#{index} { "
+    fields.each do |field|
+      query_string += "#{field.to_sym}: '#{sys[field.to_sym]}', "
+    end
+    query_string.chomp!(', ')
+    query_string += " })"
+  end
+
+  def ESLdata.CQLsetProperties(sys, index)
+    query_string = "MATCH n#{index} " +
+                   "WHERE HAS (n#{index}.full_node_name) " +
+                   "AND n#{index}.full_node_name='#{sys[:full_node_name]}' "
+
+    sys.each do |key,value|
+      if value != "#UNDEFINED#" then 
+        query_string += "SET n#{index}.#{key} = '#{value}' "
+      end
+    end
+    query_string += "RETURN n#{index};"
+  end
+
+  def ESLdata.CQLCreateSimple(sys, index)
+    query_string = "CREATE (n#{index} { full_node_name: '#{sys[:full_node_name]}' })"
+  end
 
   def ESLdata.constructQuery(sys, type, index)
 
     query_string = "CREATE (n#{index}:#{type} { name : '#{sys[:full_node_name]}' "
 
     case type
-    when "PowerVM_guest", "VMWare_guest", "Windows_Physical_server", 
-      "Linux_Physical_server", "AIX_Physical_server"
+    when "powervmGuest", "vmwareGuest", "windowsPhysicalServer", 
+      "linuxPhysicalServer", "aixPhysicalServer"
       query_string += ", os_version : '#{sys[:os_version]}' "
       query_string += ", os_class: '#{sys[:os_class]}' "
       query_string += ", contract_service_level: '#{sys[:contract_service_level]}' "
@@ -85,6 +172,10 @@ module ESLdata
     end
 
     query_string += "}) "
+    if sys[:system_type] != "#UNDEFINED#"
+      query_string += "SET n#{index} :#{sys[:system_type]};"
+    end
+    #puts query_string
     return query_string
 
   end
@@ -183,7 +274,7 @@ module ESLdata
 
   def ESLdata.load_relations(rels)
     count = 0
-    puts "Loading Relation data"
+    # puts "Loading Relation data"
     CSV.foreach("data/esl_aviva_9_sys_rel.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
       rels[count] = row
       rels[count].each do |field, value|
@@ -193,12 +284,12 @@ module ESLdata
       end
       count += 1
     end
-    puts "Loaded #{count} rows from relationship data"
+    # puts "Loaded #{count} rows from relationship data"
   end
 
   def ESLdata.load_hsns(hsns)
     count = 0
-    puts "Loading HSN data"
+    #puts "Loading HSN data"
     CSV.foreach("data/esl_aviva_3_sol.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
       hsns[count] = row
       hsns[count].each do |field, value|
@@ -208,7 +299,7 @@ module ESLdata
       end
       count += 1
     end
-    puts "Loaded #{count} rows from HSN data"
+    #puts "Loaded #{count} rows from HSN data"
   end      
 
   def ESLdata.del_deinstalled(servers)
