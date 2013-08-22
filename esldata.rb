@@ -300,7 +300,22 @@ module ESLdata
       count += 1
     end
     #puts "Loaded #{count} rows from HSN data"
-  end      
+  end    
+
+  def ESLdata.load_instances(instances)
+    count = 0
+    #puts "Loading Instance data"
+    CSV.foreach("data/esl_aviva_10_inst_sol.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
+      instances[count] = row
+      instances[count].each do |field, value|
+        if value.nil? then
+          instances[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+    #puts "Loaded #{count} rows from Instance data"
+  end   
 
   def ESLdata.del_deinstalled(servers)
     servers.delete_if {|server| server[:system_status] == "deinstalled"}
