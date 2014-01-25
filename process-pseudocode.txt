@@ -1,0 +1,12 @@
+load all ci nodes
+load all ci dependency relationships
+load all solns(hsn)
+load all hsn dependency relationships
+for each ci node
+	create the ci node
+	label the ci node
+	if dependency relationship
+		create unique dependency relationship
+	if hsn_relationship
+		create unique hsn node
+		create unique hsn relationship
