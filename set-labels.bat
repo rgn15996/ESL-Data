@@ -1,0 +1,1 @@
+c:\users\nobleric\dev\neo4j\bin\neo4jshell -path c:\users\nobleric\dev\neo4j\data\graph.db -file set-labels.cql

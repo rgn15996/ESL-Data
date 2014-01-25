@@ -1,0 +1,3764 @@
+Business Service|Transformation Status
+abacus ca cashbook & cashman sit hps|As-Is
+abacus ca cashbook & cashman uat hps|
+aviva uk:!unknown bronze hosting service b|
+aviva uk:!unknown gold hosting service g|
+aviva uk:4sight securities fin dr hps|
+aviva uk:4sight securities fin prd hps|
+aviva uk:4sight uat0 hpb|
+aviva uk:4sight uat1 hps|
+aviva uk:4sight uat2 hpb|
+aviva uk:4sight uat3 hpb|
+aviva uk:4sight uatr hpb|
+aviva uk:4sight web reporting tool uat1 hpb|
+aviva uk:abacus ca archive prd hpp|
+aviva uk:abacus ca cashbook & cashman dev hps|
+aviva uk:abacus ca cashbook & cashman prd hpp|As-Is
+aviva uk:abacus ca cashbook & cashman sit hps|
+aviva uk:abacus ca cashbook & cashman tst hps|
+aviva uk:abacus ca cashbook & cashman uat hps|
+aviva uk:abacus ca payprep dev hps|
+aviva uk:abacus ca payprep prd hpp|
+aviva uk:abacus ca payprep sit hps|
+aviva uk:abacus ca payprep tst hps|
+aviva uk:abacus ca payprep uat hps|
+aviva uk:accord prd hps|As-Is
+aviva uk:account matching prd hpp|
+aviva uk:accumulation dev hps|
+aviva uk:accumulation prd hpp|
+aviva uk:accumulation uat hps|
+aviva uk:acpm (ukhe) dev hps|
+aviva uk:acpm (ukhe) mod hps|
+aviva uk:acpm (ukhe) prd hpg|
+aviva uk:acpm prd hpp|
+aviva uk:acpm pre hps|
+aviva uk:acpm sit hps|
+aviva uk:acpm trn hps|
+aviva uk:acpm uat1 hps|
+aviva uk:acpm uat2 hps|
+aviva uk:acpm uat3 hps|
+aviva uk:active directory (ai) dc im prd hpb|
+aviva uk:active directory (ai) dc im prd hpg|
+aviva uk:active directory (ai) dc im prd hps|
+aviva uk:active directory (ai) dc imuat hpb|
+aviva uk:active directory dc prd hpb|
+aviva uk:active directory dc prd hpg|
+aviva uk:active directory dc prd hps|
+aviva uk:active directory itec prd hpb|
+aviva uk:acturis data transfer toolkit prd hpb|
+aviva uk:acturis data transfer toolkit tst hpb|
+aviva uk:acturis data transfer toolkit uat hpb|
+aviva uk:addacs prd hpg|
+aviva uk:admin re bridge prd hpg|
+aviva uk:administrator (dbp) dev hpg|
+aviva uk:administrator (dbp) dev hps|
+aviva uk:administrator (dbp) dev hps(x)|Transformed
+aviva uk:administrator (dbp) prd hpg|
+aviva uk:administrator (dbp) prd hpp|
+aviva uk:administrator (dbp) prd hps|
+aviva uk:administrator (dbp) sit hps|
+aviva uk:administrator (dbp) tst hpg|
+aviva uk:administrator (dbp) tst hps|
+aviva uk:administrator (dbp) uat hpg|
+aviva uk:administrator (dbp) uat hps|
+aviva uk:administrator (dc) dev hpg|
+aviva uk:administrator (dc) dev hpg(x)|
+aviva uk:administrator (dc) dev hps|
+aviva uk:administrator (dc) dev hps(x)|
+aviva uk:administrator (dc) prd hpg|
+aviva uk:administrator (dc) prd hpp(x)|
+aviva uk:administrator (dc) prd hps|
+aviva uk:administrator (dc) pre hps|
+aviva uk:administrator (dc) tst hpg|
+aviva uk:administrator (dc) uat hpg|
+aviva uk:administrator (ukhe) dev hpb|
+aviva uk:administrator (ukhe) dev hps|
+aviva uk:administrator (ukhe) prd hpg|
+aviva uk:administrator (ukhe) prd hps|
+aviva uk:administrator (ukhe) pre hpg|
+aviva uk:administrator (ukhe) pre hps|
+aviva uk:ads dev hpb|
+aviva uk:ads dev hpg|
+aviva uk:ads dev hps|
+aviva uk:ads mod hpg|
+aviva uk:ads prd hpg|
+aviva uk:ads pre hpg|
+aviva uk:ads sit hpg|
+aviva uk:ads trn hpg|
+aviva uk:advantage fee billing prd hpg|
+aviva uk:advantage fee billing uat3 hpb|
+aviva uk:adviser portal (public) dev hpb|
+aviva uk:adviser portal (public) dev hps|
+aviva uk:adviser portal (public) prd hpb|
+aviva uk:adviser portal (public) prd hpg|
+aviva uk:adviser portal (public) prd hpg(x)|
+aviva uk:adviser portal (public) prd hps|
+aviva uk:adviser portal (public) pre hpg|
+aviva uk:adviser portal (public) pre hps|
+aviva uk:adviser portal (public) pre hps(x)|
+aviva uk:adviser portal (public) prv hpg|
+aviva uk:adviser portal (public) prv hps|
+aviva uk:adviser portal (public) sit hpb|
+aviva uk:adviser portal (public) sit hps|
+aviva uk:adviser portal (public) tst hpb|
+aviva uk:adviser portal (public) tst hps|
+aviva uk:adviser portal (public) uat hpb|
+aviva uk:adviser portal (public) uat hps|
+aviva uk:adviser portal (secure) dev hpb|
+aviva uk:adviser portal (secure) dev hpg|
+aviva uk:adviser portal (secure) dev hps|
+aviva uk:adviser portal (secure) prd hpg|
+aviva uk:adviser portal (secure) pre hpg|
+aviva uk:adviser portal (secure) pre hps|
+aviva uk:adviser portal (secure) prv hpg|
+aviva uk:adviser portal (secure) prv hps|
+aviva uk:adviser portal (secure) sit hpb|
+aviva uk:adviser portal (secure) sit hpg|
+aviva uk:adviser portal (secure) sit hps|
+aviva uk:adviser portal (secure) tst hpb|
+aviva uk:adviser portal (secure) tst hps|
+aviva uk:adviser portal (secure) uat hpb|
+aviva uk:adviser portal (secure) uat hps|
+aviva uk:adviser portal auth dev hpb|
+aviva uk:adviser portal auth dev hpg|
+aviva uk:adviser portal auth dev hps|
+aviva uk:adviser portal auth prd hpb|
+aviva uk:adviser portal auth prd hpg|
+aviva uk:adviser portal auth prd hps|
+aviva uk:adviser portal dev hpb(x)|
+aviva uk:adviser portal prd hpg|
+aviva uk:adviser portal prd hps|
+aviva uk:adviser portal pre hpg|
+aviva uk:adviser portal pre hpg(x)|
+aviva uk:adviser portal pre hpp|
+aviva uk:adviser portal pre hps|
+aviva uk:adviser portal pre hps(x)|
+aviva uk:adviser portal sit hpb|
+aviva uk:adviser portal sit hps|
+aviva uk:adviser portal tst hpb|
+aviva uk:adviser portal tst hps|
+aviva uk:adviser portal tst hps(x)|
+aviva uk:adviser portal uat hps|
+aviva uk:adwl sql db dev hpb|
+aviva uk:adwl sql db prd hpb|
+aviva uk:adwl sql db tst hpb|
+aviva uk:adwl sql db uat hpb|
+aviva uk:ae file transfer dev hpb|
+aviva uk:ae file transfer prd hpg|
+aviva uk:ae file transfer prd hps|
+aviva uk:ae file transfer pre hpg|
+aviva uk:ae file transfer pre hps|
+aviva uk:ae file transfer prv hps|
+aviva uk:ae file transfer sit hpb|
+aviva uk:ae file transfer tst hpb|
+aviva uk:ae file transfer uat hpb|
+aviva uk:af e-collections uat hpg|
+aviva uk:af message broker prd hpg|
+aviva uk:af mf exceed policy dev hpg|
+aviva uk:af mf exceed policy prd hpg|
+aviva uk:af mf exceed policy tst hpg|
+aviva uk:af mf exceed policy uat hpg|
+aviva uk:af oracle fin dev hpb|
+aviva uk:af oracle fin dev hpg|
+aviva uk:af oracle fin prd hpg|
+aviva uk:af oracle fin prd hps|
+aviva uk:af oracle fin pre hpb|
+aviva uk:af oracle fin tst hpb|
+aviva uk:af support dev hpb|
+aviva uk:af support prd hpg|
+aviva uk:af support prd hps|
+aviva uk:af support pre hpb|
+aviva uk:af support tst hpb|
+aviva uk:af support uat hpb|
+aviva uk:af web service gateway dev hpb|
+aviva uk:af web service gateway dev hpg|
+aviva uk:af web service gateway prd hpg|
+aviva uk:af web service gateway prd hps|
+aviva uk:af web service gateway prd hps(x)|
+aviva uk:af web service gateway pre hpb|
+aviva uk:af web service gateway pre hpg|
+aviva uk:af web service gateway prv hpg|
+aviva uk:af web service gateway tst hpb|
+aviva uk:af web service gateway tst hpg|
+aviva uk:af web service gateway tst hps|
+aviva uk:af web service gateway uat hpb|
+aviva uk:af web service gateway uat hpg|
+aviva uk:af web service gateway uat hps|
+aviva uk:agc bucket hp hs|
+aviva uk:agency - ag dev hps|
+aviva uk:agency - ag prd hpg|
+aviva uk:agency - ag prd hpp|
+aviva uk:agency - cq  prd hpg|
+aviva uk:agency gii prd hpg|
+aviva uk:agency gii prd hpp|
+aviva uk:agency gii tst hpg|
+aviva uk:agency gii uat hpg|
+aviva uk:agency master dev hps|
+aviva uk:agency master prd hpp|
+aviva uk:agency master uat hps|
+aviva uk:agreement esb (ukl) dev hps|
+aviva uk:agreement esb (ukl) prd hpg|
+aviva uk:agreement esb (ukl) pre hpg|
+aviva uk:agreement esb (ukl) prv hps|
+aviva uk:agreement esb (ukl) sit hps|
+aviva uk:agreement esb (ukl) tst hps|
+aviva uk:agreement esb (ukl) uat hps|
+aviva uk:agreement wps (ukl) dev hpb|
+aviva uk:agreement wps (ukl) dev hps|
+aviva uk:agreement wps (ukl) prd hpg|
+aviva uk:agreement wps (ukl) pre hpb|
+aviva uk:agreement wps (ukl) pre hpg|
+aviva uk:agreement wps (ukl) prv hps|
+aviva uk:agreement wps (ukl) sit hps|
+aviva uk:agreement wps (ukl) tst hps|
+aviva uk:agreement wps (ukl) uat hps|
+aviva uk:ai ftp prd hpg|
+aviva uk:ai ftp uat0 hpb|
+aviva uk:ai ftp uat1 hpb|
+aviva uk:ai ftp uat2 hpb|
+aviva uk:ai ftp uat3 hpb|
+aviva uk:ai ftp uatr hpb|
+aviva uk:ai hub schema prd hpg|
+aviva uk:ai hub schema uat hpb|
+aviva uk:ai temp build hpb|
+aviva uk:aia business applications npe hpb|
+aviva uk:aia business applications prd hps|
+aviva uk:aia ctx npe hpb|
+aviva uk:aia ctx prd hps|
+aviva uk:aia hp applications npe hpb|
+aviva uk:aia hp applications prd hps|
+aviva uk:aladdin genie prd hpg|
+aviva uk:alps (ukl prot) dev hps|
+aviva uk:alps (ukl prot) prd hpg|
+aviva uk:alps (ukl prot) pre hpg|
+aviva uk:alps (ukl prot) prv hpg|
+aviva uk:alps (ukl prot) sit hps|
+aviva uk:alps (ukl prot) tst hps|
+aviva uk:alps (ukl prot) uat hps|
+aviva uk:altiris prd hpb|
+aviva uk:altiris prd hps|
+aviva uk:altiris tst hps|
+aviva uk:amos ic tool dev hps|
+aviva uk:amos ic tool prd hps|
+aviva uk:annuity (ar) prd hpg|
+aviva uk:annuity (ar) prd hpp|
+aviva uk:annuity payments dev hpg|
+aviva uk:annuity payments prd hpg|
+aviva uk:annuity valuation prd hpg|
+aviva uk:anti virus prd hpb|
+aviva uk:anti virus prd hpb(x)|
+aviva uk:anti virus prd hpg|
+aviva uk:anti virus prd hpg(x)|
+aviva uk:anti virus prd hps|
+aviva uk:anti virus prd hps(x)|
+aviva uk:ap sitefinity db prd hpg|
+aviva uk:aperture dev hps|
+aviva uk:aperture tst hpb|
+aviva uk:aperture tst hps|
+aviva uk:appdna prd hpb|
+aviva uk:appdna prd hps|
+aviva uk:application catalogue prd hps|
+aviva uk:appsense prd hps|
+aviva uk:appsense prd hps(x)|
+aviva uk:appsense tst hps|
+aviva uk:aprimo relationship mgt (cyclops) prd hpb|
+aviva uk:aprimo relationship mgt (cyclops) prd hps(x)|
+aviva uk:aprimo relationshp mgt (cyclops) tst hpb|
+aviva uk:aqe magnum dev hpb|
+aviva uk:aqe magnum prd hps|
+aviva uk:aqe magnum pre hps|
+aviva uk:aqe magnum sit hpb|
+aviva uk:aqe magnum tst hpb|
+aviva uk:aqe magnum uat hpb|
+aviva uk:aquadata dev hps|
+aviva uk:aquadata prd hpp|
+aviva uk:aquadata uat hps|
+aviva uk:aquarius dev hps|
+aviva uk:aquarius prd hpg|
+aviva uk:aquarius prd hpp|
+aviva uk:aquarius uat hps|
+aviva uk:aquila administrator dev hpg|
+aviva uk:aquila administrator tst hpb|
+aviva uk:aquila dev hpg|
+aviva uk:aquila prd hpp|
+aviva uk:aquila tst hpg|
+aviva uk:arc-gis dev hpb|
+aviva uk:arc-gis poc hpb|
+aviva uk:arcsight prd hpb|
+aviva uk:arcsight prd hpg|
+aviva uk:argus (ai) prd hpg|
+aviva uk:argus (ai) uat2 hpb|
+aviva uk:aria dev hps|
+aviva uk:aria prd hpg|
+aviva uk:aria uat hpg|
+aviva uk:aries (ukgi) dev hps|
+aviva uk:aries (ukgi) prd hpp|
+aviva uk:aries (ukgi) uat hps|
+aviva uk:aries (ukl) dev hps|
+aviva uk:aries (ukl) prd hpb|
+aviva uk:aries (ukl) prd hps|
+aviva uk:art2 prd hps|
+aviva uk:asc dev hpg(x)|
+aviva uk:asc dev hps(x)|
+aviva uk:asc extranet dev hpb|
+aviva uk:asc extranet dev hpg|
+aviva uk:asc extranet dev hps|
+aviva uk:asc extranet prd hpg|
+aviva uk:asc extranet prd hps|
+aviva uk:asc extranet pre hpb|
+aviva uk:asc extranet pre hpg|
+aviva uk:asc extranet pre hps|
+aviva uk:asc extranet prv hpg|
+aviva uk:asc extranet prv hps|
+aviva uk:asc extranet sit hpb|
+aviva uk:asc extranet sit hps|
+aviva uk:asc extranet sql dev hpb|
+aviva uk:asc extranet sql prd hpg|
+aviva uk:asc extranet sql pre hpg|
+aviva uk:asc extranet sql pre hps|
+aviva uk:asc extranet sql prv hpb|
+aviva uk:asc extranet sql prv hpg|
+aviva uk:asc extranet sql prv hps|
+aviva uk:asc extranet sql sit hpb|
+aviva uk:asc extranet sql sit hps|
+aviva uk:asc extranet sql tst hps|
+aviva uk:asc extranet sql uat hpb|
+aviva uk:asc extranet tst hpb|
+aviva uk:asc extranet tst hps|
+aviva uk:asc extranet uat hpb|
+aviva uk:asc extranet uat hps|
+aviva uk:asc intranet dev hpb|
+aviva uk:asc intranet prd hps|
+aviva uk:asc intranet tst hpb|
+aviva uk:asc intranet uat hps|
+aviva uk:asc magnum dev hpb|
+aviva uk:asc magnum dev hps|
+aviva uk:asc magnum prd hps|
+aviva uk:asc magnum pre hps|
+aviva uk:asc magnum prv hps|
+aviva uk:asc magnum sit hpb|
+aviva uk:asc magnum tst hpb|
+aviva uk:asc magnum uat hpb|
+aviva uk:asc mq dev hpb|
+aviva uk:asc mq dev hps|
+aviva uk:asc mq prd hps|
+aviva uk:asc mq pre hps|
+aviva uk:asc mq sit hpb|
+aviva uk:asc mq sit hps|
+aviva uk:asc mq tst hpb|
+aviva uk:asc mq tst hps|
+aviva uk:asc mq uat hpb|
+aviva uk:asc mq uat hps|
+aviva uk:asc outbound dev hpb|
+aviva uk:asc outbound dev hps|
+aviva uk:asc outbound prd hps|
+aviva uk:asc outbound pre hpb|
+aviva uk:asc outbound pre hps|
+aviva uk:asc outbound prv hpb|
+aviva uk:asc outbound prv hps|
+aviva uk:asc outbound sit hpb|
+aviva uk:asc outbound tst hpb|
+aviva uk:asc outbound uat hpb|
+aviva uk:asc prd hpg|
+aviva uk:asc prd hps|
+aviva uk:asc pre hpb|
+aviva uk:asc uat hpg|
+aviva uk:asc uat hpp|
+aviva uk:asc uat hps|
+aviva uk:aspnetap db prd hpg|
+aviva uk:aspstateap db prd hpg|
+aviva uk:assetpro prd hpg|
+aviva uk:assyst 6.6 prd hpg|
+aviva uk:assyst 6.6 pre hpg|
+aviva uk:assyst 6.6 tst hpg|
+aviva uk:assyst 6.6 uat hpg|
+aviva uk:assyst cmdb gateway dev hpb|
+aviva uk:assyst cmdb gateway prd hps|
+aviva uk:assyst collector dev hpb|
+aviva uk:assyst collector prd hps|
+aviva uk:assyst contact user feed prd hpb|
+aviva uk:assyst contact user feed prd hpg|
+aviva uk:assyst contact user feed prd hpg(x)|
+aviva uk:assyst contact user feed prd hps|
+aviva uk:assyst dev hpb|
+aviva uk:assyst discovery 1.7 prd hpg(x)|
+aviva uk:assyst discovery 1.7 prd hps|
+aviva uk:assyst dw bridge dev hpb|
+aviva uk:assyst dw bridge dev hps|
+aviva uk:assyst dw bridge prd hpg|
+aviva uk:assyst import processor dev hpb|
+aviva uk:assyst import processor prd hps|
+aviva uk:assyst import processor prd hps(x)|
+aviva uk:assyst import processor pre hpb|
+aviva uk:assyst net pre hps|
+aviva uk:assyst prd hpg|
+aviva uk:assyst pre hpb|
+aviva uk:assyst pre hpg|
+aviva uk:assyst reporting prd hps|
+aviva uk:assyst tst hpb|
+aviva uk:assyst tst hpg|
+aviva uk:assyst uat hpb|
+aviva uk:assyst websphere application dev hpb|
+aviva uk:assyst websphere application prd hps|
+aviva uk:assyst websphere application pre hpb|
+aviva uk:assyst websphere application tst hpb|
+aviva uk:asu dev hpg|
+aviva uk:asu prd hpg|
+aviva uk:athena prd hps|
+aviva uk:authentication prd hpg|
+aviva uk:autocad prd hps|
+aviva uk:autodaf prd hps|
+aviva uk:autoenrolment db dev hpg|
+aviva uk:autoenrolment db prd hpg|
+aviva uk:autoenrolment fileshare dev hps|
+aviva uk:autoenrolment fileshare prd hpb|
+aviva uk:autoenrolment fileshare prd hps|
+aviva uk:aviva card secure dev hps|
+aviva uk:aviva card secure prd hpg|
+aviva uk:aviva card secure prd hps|
+aviva uk:aviva card secure pre hpg|
+aviva uk:aviva card secure pre hps|
+aviva uk:aviva card secure sit hpb|
+aviva uk:aviva card secure sit hps|
+aviva uk:aviva card secure tst hpb|
+aviva uk:aviva card secure tst hps|
+aviva uk:aviva card secure uat hpb|
+aviva uk:aviva card secure uat hps|
+aviva uk:aviva dr remedial tst hpb|
+aviva uk:aviva firewall prd hpg|
+aviva uk:aviva firewall prd hps|
+aviva uk:aviva sw license manager sql db prd hpb|
+aviva uk:aviva world prd hpb|
+aviva uk:aviva-shareprice dev hps|
+aviva uk:aviva-shareprice prd hps|
+aviva uk:axis (ukl) dev hpb|
+aviva uk:axis (ukl) prd hpb|
+aviva uk:axis (ukl) prd hpg|
+aviva uk:axis (ukl) prd hps|
+aviva uk:axis (ukl) pre hpb|
+aviva uk:axis (ukl) pre hpg|
+aviva uk:axis (ukl) pre hps|
+aviva uk:axis (ukl) tst hpb|
+aviva uk:axis (ukl) uat hpb|
+aviva uk:axis (ukl) uat hps|
+aviva uk:axis framework (ukgi) uat hpb fmo|
+aviva uk:axis framework (ukgi) uat hps- fmo|
+aviva uk:back up and storage infra (ai) npe hpb|
+aviva uk:back up and storage infra (ai) prd hpg|
+aviva uk:back up and storage infra (ai) prd hps|
+aviva uk:backup management prd hpb|
+aviva uk:backup management prd hpg|
+aviva uk:backup management prd hpp|
+aviva uk:backup management prd hps|
+aviva uk:bacs control dev hpg|
+aviva uk:bacs control dev hps|
+aviva uk:bacs control prd hpg|
+aviva uk:bacs control prd hpp|
+aviva uk:bacs prd hpp|
+aviva uk:bank address prd hpp|
+aviva uk:bankline prd hpg|
+aviva uk:barclays pa q&a prosper b2b hpg|
+aviva uk:barclays pwss cp dev hpb|
+aviva uk:barclays pwss cp prd hps|
+aviva uk:barclays pwss cp pre hpg|
+aviva uk:barclays pwss cp pre hps|
+aviva uk:barclays pwss cp prv hps|
+aviva uk:barclays pwss cp tst hpb|
+aviva uk:barclays pwss cp tst hps|
+aviva uk:barclays pwss cp uat hpb|
+aviva uk:barclays pwss cp uat hps|
+aviva uk:barclays travel ava dev hpb|
+aviva uk:barclays travel ava sit hpb|
+aviva uk:barclays travel ava uat hpb|
+aviva uk:barclays travel cp dev hpb|
+aviva uk:barclays travel cp prd hps|
+aviva uk:barclays travel cp tst hpb|
+aviva uk:barra prd hpg|
+aviva uk:barra uat3 hpb|
+aviva uk:bas db dev hps|
+aviva uk:bas db prd hpg|
+aviva uk:bas db pre hpg|
+aviva uk:bas db sit hps|
+aviva uk:bas db tst hps|
+aviva uk:bas db uat hps|
+aviva uk:base rate tracker dev hpb|
+aviva uk:base rate tracker dev hps|
+aviva uk:base rate tracker prd hps|
+aviva uk:base rate tracker prd hps(x)|
+aviva uk:base rate tracker pre hps|
+aviva uk:base rate tracker pre hps(x)|
+aviva uk:base rate tracker tst hpb|
+aviva uk:base rate tracker tst hps|
+aviva uk:base rate tracker uat hps|
+aviva uk:base rate tracker uat hps(x)|
+aviva uk:basware dev hpb|
+aviva uk:basware prd hpb|Transformed
+aviva uk:basware prd hpg|
+aviva uk:basware uat3 hpb|
+aviva uk:bdr dev hpb|
+aviva uk:bdr prd hpg|
+aviva uk:bdr uat3 hpb|
+aviva uk:bils prd hpg|
+aviva uk:bis/vpc dev hpb|
+aviva uk:bis/vpc dev hpg|
+aviva uk:bis/vpc prd hpg|
+aviva uk:biu dev hpg|
+aviva uk:biu dev hps|
+aviva uk:biu dev hps(x)|
+aviva uk:biu prd hpg|
+aviva uk:biu tst hpb|
+aviva uk:biu tst hps|
+aviva uk:biu tst hps(x)|
+aviva uk:blackberry dev hps|
+aviva uk:blackberry enterprise services 10 prd hpg|
+aviva uk:blackberry enterprise services 10 prd hps|
+aviva uk:blackberry notes prd hpg|
+aviva uk:blackberry notes prd hps|
+aviva uk:bladelogic dev hpb|
+aviva uk:bladelogic prd hpg|
+aviva uk:bladelogic tst hpb|
+aviva uk:blast dev hps|
+aviva uk:blast prd hpg|
+aviva uk:blast prd hpp|
+aviva uk:blast uat hps|
+aviva uk:bmi db dev hps|
+aviva uk:bmi db prd hpg|
+aviva uk:bmi db pre hpg|
+aviva uk:bmi db sit hps|
+aviva uk:bmi db tst hps|
+aviva uk:bmi db uat hps|
+aviva uk:bmmi dev hps|
+aviva uk:bmmi prd hpp|
+aviva uk:bmmi tst hps|
+aviva uk:bmmi uat hps|
+aviva uk:bob dev hpb|
+aviva uk:bob prd hpg|
+aviva uk:bob uat0 hps|
+aviva uk:bob uat1 hps|
+aviva uk:bob uat2 hps|
+aviva uk:bob uat3 hps|
+aviva uk:bob uatr hps|
+aviva uk:box loss prd hps|
+aviva uk:box management dev hpb|
+aviva uk:box management dev hps|
+aviva uk:box management prd hpg|
+aviva uk:box management prd hpg(x)|
+aviva uk:bps dev hpg|
+aviva uk:bps prd hpg|
+aviva uk:bps uat hpg|
+aviva uk:branch management prd hpb|
+aviva uk:branch management prd hpb(x)|
+aviva uk:branch management prd hps|
+aviva uk:branch reference prd hpg|
+aviva uk:bre (life) dev hpg|
+aviva uk:bre (life) prd hpg|
+aviva uk:bre (life) prd hpg(x)|
+aviva uk:bre (life) prd hpp|
+aviva uk:bre (life) pre hpg|
+aviva uk:bre (life) sit hpg|
+aviva uk:bre (life) tst hpg|
+aviva uk:bre (life) uat hpg|
+aviva uk:bre (life) uat hps|
+aviva uk:bre (ukhe) dev hpb|
+aviva uk:bre (ukhe) dev hpb(x)|
+aviva uk:bre (ukhe) dev hpg|
+aviva uk:bre (ukhe) dev hpg(x)|
+aviva uk:bre (ukhe) dev hps|
+aviva uk:bre (ukhe) dev2 hps|
+aviva uk:bre (ukhe) prd hpg|
+aviva uk:bre (ukhe) prd hpg(x)|
+aviva uk:bre (ukhe) pre hpb|
+aviva uk:bre (ukhe) pre hpg|
+aviva uk:bre (ukhe) pre hpg(x)|
+aviva uk:bre (ukhe) sit hpg|
+aviva uk:bre (ukhe) trn hps|
+aviva uk:bre (ukhe) tst hpg|
+aviva uk:bre (ukhe) uat hpg|
+aviva uk:bre (ukhe) uat hps|
+aviva uk:bt phone disc dev hps|
+aviva uk:bt phone disc prd hps|
+aviva uk:build forge (ukl) prd hps|
+aviva uk:build forge dev hps|
+aviva uk:build forge prd hpg|
+aviva uk:build management dev hpb|
+aviva uk:build management prd hps|
+aviva uk:build management prd hps(x)|
+aviva uk:build management tst hps|
+aviva uk:bundl dev hps|
+aviva uk:bundl prd hpp|
+aviva uk:bundl uat hps|
+aviva uk:business event publisher perf hpg|
+aviva uk:business event publisher prd hpg|
+aviva uk:business objects (agc) dev hpb|
+aviva uk:business objects (agc) dev hpg|
+aviva uk:business objects (agc) dev hps|
+aviva uk:business objects (agc) prd hpg|
+aviva uk:business objects (agc) prd hps|
+aviva uk:business objects (agc) pre hpb|
+aviva uk:business objects (agc) pre hpg|
+aviva uk:business objects (agc) pre hps|
+aviva uk:business objects (agc) tst hpb|
+aviva uk:business objects (agc) tst hpg|
+aviva uk:business objects (agc) tst hps|
+aviva uk:business objects (ai) prd hpg|
+aviva uk:business objects (ai) uat1 hpb|
+aviva uk:business objects (life) dev hpb|
+aviva uk:business objects (life) dev hpg|
+aviva uk:business objects (life) dev hpg(x)|
+aviva uk:business objects (life) dev hps|
+aviva uk:business objects (life) prd hpg|
+aviva uk:business objects (life) prd hpg(x)|
+aviva uk:business objects (life) prd hps|
+aviva uk:business objects (life) prd hps(x)|
+aviva uk:business objects (life) tst hps|
+aviva uk:business objects (life) uat hpb|
+aviva uk:business objects (life) uat hps(x)|
+aviva uk:business objects (ukgi) dev hpg|
+aviva uk:business objects (ukgi) dev hps|
+aviva uk:business objects (ukgi) dev hps(x)|
+aviva uk:business objects (ukgi) prd hpg|
+aviva uk:business objects (ukgi) prd hpg(x)|
+aviva uk:business objects (ukgi) prd hps(x)|
+aviva uk:business objects (ukgi) tst hps|
+aviva uk:business objects prd hps(x)|
+aviva uk:business objects tst hpb|
+aviva uk:business objects tst hps|
+aviva uk:business process capture dev hpb|
+aviva uk:business process capture prd hpb|
+aviva uk:business process capture tst hpb|
+aviva uk:business process catalogue prd hps|
+aviva uk:cac - commission allocation prd hpg|
+aviva uk:cadiary prd hps|
+aviva uk:cadis dev hpb|
+aviva uk:cafm explorer prd hpg|
+aviva uk:cafm explorer prd hps|
+aviva uk:cafm explorer prd hps(x)|
+aviva uk:cafm explorer tst hps(x)|
+aviva uk:callibrand prd hpb|
+aviva uk:capes db prd hpg|
+aviva uk:capes dev hpb|
+aviva uk:capes dev hpg|
+aviva uk:capes dev hps|
+aviva uk:capes prd hpg|
+aviva uk:capes prd hpg(x)|
+aviva uk:capes prd hpp|
+aviva uk:capes prd hps|
+aviva uk:capes prd hps(x)|
+aviva uk:capes pre hpb|
+aviva uk:capes pre hps|
+aviva uk:capes sit hpb|
+aviva uk:capes tst hpb|
+aviva uk:capes uat hpb|
+aviva uk:capes uat hpg|
+aviva uk:cardinus dev hpg|
+aviva uk:cardinus dev hps|
+aviva uk:cardinus prd hpg|
+aviva uk:cardinus prd hps|
+aviva uk:cardmaster dev hps|
+aviva uk:cardmaster prd hpp|
+aviva uk:cardmaster pre hps|
+aviva uk:cardmaster sit hps|
+aviva uk:cardmaster tst hps|
+aviva uk:cardmaster uat hps|
+aviva uk:cashrec prd hpg|
+aviva uk:cc lookup dev hpb|
+aviva uk:cc lookup prd hps|
+aviva uk:cca norwich dev hps|
+aviva uk:cca norwich prd hpp|
+aviva uk:cca norwich tst hps|
+aviva uk:cca norwich uat hps|
+aviva uk:ccd marketing prd hpg|
+aviva uk:ccd sales - rbs prd hpg|
+aviva uk:cch central prd hps|
+aviva uk:ccm prd hps|
+aviva uk:ccm prd hps(x)|
+aviva uk:ccm tst hpb|
+aviva uk:cedreq prd hpg|
+aviva uk:centennial 2005 (server) prd hps|
+aviva uk:centennial 2005 dev hps|
+aviva uk:centennial 2005 prd hps|
+aviva uk:central coding prd hpg|
+aviva uk:central record keeping prd hpg|
+aviva uk:cffe dev hps|
+aviva uk:cffe prd hpg|
+aviva uk:cffe prd hpp|
+aviva uk:cffe uat hps|
+aviva uk:check point provider prd hpb|
+aviva uk:check point smartcnsle prd hpb|
+aviva uk:cheetah mail dev hpb|
+aviva uk:cheetah mail dev hpb(x)|
+aviva uk:cheetah mail prd hps|
+aviva uk:citrix infrastructure (ai) prd hps|
+aviva uk:claims history lookup dev hps|
+aviva uk:claims history lookup prd hpp|
+aviva uk:claims history lookup uat hps|
+aviva uk:click on a doc dev hps|
+aviva uk:click on a doc prd hpg|
+aviva uk:click on a doc pre hps|
+aviva uk:click on a doc sit hps|
+aviva uk:click on a doc tst hps|
+aviva uk:click on a doc uat hps|
+aviva uk:client dev hpg|
+aviva uk:client prd hpg|
+aviva uk:cma prd hpb|
+aviva uk:cmis dev hpb|
+aviva uk:cmis prd hpg|
+aviva uk:cmis prd hps|
+aviva uk:cmlp policy tracking dev hps|
+aviva uk:cmlp policy tracking prd hpp|
+aviva uk:cmlp policy tracking uat hps|
+aviva uk:coast trading tool dev hpb|
+aviva uk:coast trading tool dev hps|
+aviva uk:coast trading tool prd hps|
+aviva uk:coast trading tool prd hps(x)|
+aviva uk:coast trading tool tst hpb|
+aviva uk:commercial ari dev hps|
+aviva uk:commercial ari prd hpp|
+aviva uk:commercial ari uat hps|
+aviva uk:commercial flood dev hps|
+aviva uk:commercial flood prd hpp|
+aviva uk:commercial flood uat hps|
+aviva uk:commercial vision ebroker prd hpg|
+aviva uk:commercial vision ebroker pre hpg|
+aviva uk:commercial vision prd hpg|
+aviva uk:commercial vision prd hps|
+aviva uk:commercial vision prd hpu|
+aviva uk:commercial vision pre hpu|
+aviva uk:commercial vision tst hpb|
+aviva uk:common esb (ukl) dev hpb|
+aviva uk:common esb (ukl) dev hps|
+aviva uk:common esb (ukl) prd hpg|
+aviva uk:common esb (ukl) pre hpb|
+aviva uk:common esb (ukl) pre hpg|
+aviva uk:common esb (ukl) prv hpb|
+aviva uk:common esb (ukl) prv hpg|
+aviva uk:common esb (ukl) prv hps|
+aviva uk:common esb (ukl) sit hpb|
+aviva uk:common esb (ukl) sit hps|
+aviva uk:common esb (ukl) tst hpb|
+aviva uk:common esb (ukl) tst hps|
+aviva uk:common esb (ukl) uat hpb|
+aviva uk:common esb (ukl) uat hps|
+aviva uk:common performance mart dev hps|
+aviva uk:common performance mart tst hps|
+aviva uk:common store prd hpb|
+aviva uk:common wps (ukl) dev hpb|
+aviva uk:common wps (ukl) dev hps|
+aviva uk:common wps (ukl) prd hpg|
+aviva uk:common wps (ukl) pre hpg|
+aviva uk:common wps (ukl) prv hps|
+aviva uk:common wps (ukl) sit hps|
+aviva uk:common wps (ukl) tst hps|
+aviva uk:common wps (ukl) uat hps|
+aviva uk:commonstore dev hpb|
+aviva uk:complex commercial price calc dev hpb|
+aviva uk:complex commercial price calc prd hps|
+aviva uk:complex commercial price calc pre hpb|
+aviva uk:complex commercial price calc pre hps|
+aviva uk:complex commercial price calc prv hps|
+aviva uk:complex commercial price calc tst hpb|
+aviva uk:complex commercial price calc uat hpb|
+aviva uk:confluence prd hps|
+aviva uk:confluence tst hpb|
+aviva uk:confluence tst hps|
+aviva uk:connect direct cgu prd hps|
+aviva uk:connect direct dev hps|
+aviva uk:connect direct prd hpb|
+aviva uk:connect direct prd hpg|
+aviva uk:connect direct prd hps|
+aviva uk:connect direct prd hps(x)|
+aviva uk:connect direct prophet prd hps|
+aviva uk:connect direct ramsey dev hps|
+aviva uk:connect direct ramsey prd hps|
+aviva uk:connect direct ramsey tst hps|
+aviva uk:connect direct tst hpg|
+aviva uk:connect direct tst hps|
+aviva uk:connect direct via prd hpg|
+aviva uk:connect direct via prd hps|
+aviva uk:consumer online quotes data store prd hps|
+aviva uk:contact management system dev hps|
+aviva uk:contact management system prd hps|
+aviva uk:content manager (ukhe) dev hpg|
+aviva uk:content manager (ukhe) dev hps|
+aviva uk:content manager (ukhe) dev hps(x)|
+aviva uk:content manager (ukhe) mod hpg|
+aviva uk:content manager (ukhe) prd hpg|
+aviva uk:content manager (ukhe) prd hpg(x)|
+aviva uk:content manager (ukhe) prd hpp|
+aviva uk:content manager (ukhe) pre hpg|
+aviva uk:content manager (ukhe) pre hps|
+aviva uk:content manager (ukhe) sit hpg|
+aviva uk:content manager (ukhe) sit hps|
+aviva uk:content manager (ukhe) trn hpg|
+aviva uk:content manager (ukhe) trn hps|
+aviva uk:content manager (ukhe) uat hpg|
+aviva uk:content manager (ukhe) uat hps|
+aviva uk:content manager dev hpb|
+aviva uk:content manager dev hps|
+aviva uk:content manager prd hpg(x)|
+aviva uk:content manager prd hpp|
+aviva uk:content manager prd hps|
+aviva uk:content manager prd hps(x)|
+aviva uk:content manager pre hpb|
+aviva uk:content manager sit hpb|
+aviva uk:content manager tst hpb|
+aviva uk:content manager tst hps|
+aviva uk:content manager uat hpb|
+aviva uk:content manager uat hps|
+aviva uk:contingency legal direct prd hps|
+aviva uk:contingency proctor prd hps|
+aviva uk:contingency solicitors prd hps|
+aviva uk:contract gateway dev hpg|
+aviva uk:contract gateway dev hps|
+aviva uk:contract gateway prd hpp|
+aviva uk:contract gateway sit hps|
+aviva uk:contract gateway tst hps|
+aviva uk:contract gateway uat hps|
+aviva uk:conviction categories dev hps|
+aviva uk:conviction categories prd hps|
+aviva uk:coots development dev hps|
+aviva uk:corp gpp tracker dev hpg|
+aviva uk:corpal dev hpb|
+aviva uk:corpal dev hpg|
+aviva uk:corpal dev hps|
+aviva uk:corpal prd hpg|
+aviva uk:corpdata dev hps|
+aviva uk:corpdata prd hpp|
+aviva uk:corpdata uat hps|
+aviva uk:corporate admin system dev hpb|
+aviva uk:corporate admin system dev hpg|
+aviva uk:corporate admin system prd hpg|
+aviva uk:corporate admin system prd hpg(x)|
+aviva uk:corporate admin system prd hpp|
+aviva uk:corporate admin system prd hps|
+aviva uk:corporate admin system pre hpg|
+aviva uk:corporate admin system pre hps|
+aviva uk:corporate admin system trn hpb|
+aviva uk:corporate admin system trn hpg|
+aviva uk:corporate admin system uat hpb|
+aviva uk:corporate admin system uat hpg|
+aviva uk:corporate admin system uat hps|
+aviva uk:corporate pension portal dev hpg|
+aviva uk:corporate pension portal dev hps|
+aviva uk:corporate pension portal prd hpg|
+aviva uk:corporate pension portal prd hpp|
+aviva uk:corporate pension portal prd hps|
+aviva uk:corporate pension portal pre hpg|
+aviva uk:corporate pension portal pre hpp|
+aviva uk:corporate pension portal pre hps|
+aviva uk:corporate pension portal tst hpg|
+aviva uk:corporate pension portal uat hpg|
+aviva uk:corporate pension portal uat hps|
+aviva uk:corporate vision dev hps|
+aviva uk:corporate vision prd hpg|
+aviva uk:corporate vision prd hps(x)|
+aviva uk:corporate vision pre hps(x)|
+aviva uk:corporate vision tst hps|
+aviva uk:corvu pre hps|
+aviva uk:corvu tst hpb|
+aviva uk:cosmic claims dev hpb|
+aviva uk:cosmic claims dev hpg|
+aviva uk:cosmic claims dev hps|
+aviva uk:cosmic claims prd hpb|
+aviva uk:cosmic claims prd hpg|
+aviva uk:cosmic claims prd hpp|
+aviva uk:cosmic claims prd hps|
+aviva uk:cosmic claims prd hps(x)|
+aviva uk:cosmic claims pre hpg|
+aviva uk:cosmic claims sit hpb|
+aviva uk:cosmic claims tst hpb|
+aviva uk:cosmic claims tst hpb(x)|
+aviva uk:cosmic claims tst hpg|
+aviva uk:cosmic claims tst hps|
+aviva uk:cosmic claims uat hpb|
+aviva uk:cosmic claims uat hpg|
+aviva uk:cover note dev hps|
+aviva uk:cover note prd hpp|
+aviva uk:cover note uat hps|
+aviva uk:coverity dev hpb|
+aviva uk:coverity prd hpb|
+aviva uk:cpl dev hpb(x)|
+aviva uk:cpl dev hps|
+aviva uk:cpl prd hpg(x)|
+aviva uk:cpl prd hps|
+aviva uk:cpl pre hpg(x)|
+aviva uk:cpl pre hps|
+aviva uk:cpl prv hpg(x)|
+aviva uk:cpl tst hps|
+aviva uk:cpl uat hps|
+aviva uk:cpl uat hps(x)|
+aviva uk:cps prd hpp|
+aviva uk:cps prd hps|
+aviva uk:cps tst hps|
+aviva uk:cps uat hps|
+aviva uk:cra cache prd hpg|
+aviva uk:cra cache pre hpg|
+aviva uk:cra cache pre hps|
+aviva uk:crab prd hps|
+aviva uk:credit collections dev hpb|
+aviva uk:credit collections pre hpb|
+aviva uk:credit collections tst hpb|
+aviva uk:credit collections uat hpb|
+aviva uk:credit portal prd hps|
+aviva uk:creditor dev hpb|
+aviva uk:creditor dev hpg|
+aviva uk:creditor dev hps|
+aviva uk:creditor diary dev hps|
+aviva uk:creditor diary prd hpp|
+aviva uk:creditor diary uat hps|
+aviva uk:creditor lifestyle dev hpb|
+aviva uk:creditor lifestyle dev hps|
+aviva uk:creditor lifestyle prd hps|
+aviva uk:creditor lifestyle pre hps|
+aviva uk:creditor lifestyle prv hpb|
+aviva uk:creditor lifestyle tst hpb|
+aviva uk:creditor lifestyle uat hpb|
+aviva uk:creditor prd hpb|
+aviva uk:creditor prd hpg|
+aviva uk:creditor prd hpp|
+aviva uk:creditor prd hps|
+aviva uk:creditor pre hpg|
+aviva uk:creditor pre hps|
+aviva uk:creditor prv hpg|
+aviva uk:creditor prv hps|
+aviva uk:creditor tst hpb|
+aviva uk:creditor tst hps|
+aviva uk:creditor tst hps(x)|
+aviva uk:creditor uat hpb|
+aviva uk:creditor uat hps|
+aviva uk:creditor uat hps(x)|
+aviva uk:cressida prd hps|
+aviva uk:cressida uat2 hpb|
+aviva uk:crisp dev hps|
+aviva uk:crisp prd hpg|
+aviva uk:crisp prd hpp|
+aviva uk:crisp uat hps|
+aviva uk:crm (ai) uat0 hpb|
+aviva uk:crm - icontact (ai) prd hpg|
+aviva uk:crm - icontact email router (ai) prd hpg|
+aviva uk:crs prd hpg|
+aviva uk:crystal reports uat hpb|
+aviva uk:cs bulk data download dev hps|
+aviva uk:cs bulk data download prd hps|
+aviva uk:cs bulk data download pre hps|
+aviva uk:cs bulk data download pre hps(x)|
+aviva uk:cs bulk data download pre hpu|
+aviva uk:cs bulk data download tst hpb|
+aviva uk:cs bulk data download tst hpb(x)|
+aviva uk:cs bulk data download uat hpb|
+aviva uk:cs bulk data download uat hps|
+aviva uk:cs heritage hand offs inbound prd hpg|
+aviva uk:cs heritage hand offs outbound prd hpg|
+aviva uk:csf (ukgi) prd hpp|
+aviva uk:csf (ukgi) tst hpp|
+aviva uk:csf (ukgi) uat hpp|
+aviva uk:csvt prd hpg|
+aviva uk:cuacs prd hpg|
+aviva uk:cuddacs prd hpg|
+aviva uk:culis prd hpg|
+aviva uk:cupas prd hpg|
+aviva uk:customer innovation centre mgt dev hpb|
+aviva uk:customer innovation centre mgt dev hpb(x)|
+aviva uk:customer innovation centre mgt dev hpg|
+aviva uk:customer innovation centre mgt dev hps|
+aviva uk:customer innovation centre mgt prd hps|
+aviva uk:customer innovation centre mgt uat hpb|
+aviva uk:customer innovation centre mgt uat hps|
+aviva uk:customer portal dev hpb|
+aviva uk:customer portal dev hpg|
+aviva uk:customer portal dev hps|
+aviva uk:customer portal prd hpg|
+aviva uk:customer portal pre hpg|
+aviva uk:customer portal pre hps|
+aviva uk:customer portal prv hpg|
+aviva uk:customer portal prv hpp|
+aviva uk:customer portal prv hps|
+aviva uk:customer portal sit hpb|
+aviva uk:customer portal sit hps|
+aviva uk:customer portal tst hpb|
+aviva uk:customer portal tst hps|
+aviva uk:customer portal uat hpb|
+aviva uk:customer portal uat hps|
+aviva uk:customer value management dev hpb|
+aviva uk:customer value management dev hpg|
+aviva uk:customer value management dev hps|
+aviva uk:customer value management prd hpg(x)|
+aviva uk:customer value management prd hps|
+aviva uk:customer value management tst hpb|
+aviva uk:customer value management tst hpg|
+aviva uk:cuword prd hpg|
+aviva uk:cvh dev hpb|
+aviva uk:cvh dev hpg|
+aviva uk:cvh dev hps|
+aviva uk:cvh prd hpg|
+aviva uk:cvh pre hpg|
+aviva uk:cvh pre hpg(x)|
+aviva uk:cvh pre hps|
+aviva uk:cvh prv hpg|
+aviva uk:cvh prv hps|
+aviva uk:cvh sit hpg|
+aviva uk:cvh tst hpb|
+aviva uk:cvh tst hps|
+aviva uk:cvh uat hpb|
+aviva uk:cvh uat hps|
+aviva uk:cvh uat hps(x)|
+aviva uk:cvm exclusions dev hpb|
+aviva uk:cvm exclusions dev hpg|
+aviva uk:cvm exclusions dev hps|
+aviva uk:cvm exclusions prd hps|
+aviva uk:cvm exclusions prd hps(x)|
+aviva uk:cvm mi ukgi prd hpb|
+aviva uk:cvm renewals dev hps|
+aviva uk:cvm tracker dev hpb|
+aviva uk:cvm tracker dev hps|
+aviva uk:cvm tracker prd hps|
+aviva uk:cvm tracker prd hps(x)|
+aviva uk:cvs appservers01 uka2 prd hps|
+aviva uk:cvs appservers01 uka2 pre hps|
+aviva uk:cvs appservers01 uki1 prd hps|
+aviva uk:cvs appservers01 uki1 pre hps|
+aviva uk:cvs appservers01 us01 prd hps|
+aviva uk:cvs appservers01 us01 pre hps|
+aviva uk:cvs code repository prd hps|
+aviva uk:cvs groupfinance01 uka2 prd hps|
+aviva uk:cvs groupfinance01 uka2 pre hps|
+aviva uk:cvs infrastructure norwich uka2 prd hps|
+aviva uk:cvs infrastructure norwich uka2 pre hps|
+aviva uk:cvs infrastructure norwich uki1 prd hps|
+aviva uk:cvs infrastructure norwich uki1 pre hps|
+aviva uk:cvs infrastructure us01 prd hps|
+aviva uk:cvs infrastructure us01 pre hps|
+aviva uk:cvs preprod01 us01 prd hps|
+aviva uk:cvs prophet01 uka2 prd hps|
+aviva uk:cvs prophet01 uka2 pre hps|
+aviva uk:cyber-ark eham prd hpg|
+aviva uk:cyber-ark epv prd hpg|
+aviva uk:cyber-ark epv uat hpb|
+aviva uk:cyber-ark prd hpg|
+aviva uk:cyber-ark pvwa prd hpg|
+aviva uk:cyber-ark pvwa uat hpb|
+aviva uk:cyber-ark uat1 hpb|
+aviva uk:cyclops dev hps(x)|
+aviva uk:cyclops prd hpg|
+aviva uk:dac - dividends & coupons prd hpg|
+aviva uk:dashboard dev hpg|
+aviva uk:dashboard dev hps|
+aviva uk:dashboard dev hps(x)|
+aviva uk:dashboard prd hpg|
+aviva uk:dashboard prd hpg(x)|
+aviva uk:dashboard prd hps|
+aviva uk:data area - shared prd hpg|
+aviva uk:data loss prd hpg|
+aviva uk:data management dev hpb|
+aviva uk:data management prd hpb(x)|
+aviva uk:data management prd hpg|
+aviva uk:data management prd hps|
+aviva uk:data management tst hps|
+aviva uk:data owners self service portal dev hps|
+aviva uk:data owners self service portal prd hps|
+aviva uk:data protector (ai) npe hpb|
+aviva uk:datacap dev hps|
+aviva uk:datacap prd hpg|
+aviva uk:datacap pre hps|
+aviva uk:datacap sit hps|
+aviva uk:datacap trn hps|
+aviva uk:datacap uat hps|
+aviva uk:datascore dev hpb|
+aviva uk:datascore prd hpg|
+aviva uk:datascore uat0 hps|
+aviva uk:datascore uat1 hps|
+aviva uk:datascore uatr hps|
+aviva uk:dave dev hps|
+aviva uk:dave prd hpp|
+aviva uk:dave uat hps|
+aviva uk:db2 claims mi (ukgi) prd hpp|
+aviva uk:dell open manage prd hpb|
+aviva uk:dell open manage prd hps|
+aviva uk:demand capture dev hpb|
+aviva uk:demand capture dev hpg|
+aviva uk:demand capture dev hps|
+aviva uk:demand capture prd hpg|
+aviva uk:demand capture prd hps|
+aviva uk:demand capture prd hps(x)|
+aviva uk:desktop mentor prd hps|
+aviva uk:desktop mentor uat hps|
+aviva uk:dhcp dev hpb|
+aviva uk:dhcp dev hps|
+aviva uk:dhs email confirmations prd hpg|
+aviva uk:dhs facility notification prd hpg|
+aviva uk:dhs hospitality suite prd hpg|
+aviva uk:dhs hospitality web prd hpg|
+aviva uk:dhs rolling meeting list prd hpg|
+aviva uk:dhs uat2 hpb|
+aviva uk:dhs user group manager prd hpg|
+aviva uk:dialogue (life) dev hps|
+aviva uk:dialogue (life) dev hps(x)|
+aviva uk:dialogue (life) prd hpg|
+aviva uk:dialogue (life) prd hpp|
+aviva uk:dialogue (life) prd hps|
+aviva uk:dialogue (life) pre hpg|
+aviva uk:dialogue (life) prv hpg|
+aviva uk:dialogue (life) tst hps|
+aviva uk:dialogue (life) tst hps(x)|
+aviva uk:dialogue (life) uat hps|
+aviva uk:dialogue (ukgi) dev hpg|
+aviva uk:dialogue (ukgi) dev hpg(x)|
+aviva uk:dialogue (ukgi) dev hps|
+aviva uk:dialogue (ukgi) prd hpg|
+aviva uk:dialogue (ukgi) prd hpp|
+aviva uk:dialogue (ukgi) pre hps|
+aviva uk:dialogue (ukgi) tst hps|
+aviva uk:dialogue (ukgi) uat hps|
+aviva uk:dialogue designer (life) prd hps|
+aviva uk:dialogue designer (life) prd hps fmo|
+aviva uk:diary prd hps|
+aviva uk:digital flood dev hpg|
+aviva uk:digital flood dev hps|
+aviva uk:digital flood prd hpg|
+aviva uk:direct sales systems prd hpg|
+aviva uk:disclosure management dev hpb|
+aviva uk:disclosure management prd hpg|
+aviva uk:disclosure management pre hps|
+aviva uk:distributed server management dev hpb|
+aviva uk:distributed server management prd hpb|
+aviva uk:distributed server management prd hpg|
+aviva uk:distributed server management prd hpg(x)|
+aviva uk:distributed server management prd hps|
+aviva uk:distributed server management prd hps(x)|
+aviva uk:distributed server management pre hpb|
+aviva uk:dmi prd hpg|
+aviva uk:dmi prd hps|
+aviva uk:dmi uat0 hpb|
+aviva uk:dmi uat0 hps|
+aviva uk:dmi uat1 hps|
+aviva uk:dmi uat2 hps|
+aviva uk:dmi uat3 hpb|
+aviva uk:dmi uatr hpb|
+aviva uk:dmi uatr hps|
+aviva uk:dms dev hps|
+aviva uk:dms prd hpp|
+aviva uk:dms tst hps|
+aviva uk:dms uat hps|
+aviva uk:dns prd hpg|
+aviva uk:doc gen prd hps|
+aviva uk:doc gen pre hps|
+aviva uk:doc gen uat hpg|
+aviva uk:doc gen uat hps|
+aviva uk:docucorp dev hpb|
+aviva uk:docucorp dev hpb(x)|
+aviva uk:docucorp prd hpg|
+aviva uk:docucorp prd hps|
+aviva uk:document capture prd hpg|
+aviva uk:document capture prd hpg(x)|
+aviva uk:document capture prd hps|
+aviva uk:document capture uat hps|
+aviva uk:document capture uat hps(x)|
+aviva uk:documentum dev hpb|
+aviva uk:documentum dev hps|
+aviva uk:documentum dev hps(x)|
+aviva uk:documentum prd hpg|
+aviva uk:documentum prd hpg(x)|
+aviva uk:documentum prd hps|
+aviva uk:documentum uat hpb|
+aviva uk:documentum uat hps|
+aviva uk:domain management dev hps|
+aviva uk:domain management prd hpb|
+aviva uk:domain management prd hpb(x)|
+aviva uk:domain management prd hps|Transformed
+aviva uk:domain management prd hps(x)|
+aviva uk:domain management pre hps|
+aviva uk:domain services dc prd hpb|
+aviva uk:domain services dc prd hpg|
+aviva uk:domino application dev hpb|
+aviva uk:domino application dev hps|
+aviva uk:domino application prd hpb|
+aviva uk:domino application prd hps|
+aviva uk:domino monitoring prd hps|
+aviva uk:dos winapps prd hpb|
+aviva uk:dos winapps prd hps|Transformed
+aviva uk:dos winapps prd hps(x)|
+aviva uk:double-take v4.5.0 prd hpb|
+aviva uk:doyle prd hpg|
+aviva uk:doyle uat hps|
+aviva uk:dp-exceed prd hps|
+aviva uk:dp-exceed warranty prd hpp|
+aviva uk:dp-hibernian prd hpg|
+aviva uk:dq informatica (ukl) dev hpb|
+aviva uk:dq informatica (ukl) prd hps|
+aviva uk:dq prd hpg|
+aviva uk:dr prd hpg|
+aviva uk:dsf portal dev hps|
+aviva uk:dsf portal prd hps|
+aviva uk:dsf portal uat hpb|
+aviva uk:dun & bradstreet cache prd hpg|
+aviva uk:dun & bradstreet cache pre hpg|
+aviva uk:dun & bradstreet cache pre hps|
+aviva uk:dvla dev hps|
+aviva uk:dvla prd hps|
+aviva uk:dynamic pricing dev hps|
+aviva uk:dynamic pricing prd hpg|
+aviva uk:dynamic pricing pre hps|
+aviva uk:dynamic pricing tst hps|
+aviva uk:e-collections dev hpb|
+aviva uk:e-collections dev hps|
+aviva uk:e-collections prd hpg|
+aviva uk:e-collections prd hps|
+aviva uk:e-collections pre hpg|
+aviva uk:e-collections pre hps|
+aviva uk:e-collections tst hpb|
+aviva uk:e-collections tst hps|
+aviva uk:e-collections uat hpg|
+aviva uk:e-collections uat hps|
+aviva uk:e-solar dev hps|
+aviva uk:e-solar dev hps(x)|
+aviva uk:e-solar prd hps(x)|
+aviva uk:e-solar pre hps|
+aviva uk:e-solar prv hpg|
+aviva uk:e-solar prv hps|
+aviva uk:e2e bridge unisure prd hpp|
+aviva uk:ea estate management db dev hpb|
+aviva uk:ecommerce managment dev hpb|
+aviva uk:ecommerce single sign on dev hpg|
+aviva uk:ecommerce single sign on dev hps|
+aviva uk:ecommerce single sign on prd hpg|
+aviva uk:ecommerce single sign on pre hpg|
+aviva uk:ecommerce single sign on prv hpg|
+aviva uk:ecommerce single sign on prv hps|
+aviva uk:ecommerce single sign on sit hps|
+aviva uk:ecommerce single sign on tst hps|
+aviva uk:ecommerce single sign on uat hps|
+aviva uk:edi agency prd hpg|
+aviva uk:edi gateway dev hps|
+aviva uk:edi gateway prd hps|
+aviva uk:edi gateway uat hpb|
+aviva uk:edi gateway uat hpg|
+aviva uk:edi gateway uat hpg(x)|
+aviva uk:edi gateway uat hps|
+aviva uk:edm dev hps|
+aviva uk:edm prd hpg|
+aviva uk:edm tst hpb|
+aviva uk:edw (ukgi) sit hpg|
+aviva uk:eee ae opt out prd hpg|
+aviva uk:efront multi manager dev hpb|
+aviva uk:efront multi manager prd hpg|
+aviva uk:efront multi manager uat2 hpb|
+aviva uk:eg operational intelligence prd hps|
+aviva uk:eg operational intelligence prd hps(x)|
+aviva uk:eg work manager dev hpg|
+aviva uk:eg work manager dev hps|
+aviva uk:eg work manager prd hpg|
+aviva uk:eg work manager prd hps(x)|
+aviva uk:eg work manager tst hps(x)|
+aviva uk:eg work manager uat hpg|
+aviva uk:eg work manager uat hps|
+aviva uk:ehealthpoint prd hpg|
+aviva uk:eip dev1 hps|
+aviva uk:eip eclient dev hps|
+aviva uk:eip eclient prd hpg|
+aviva uk:eip eclient pre hps|
+aviva uk:eip eclient sit hps|
+aviva uk:eip eclient trn hps|
+aviva uk:eip eclient uat hps|
+aviva uk:eip prd hpg|
+aviva uk:eip prd hps(x)|
+aviva uk:eip pre hps|
+aviva uk:eip sit hps|
+aviva uk:eip trn2 hps|
+aviva uk:eip uat hps|
+aviva uk:electronic collections dev hps|
+aviva uk:electronic collections prd hpp|
+aviva uk:electronic collections sit hps|
+aviva uk:electronic collections tst hps|
+aviva uk:electronic collections uat hps|
+aviva uk:electronic commission(ecs) prd hps|
+aviva uk:electronic commission(ecs) pre hps|
+aviva uk:electronic commission(ecs) pre hps(x)|
+aviva uk:electronic commission(ecs) tst hpb|
+aviva uk:electronic commission(ecs) tst hpb(x)|
+aviva uk:electronic commission(ecs) uat hps|
+aviva uk:emblem dev hps|
+aviva uk:emblem prd hps(x)|
+aviva uk:emerge holding project  prd hpb|
+aviva uk:emerge holding project dev hpb|
+aviva uk:emerge holding project prd hpb|
+aviva uk:emerge holding project uat hpb|
+aviva uk:emerge holding project uat hps|
+aviva uk:employer liability database dev hps|
+aviva uk:employer liability database prd hpp|
+aviva uk:emulation dev hpg|
+aviva uk:emulation prd hps|
+aviva uk:emulation uat hpg|
+aviva uk:engineers diary dev hpb|
+aviva uk:engineers diary dev hpg|
+aviva uk:engineers diary dev hps|
+aviva uk:engineers diary dev hps(x)|
+aviva uk:engineers diary prd hpg|
+aviva uk:engineers diary prd hpp|
+aviva uk:engineers diary prd hps|
+aviva uk:engineers diary pre hps|
+aviva uk:engineers diary pre hps(x)|
+aviva uk:enhanced data warehouse dev hps|
+aviva uk:enhanced data warehouse prd hpp|
+aviva uk:enhanced data warehouse tst hps|
+aviva uk:enquiries (eqs) prd hpg|
+aviva uk:enquiry systems (eq) prd hpg|
+aviva uk:enterprise architect prd hps|
+aviva uk:epayments dev hpg|
+aviva uk:epayments dev hps|
+aviva uk:epayments prd hpg|
+aviva uk:epic dev hpb|
+aviva uk:epic prd hps|
+aviva uk:epic pre hpb|
+aviva uk:epic pre hps|
+aviva uk:epic sit hpb|
+aviva uk:epic tst hpb|
+aviva uk:equity e cgt dev hps|
+aviva uk:equity e cgt prd hpg|
+aviva uk:equity e cgt prd hpg(x)|
+aviva uk:equity e cgt prd hps|
+aviva uk:equity e cgt tst hpb|
+aviva uk:eservices dev hpg|
+aviva uk:eservices dev hps|
+aviva uk:eservices prd hpg|
+aviva uk:eservices prd hs hps|
+aviva uk:eservices pre hpg|
+aviva uk:eservices tst hpb|
+aviva uk:eservices tst hps|
+aviva uk:esolar dev hpb|
+aviva uk:esolar prd hpg|
+aviva uk:esolar pre hps|
+aviva uk:esolar prv hpg|
+aviva uk:esolar prv hps|
+aviva uk:etl informatica (ukgi) dev hpb|
+aviva uk:etl informatica (ukgi) dev hpg|
+aviva uk:etl informatica (ukgi) prd hpg|
+aviva uk:etl informatica (ukgi) tst hpb|
+aviva uk:etl informatica (ukgi) tst hpg|
+aviva uk:etl informatica (ukgi) uat hpg|
+aviva uk:etl informatica (ukl) dev hpb|
+aviva uk:etl informatica (ukl) prd hpg|
+aviva uk:etl informatica (ukl) prd hpp|
+aviva uk:etl informatica (ukl) prd hps|
+aviva uk:etl informatica (ukl) pre hpb|
+aviva uk:etl informatica (ukl) tst hpb|
+aviva uk:etl informatica (ukl) uat hpb|
+aviva uk:etl informatica (ukl) uat hps|
+aviva uk:euclid pc prd hps|
+aviva uk:euclid pc uat hpb|
+aviva uk:eureka dev hps|
+aviva uk:eureka prd hps|
+aviva uk:eureka uat hps|
+aviva uk:exceed campaign manager dev hps|
+aviva uk:exceed campaign manager prd hpp|
+aviva uk:exceed campaign manager uat hps|
+aviva uk:exceed claims dev hpb|
+aviva uk:exceed claims dev hpb(x)|
+aviva uk:exceed claims dev hpg|
+aviva uk:exceed claims dev hpg(x)|
+aviva uk:exceed claims dev hps|
+aviva uk:exceed claims dev hps(x)|
+aviva uk:exceed claims prd hpb|Transformed
+aviva uk:exceed claims prd hpg|
+aviva uk:exceed claims prd hpg(x)|
+aviva uk:exceed claims prd hpp(x)|
+aviva uk:exceed claims prd hps|
+aviva uk:exceed claims prd hps(x)|
+aviva uk:exceed claims pre hpb|
+aviva uk:exceed claims pre hpg|
+aviva uk:exceed claims pre hpg(x)|
+aviva uk:exceed claims pre hps|
+aviva uk:exceed claims pre hps(x)|
+aviva uk:exceed claims trn hps|
+aviva uk:exceed claims trn hps(x)|
+aviva uk:exceed claims tst hpb|
+aviva uk:exceed claims tst hpg|
+aviva uk:exceed claims tst hps|
+aviva uk:exceed claims uat hpb|
+aviva uk:exceed claims uat hps|
+aviva uk:exceed claims uat hps(x)|
+aviva uk:exceed claims uat1 hps|
+aviva uk:exceed claims warranty prd hpb|
+aviva uk:exceed claims warranty prd hpp|
+aviva uk:exceed claims warranty prd hps(x)|
+aviva uk:exceed policy dev hpb|
+aviva uk:exceed policy dev hps|
+aviva uk:exceed policy prd hpg(x)|
+aviva uk:exceed policy prd hpp(x)|
+aviva uk:exceed policy prd hps|
+aviva uk:exceed policy prd hps(x)|
+aviva uk:exceed policy pre hpb|
+aviva uk:exceed policy pre hps|
+aviva uk:exceed policy pre hps(x)|
+aviva uk:exceed policy trn hps|
+aviva uk:exceed policy trn hps(x)|
+aviva uk:exceed policy tst hpb|
+aviva uk:exceed policy tst hps|
+aviva uk:exceed policy tst hps(x)|
+aviva uk:exceed policy uat hpb|
+aviva uk:exceed policy uat hps|
+aviva uk:exceed policy uat hps(x)|
+aviva uk:exceed policy warranty prd hpg|
+aviva uk:exceed policy warranty prd hpp|
+aviva uk:exceed policy warranty prd hps(x)|
+aviva uk:external email gateway prd hpg|
+aviva uk:external email prd hps|
+aviva uk:ez legacy prd hpb|
+aviva uk:ez source dev hpb|
+aviva uk:fast trade ios app prd hps|
+aviva uk:fcm openpages dev hpg|
+aviva uk:fcpm openpages prd hps|
+aviva uk:fdc prd hps|
+aviva uk:fia - fixed income attribution prd hpg|
+aviva uk:fia - fixed income attribution uat hpb|
+aviva uk:fidb prd hpg|
+aviva uk:file handling system dev hps|
+aviva uk:file handling system prd hpp|
+aviva uk:file handling system uat hps|
+aviva uk:file server prd hps|
+aviva uk:file server prd hps(x)|
+aviva uk:fileservices (ai) npe hpb|
+aviva uk:fileservices (ai) prd hpb|
+aviva uk:fin 02 lmg prd hps|
+aviva uk:fin 02 t5 lmg pre hps|
+aviva uk:fin 03 lmg prd hps|
+aviva uk:fin 03 t5 lmg pre hps|
+aviva uk:fin01 lmg prd hpb|
+aviva uk:fin01 lmg prd hps|
+aviva uk:finance data repository prd hpp|
+aviva uk:first direct home dev hpb|
+aviva uk:first direct home prd hpb|
+aviva uk:first direct home prd hps|
+aviva uk:first direct home pre hps|
+aviva uk:first direct home prv hps|
+aviva uk:first direct home tst hpb|
+aviva uk:first direct home uat hpb|
+aviva uk:first direct travel dev hpb|
+aviva uk:first direct travel prd hpb|
+aviva uk:first direct travel prd hps|
+aviva uk:first direct travel pre hps|
+aviva uk:first direct travel prv hps|
+aviva uk:first direct travel tst hpb|
+aviva uk:first direct travel uat hpb|
+aviva uk:fleet rmi dev hps|
+aviva uk:fleet rmi prd hpp|
+aviva uk:fleet rmi uat hps|
+aviva uk:flex time recording dev hps|
+aviva uk:flex time recording prd hpp|
+aviva uk:flex time recording uat hps|
+aviva uk:flexera adminstudio dev hpb|
+aviva uk:flexera adminstudio prd hpb|
+aviva uk:flexera adminstudio uat hpb|
+aviva uk:flood & subsidence dev hps|
+aviva uk:flood & subsidence prd hpp|
+aviva uk:flood & subsidence uat hps|
+aviva uk:focol prd hpp|
+aviva uk:focol prd hps|
+aviva uk:focol tst hps|
+aviva uk:focol tst hps(x)|
+aviva uk:focol uat hps|
+aviva uk:foglight dev hps|
+aviva uk:foglight dev hps(x)|
+aviva uk:foglight prd hpg|
+aviva uk:foglight prd hps|
+aviva uk:foglight uat hps|
+aviva uk:formsgen prd hps|
+aviva uk:front office a prd hpg|
+aviva uk:fs1 lockbox prd hps|
+aviva uk:fs1 lockbox tst hps|
+aviva uk:fsapsd dev hpg|
+aviva uk:fsapsd dev hps|
+aviva uk:ftii prd hpp|
+aviva uk:ftii prd hpp(x)|
+aviva uk:ftii tst hps|
+aviva uk:ftii uat hps|
+aviva uk:fum prd hpg|
+aviva uk:fum uat0 hps|
+aviva uk:fum uat1 hpb|
+aviva uk:fum uat2 hpb|
+aviva uk:fum uat3 hpb|
+aviva uk:fum uatr hpb|
+aviva uk:fusion prd hps|
+aviva uk:gacs dev hpb|
+aviva uk:gacs dev hps|
+aviva uk:gacs prd hpg|
+aviva uk:gacs pre hpg|
+aviva uk:gacs tst hps|
+aviva uk:galahad (gip) dev hpb|
+aviva uk:galahad (gip) dev hpg|
+aviva uk:galahad (gip) prd hpg|
+aviva uk:galahad (gip) prd hpg(x)|
+aviva uk:galahad (gip) prd hps|
+aviva uk:galahad (gip) pre hpg|
+aviva uk:galahad (gip) pre hps|
+aviva uk:galahad (gip) trn hpb|
+aviva uk:galahad (gip) trn hpg|
+aviva uk:galahad (gip) uat hpb|
+aviva uk:galahad (gip) uat hpg|
+aviva uk:galahad (life) dev hpb|
+aviva uk:galahad (life) dev hps|
+aviva uk:galahad (life) prd hpg|
+aviva uk:galahad (life) trn hpb|
+aviva uk:galahad (life) trn hps|
+aviva uk:galahad (life) uat hpb|
+aviva uk:galahad (life) uat hps|
+aviva uk:galahad dev hps|
+aviva uk:galaxy rss prd hps|
+aviva uk:gas dev hpb|
+aviva uk:gas prd hps|
+aviva uk:gas pre hps|
+aviva uk:gas tst hps|
+aviva uk:gas uat hps|
+aviva uk:gb accelerator prd hps|
+aviva uk:gemini dev hpb|
+aviva uk:gemini dev hps|
+aviva uk:gemini life prd hpb|
+aviva uk:gemini life prd hpg|
+aviva uk:gemini life prd hps|
+aviva uk:gemini life uat hpb|
+aviva uk:gemini mi dev hps|
+aviva uk:gemini prd hpg|
+aviva uk:gemini prd hpp|
+aviva uk:gemini transactions (exceed) prd hpp|
+aviva uk:gemini transactions (internal) prd hpg|
+aviva uk:gemini uat hpb|
+aviva uk:gemini uat hps|
+aviva uk:gemini ukgi dev hpg|
+aviva uk:gemini ukgi prd hpg|
+aviva uk:gemini-focol dev hpg|
+aviva uk:geocode conversion service dev hpb|
+aviva uk:geocode conversion service prd hpg|
+aviva uk:german database prd hpb|
+aviva uk:gi client prd hpp|
+aviva uk:gi client tst hps|
+aviva uk:gi client uat hps|
+aviva uk:gi02 lmg prd hps|
+aviva uk:git dev hpb|
+aviva uk:git prd hpg|
+aviva uk:gms dev hps|
+aviva uk:gms mod hps|
+aviva uk:gms prd hpp|
+aviva uk:gms pre hps|
+aviva uk:gms sit hps|
+aviva uk:gms trn1 hps|
+aviva uk:gms tst hps|
+aviva uk:gms uat1 hps|
+aviva uk:gms uat2 hps|
+aviva uk:gms uat3 hps|
+aviva uk:golgafrincham prd hps|
+aviva uk:gotrr prd hpg|
+aviva uk:gotrr uat1 hpb|
+aviva uk:gpc - gps dev hpg|
+aviva uk:gpc - gps prd hpg|
+aviva uk:gquotes santander dev hpb|
+aviva uk:gquotes santander prd hpb|
+aviva uk:gr smart dev hpb|
+aviva uk:gr smart dev hpg|
+aviva uk:gr smart dev hps|
+aviva uk:gr smart dev hps(x)|
+aviva uk:gr smart prd hpg|
+aviva uk:gr smart prd hpg(x)|
+aviva uk:gr smart prd hps|
+aviva uk:gr smart tst hpb|
+aviva uk:gr smart uat hpg|
+aviva uk:gr smart uat hpg(x)|
+aviva uk:gr smart uat hps|
+aviva uk:gr smart uat hps(x)|
+aviva uk:granta acs prd hpb|
+aviva uk:grit dev hps|
+aviva uk:grit prd hpg|
+aviva uk:grit prd hpg(x)|
+aviva uk:grit prd hps|
+aviva uk:grit tst hpb|
+aviva uk:grit tst hpg|
+aviva uk:grit uat hpg|
+aviva uk:group ftp prd hpg(x)|
+aviva uk:group ftp prd hps(x)|
+aviva uk:grp 01 lmg prd hps|
+aviva uk:guidewire claim center dev hpb|
+aviva uk:guidewire claim center dev hps|
+aviva uk:guidewire claim center prd hpg|
+aviva uk:guidewire claim center prd hps|
+aviva uk:guidewire claim center pre hpg|
+aviva uk:guidewire claim center pre hps|
+aviva uk:guidewire claim center sit hpb|
+aviva uk:guidewire claim center sit hps|
+aviva uk:guidewire claim center tst hpb|
+aviva uk:guidewire claim center tst hps|
+aviva uk:guidewire claim center uat hps|
+aviva uk:guidewire contact manager dev hpb|
+aviva uk:guidewire contact manager dev hps|
+aviva uk:guidewire contact manager prd hpg|
+aviva uk:guidewire contact manager prd hps|
+aviva uk:guidewire contact manager pre hpg|
+aviva uk:guidewire contact manager pre hps|
+aviva uk:guidewire contact manager sit hpb|
+aviva uk:guidewire contact manager sit hps|
+aviva uk:guidewire contact manager tst hpb|
+aviva uk:guidewire contact manager tst hps|
+aviva uk:guidewire contact manager uat hps|
+aviva uk:guidewire policy center dev hpb|
+aviva uk:guidewire policy center dev hps|
+aviva uk:guidewire policy center prd hpg|
+aviva uk:guidewire policy center prd hps|
+aviva uk:guidewire policy center pre hpg|
+aviva uk:guidewire policy center pre hps|
+aviva uk:guidewire policy center sit hpb|
+aviva uk:guidewire policy center sit hps|
+aviva uk:guidewire policy center tst hpb|
+aviva uk:guidewire policy center tst hps|
+aviva uk:guidewire policy center uat hps|
+aviva uk:guidewire xml data store  pre hps|
+aviva uk:guidewire xml data store prd hpg|
+aviva uk:guidewire xml data store prd hps|
+aviva uk:guidewire xml data store pre hpg|
+aviva uk:gws support services mi prd hpb|
+aviva uk:ha prd hpp|
+aviva uk:ha prd hps|
+aviva uk:ha tst hps|
+aviva uk:ha uat hps|
+aviva uk:handling unit look up dev hps|
+aviva uk:handling unit look up prd hpp|
+aviva uk:handling unit look up uat hps|
+aviva uk:hardware management prd hpb|
+aviva uk:hardware management prd hpg|
+aviva uk:hardware management prd hpg(x)|
+aviva uk:hardware management prd hpp|
+aviva uk:hardware management prd hpp(x)|
+aviva uk:hardware management prd hps|
+aviva uk:hardware management prd hps(x)|
+aviva uk:hawkeye dev hpb|
+aviva uk:hawkeye dev hpg|
+aviva uk:hawkeye dev hpg(x)|
+aviva uk:hawkeye prd hpg|
+aviva uk:hawkeye prd hpg(x)|
+aviva uk:hawkeye prd hps|
+aviva uk:hawkeye prd hps(x)|
+aviva uk:hawkeye pre hpg|
+aviva uk:hawkeye pre hpg(x)|
+aviva uk:hawkeye pre hps|
+aviva uk:hawkeye pre hps(x)|
+aviva uk:hawkeye prv hpb|
+aviva uk:hawkeye prv hpg|
+aviva uk:hawkeye prv hpg(x)|
+aviva uk:hawkeye prv hps|
+aviva uk:hawkeye tst hpb|
+aviva uk:hawkeye uat hpb|
+aviva uk:hawkeye uat hps|
+aviva uk:hawkeye uat hps(x)|
+aviva uk:head office direct debits syst prd hpg|
+aviva uk:head office renewals prd hpg|
+aviva uk:healthcode secure ftp prd hpp|
+aviva uk:healthcode secure ftp uat hps|
+aviva uk:heritage dev hps|
+aviva uk:heritage prd hpg|
+aviva uk:heritage prd hpg(x)|
+aviva uk:heritage prd hps|
+aviva uk:heritage tst hps|
+aviva uk:heritage tst hps(x)|
+aviva uk:heritage uat hps|
+aviva uk:hi lite dev hpb|
+aviva uk:hi lite prd hpg|
+aviva uk:historical prices archive prd hpg|
+aviva uk:hml batch suite prd hps|
+aviva uk:hml batch suite tst hpb(x)|
+aviva uk:hml batch suite tst hps|
+aviva uk:hml pc letters prd hps|
+aviva uk:hml pc letters prd hps(x)|
+aviva uk:hml pc letters tst hpb|
+aviva uk:home claims - cps prd hpp|
+aviva uk:home claims - cps prd hps|
+aviva uk:home claims - cps tst hps|
+aviva uk:home claims - cps uat hps|
+aviva uk:homeset web service dev hps|
+aviva uk:homeset web service prd hps|
+aviva uk:house hold product variation db prd hpb|
+aviva uk:house hold product variation db prd hps|
+aviva uk:house hold product variation db pre hpb|
+aviva uk:house hold product variation db pre hps|
+aviva uk:hp abm dev hpb|
+aviva uk:hp abm prd hpb|
+aviva uk:hp config dev hpb|
+aviva uk:hp config prd hpg|
+aviva uk:hp config pre hpb|
+aviva uk:hp data protector prd hpb|
+aviva uk:hp data protector prd hps|
+aviva uk:hp infra ai npe esx hpb|
+aviva uk:hp infra ai npe hpsim hpb|
+aviva uk:hp infra ai prd esx hps|
+aviva uk:hp infra ai prd hpsim hpg|
+aviva uk:hp infra ai prd hpsim hps|
+aviva uk:hp open view prd hps|
+aviva uk:hp performance centre prd hps|
+aviva uk:hp performance centre prd hps(x)|
+aviva uk:hp performance centre tst hpb|
+aviva uk:hp shared infra npe hpb|
+aviva uk:hp shared infra npe hpg|
+aviva uk:hp shared infra prd hpb|
+aviva uk:hp shared infra prd hpg|
+aviva uk:hp vdi prd hpb|
+aviva uk:hp webjet admin prd hpb|
+aviva uk:hp webjet admin prd hpg|
+aviva uk:hp webjet admin prd hpg(x)|
+aviva uk:hp01 pre hps|
+aviva uk:hpi cache prd hpg|
+aviva uk:hpi cache pre hpg|
+aviva uk:hpi cache pre hps|
+aviva uk:hpicc management prd hps|
+aviva uk:hpsim prd hpg|
+aviva uk:hr topdesk dev hpb|
+aviva uk:hsbc b2b mem det dev hpb|
+aviva uk:hsbc b2b mem det dev hps|
+aviva uk:hsbc b2b mem det prd hpg|
+aviva uk:hsbc b2b mem det pre hpg|
+aviva uk:hsbc b2b mem det pre hps|
+aviva uk:hsbc b2b mem det prv hpg|
+aviva uk:hsbc b2b mem det sit hpb|
+aviva uk:hsbc b2b mem det sit hps|
+aviva uk:hsbc b2b mem det tst hpb|
+aviva uk:hsbc b2b mem det tst hps|
+aviva uk:hsbc b2b mem det uat hpb|
+aviva uk:hsbc b2b mem det uat hps|
+aviva uk:hsbc b2b ric dev hpb|
+aviva uk:hsbc b2b ric dev hps|
+aviva uk:hsbc b2b ric pre hpg|
+aviva uk:hsbc b2b ric prv hpg|
+aviva uk:hsbc b2b ric sit hpb|
+aviva uk:hsbc b2b ric sit hps|
+aviva uk:hsbc b2b ric tst hpb|
+aviva uk:hsbc b2b ric tst hps|
+aviva uk:hsbc b2b ric uat hpb|
+aviva uk:hsbc b2b ric uat hps|
+aviva uk:hsbc home cp dev hpb|
+aviva uk:hsbc home cp dev hps|
+aviva uk:hsbc home cp prd hpb|
+aviva uk:hsbc home cp prd hpg|
+aviva uk:hsbc home cp prd hps|
+aviva uk:hsbc home cp pre hpg|
+aviva uk:hsbc home cp pre hps|
+aviva uk:hsbc home cp prv hps|
+aviva uk:hsbc home cp tst hpb|
+aviva uk:hsbc home cp tst hps|
+aviva uk:hsbc home cp uat hpb|
+aviva uk:hsbc home cp uat hpg|
+aviva uk:hsbc home cp uat hps|
+aviva uk:hsbc internet prd hpg|
+aviva uk:hsbc student home cp dev hpb|
+aviva uk:hsbc student home cp prd hpb|
+aviva uk:hsbc student home cp prd hps|
+aviva uk:hsbc student home cp pre hps|
+aviva uk:hsbc student home cp prv hps|
+aviva uk:hsbc student home cp tst hpb|
+aviva uk:hsbc student home cp uat hpb|
+aviva uk:hsbc travel cp dev hpb|
+aviva uk:hsbc travel cp prd hpb|
+aviva uk:hsbc travel cp prd hps|
+aviva uk:hsbc travel cp pre hps|
+aviva uk:hsbc travel cp prv hps|
+aviva uk:hsbc travel cp tst hpb|
+aviva uk:hsbc travel cp uat hpb|
+aviva uk:hyperion financial management dev hpb|
+aviva uk:hyperion financial management dev hps|
+aviva uk:hyperion financial management prd hpg|
+aviva uk:hyperion financial management tst hpb|
+aviva uk:iads uat2 hpb|
+aviva uk:ib vision dev hpb|
+aviva uk:ib vision dev hps|
+aviva uk:ib vision prd hpb|
+aviva uk:ib vision prd hpg|
+aviva uk:ib vision prd hpp|
+aviva uk:ib vision prd hps|
+aviva uk:ib vision pre hpg|
+aviva uk:ib vision pre hpp|
+aviva uk:ib vision tst hpb|
+aviva uk:ib vision tst hps|
+aviva uk:ib vision uat hps|
+aviva uk:ibm director prd hpb|
+aviva uk:ibm director prd hps|
+aviva uk:ibm license metric tool (ai) prd hps|
+aviva uk:ibm license metric tool prd hpb|
+aviva uk:ic tool prd hps|
+aviva uk:icms dev hps|
+aviva uk:icms prd hpg|
+aviva uk:icms prd hpp|
+aviva uk:ids dev hps|
+aviva uk:ids prd hps|
+aviva uk:ids prd hps(x)|
+aviva uk:ids pre hps|
+aviva uk:ifa database dev hpg|
+aviva uk:ifa database dev hps|
+aviva uk:ifa database dev hps(x)|
+aviva uk:ifa database prd hps|
+aviva uk:ifa database pre hps|
+aviva uk:ifa database tst hpb|
+aviva uk:ifa database tst hps|
+aviva uk:ifa database tst hps(x)|
+aviva uk:ifa database uat hpg|
+aviva uk:ifa database uat hps|
+aviva uk:ifa database uat hps(x)|
+aviva uk:illustrations prd hpg|
+aviva uk:illustrations prd hps|
+aviva uk:image dev hps(x)|
+aviva uk:image prd hpg|
+aviva uk:image prd hpp|
+aviva uk:image tst hps|
+aviva uk:image uat hps|
+aviva uk:imarket dev hpb|
+aviva uk:imarket dev hpg|
+aviva uk:imarket dev hps|
+aviva uk:imarket prd hpb|
+aviva uk:imarket prd hpg|
+aviva uk:imarket prd hps|
+aviva uk:imarket pre hpg|
+aviva uk:imarket prv hpg|
+aviva uk:imarket prv hps|
+aviva uk:imarket test hpg|
+aviva uk:imarket uat hpg|
+aviva uk:imarket uat hps|
+aviva uk:income distribution prd hpg|
+aviva uk:insight prd hpb|
+aviva uk:insight prd hps|
+aviva uk:integrated medical screening dev hpb|
+aviva uk:integrated medical screening dev hpg(x)|
+aviva uk:integrated medical screening dev hps(x)|
+aviva uk:integrated medical screening prd hpb(x)|
+aviva uk:integrated medical screening prd hpg|
+aviva uk:integrated medical screening prd hps|
+aviva uk:integrated medical screening prd hps(x)|
+aviva uk:integrated medical screening pre hps|
+aviva uk:integrated medical screening sit hps(x)|
+aviva uk:integrated medical screening uat hpg(x)|
+aviva uk:integrated medical screening uat hps(x)|
+aviva uk:intelleprint prd hpb|
+aviva uk:intermediary communication prd hpg|
+aviva uk:internal & external outlook email prd hps|
+aviva uk:internal email (ex nu) prd hpg|
+aviva uk:internal email (ex nu) prd hps|
+aviva uk:internal portal dev hpb|
+aviva uk:internal portal dev hpg|
+aviva uk:internal portal dev hps|
+aviva uk:internal portal prd hpg|
+aviva uk:internal portal pre hpg|
+aviva uk:internal portal pre hps|
+aviva uk:internal portal prv hpg|
+aviva uk:internal portal sit hpb|
+aviva uk:internal portal sit hps|
+aviva uk:internal portal tst hpb|
+aviva uk:internal portal tst hps|
+aviva uk:internal portal uat hpb|
+aviva uk:internal portal uat hps|
+aviva uk:intraquotes dev hpb|
+aviva uk:intraquotes prd hps|
+aviva uk:intraquotes pre hpb|
+aviva uk:intraquotes pre hps|
+aviva uk:intraquotes pre hps(x)|
+aviva uk:intraquotes sit hpb|
+aviva uk:intraquotes tst hpb|
+aviva uk:intraquotes uat hpb|
+aviva uk:investment & protection esb (ukl) dev hpb|
+aviva uk:investment & protection esb (ukl) dev hps|
+aviva uk:investment & protection esb (ukl) prd hpg|
+aviva uk:investment & protection esb (ukl) pre hpb|
+aviva uk:investment & protection esb (ukl) pre hpg|
+aviva uk:investment & protection esb (ukl) prv hpb|
+aviva uk:investment & protection esb (ukl) prv hps|
+aviva uk:investment & protection esb (ukl) sit hpb|
+aviva uk:investment & protection esb (ukl) sit hps|
+aviva uk:investment & protection esb (ukl) tst hpb|
+aviva uk:investment & protection esb (ukl) tst hps|
+aviva uk:investment & protection esb (ukl) uat hpb|
+aviva uk:investment & protection esb (ukl) uat hps|
+aviva uk:investment & protection wps (ukl) dev hpb|
+aviva uk:investment & protection wps (ukl) dev hps|
+aviva uk:investment & protection wps (ukl) prd hpg|
+aviva uk:investment & protection wps (ukl) pre hpb|
+aviva uk:investment & protection wps (ukl) pre hpg|
+aviva uk:investment & protection wps (ukl) prv hps|
+aviva uk:investment & protection wps (ukl) sit hps|
+aviva uk:investment & protection wps (ukl) tst hps|
+aviva uk:investment & protection wps (ukl) uat hps|
+aviva uk:investment decision supp prd hpg|
+aviva uk:ip address management prd hps|
+aviva uk:irecruitment dev hps|
+aviva uk:irecruitment prd hpg|
+aviva uk:irecruitment uat hpg|
+aviva uk:irecruitment uat hps|
+aviva uk:isda counterparty prd hps|
+aviva uk:isis netquotes dev hpg|
+aviva uk:isis netquotes dev hps|
+aviva uk:isis netquotes prd hpg|
+aviva uk:isis netquotes pre hpg|
+aviva uk:isis netquotes sit hpg|
+aviva uk:isis netquotes sit hps|
+aviva uk:isis netquotes tst hpg|
+aviva uk:isis netquotes tst hps|
+aviva uk:isis netquotes uat hpg|
+aviva uk:isis netquotes uat hps|
+aviva uk:istrobe prd hps|
+aviva uk:it access portal dev hps|
+aviva uk:it access portal prd hpg|
+aviva uk:it access portal prd hps|
+aviva uk:it notification tool prd hps|
+aviva uk:it self service prd hps|
+aviva uk:it service catalogue prd hps|
+aviva uk:itcam dev hps|
+aviva uk:itcam prd hpg|
+aviva uk:itcam tst hps|
+aviva uk:iway dev hpb|
+aviva uk:iway prd hps|
+aviva uk:iway pre hps|
+aviva uk:iway tst hps|
+aviva uk:iway uat hps|
+aviva uk:java framework (ukhe) dev hpb|
+aviva uk:java framework (ukhe) prd hps|
+aviva uk:jboss dev hpb|
+aviva uk:jboss dev hps|
+aviva uk:jboss prd hpg|
+aviva uk:jboss prd hps|
+aviva uk:jboss pre hpg|
+aviva uk:jboss pre hps|
+aviva uk:jboss pre hps(x)|
+aviva uk:jboss prv hpg|
+aviva uk:jboss prv hps|
+aviva uk:jboss prv hps(x)|
+aviva uk:jboss tst hpb|
+aviva uk:jboss tst hps|
+aviva uk:jboss uat hpb|
+aviva uk:jboss uat hpg|
+aviva uk:jboss uat hps|
+aviva uk:jboss uat hps(x)|
+aviva uk:jenkins dev hpb|
+aviva uk:jenkins prd hpb|
+aviva uk:jenkins prd hps|
+aviva uk:jira prd hpg|
+aviva uk:jira prd hps|
+aviva uk:jlms prd hps|
+aviva uk:jxml prd hps|
+aviva uk:jxml pre hps|
+aviva uk:jxml uat hpg|
+aviva uk:jxml uat hps|
+aviva uk:kafmain (ukgi) dev hpb|
+aviva uk:kafmain (ukgi) prd hpp|
+aviva uk:kafmain (ukgi) sit hpb|
+aviva uk:kafmain (ukgi) uat hpb|
+aviva uk:kcbl dev hpb|
+aviva uk:kcbl prd hpb|
+aviva uk:kcbl pre hpb|
+aviva uk:kcbl uat hpb|
+aviva uk:keymaster dev hpb|
+aviva uk:keymaster dev hpg|
+aviva uk:keymaster prd hpg|
+aviva uk:keymaster sit hpb|
+aviva uk:keymaster sit hpg|
+aviva uk:keymaster uat hpb|
+aviva uk:keymaster uat hpg|
+aviva uk:klipfolio dev hpb|
+aviva uk:klipfolio prd hpb|
+aviva uk:klipfolio-change prd hps|
+aviva uk:kodak (ko or ki) prd hpg|
+aviva uk:kofax prd hpb|
+aviva uk:kofax prd hpg|
+aviva uk:kofax pre hpb|
+aviva uk:kofax pre hpg|
+aviva uk:kofax sit hps|
+aviva uk:kofax uat hpg|
+aviva uk:kpmg cube px prd hps|
+aviva uk:kxen analytics prd hps|
+aviva uk:lads db prd hpg|
+aviva uk:landscape dev hps|
+aviva uk:landscape prd hps|
+aviva uk:lcs dev hpb|
+aviva uk:lcs prd hps|
+aviva uk:lcs uat hpb|
+aviva uk:ldap af ecom dev hpg|
+aviva uk:ldap af ecom dev hps|
+aviva uk:ldap af ecom prd hpg|
+aviva uk:ldap af ecom pre hpg|
+aviva uk:ldap af ecom tst hpb|
+aviva uk:learning world dev hps|
+aviva uk:learning world prd hps|
+aviva uk:leeds cp dev hpb|
+aviva uk:leeds cp dev hps|
+aviva uk:leeds cp prd hps|
+aviva uk:leeds cp pre hps|
+aviva uk:leeds cp prv hps|
+aviva uk:leeds cp tst hpb|
+aviva uk:leeds cp uat hpb|
+aviva uk:legal indemnity on-line (lion) dev hpb|
+aviva uk:legal indemnity on-line (lion) dev hpg|
+aviva uk:legal indemnity on-line (lion) prd hpg|
+aviva uk:legal indemnity on-line (lion) prd hps|
+aviva uk:legal indemnity on-line (lion) pre hpg|
+aviva uk:legal indemnity on-line (lion) pre hps|
+aviva uk:legal indemnity on-line (lion) tst hpb|
+aviva uk:legal indemnity on-line (lion) tst hps|
+aviva uk:legal indemnity on-line (lion) uat hpb|
+aviva uk:legal indemnity on-line (lion) uat hps|
+aviva uk:legal work tracking dev hpb|
+aviva uk:legal work tracking dev hps|
+aviva uk:legal work tracking prd hpb|
+aviva uk:legal work tracking prd hps|
+aviva uk:legal work tracking tst hpb|
+aviva uk:legal work tracking uat hpb|
+aviva uk:legal work tracking uat hps|
+aviva uk:lenci dev hpg|
+aviva uk:lenci prd hpg|
+aviva uk:lenci prd hpp|
+aviva uk:lenci uat hpg|
+aviva uk:lftp cornerstone prd hpg|
+aviva uk:life 01 lmg prd hps|
+aviva uk:life 24x7 cics dev hps|
+aviva uk:life 24x7 cics prd hpp|
+aviva uk:life 24x7 cics sit hps|
+aviva uk:life 24x7 cics tst hps|
+aviva uk:life 24x7 cics uat hps|
+aviva uk:life 70 ob norwich prd hpp|
+aviva uk:life 70 pensions norwich prd hpp|
+aviva uk:life client prd hpp|
+aviva uk:life quotes prd hpg|
+aviva uk:life rates prd hpg|
+aviva uk:life70 joint venture dev hpg|
+aviva uk:life70 joint venture prd hpg|
+aviva uk:life70 stevenage dev hpg|
+aviva uk:life70 stevenage dev hpp|
+aviva uk:life70 stevenage prd hpg|
+aviva uk:life70 york dev hps|
+aviva uk:life70 york prd hpg|
+aviva uk:livechat dev hpg|
+aviva uk:livechat dev hps|
+aviva uk:livechat prd hpg|
+aviva uk:livechat prd hps|
+aviva uk:livechat ukgi dev hpg|
+aviva uk:ll agency prd hpg|
+aviva uk:lmg01 lmg prd hpb|
+aviva uk:lmg01 lmg pre hpb|
+aviva uk:load runner prd hps|
+aviva uk:lotus notes administration prd hps|
+aviva uk:lotus notes databases dev hpb|
+aviva uk:lotus notes databases prd hpb|
+aviva uk:lotus notes dev hps|
+aviva uk:lotus notes directory prd hps|
+aviva uk:lotus notes messaging prd hpb|
+aviva uk:lotus notes prd hpb|
+aviva uk:lotus notes prd hpg|
+aviva uk:lotus notes prd hpg(x)|
+aviva uk:lotus notes prd hps|
+aviva uk:lotus notes prd hps(x)|
+aviva uk:lotus notes test hps|
+aviva uk:lotus notes uat hps|
+aviva uk:ltrams prd hpg|
+aviva uk:m/f experian payments gateway dev hpb|
+aviva uk:m/f experian payments gateway dev hps|
+aviva uk:m/f experian payments gateway prd hpg|
+aviva uk:m/f experian payments gateway prd hps|
+aviva uk:m/f experian payments gateway prd hps(x)|
+aviva uk:m/f experian payments gateway pre hps|
+aviva uk:m/f fin bank wizard dev hpg|
+aviva uk:m/f fin bank wizard dev hps|
+aviva uk:m/f fin bank wizard uat hpp|
+aviva uk:m/f fin bank wizard uat hps|
+aviva uk:magnitude cartesis finance dev hpb|
+aviva uk:magnitude cartesis finance dev hpg|
+aviva uk:magnitude cartesis finance prd hpg|
+aviva uk:magnitude cartesis finance prd hpg(x)|
+aviva uk:magnitude cartesis finance pre hpg|
+aviva uk:magnitude cartesis finance pre hps|
+aviva uk:magnitude cartesis finance tst hpg|
+aviva uk:magnitude cartesis finance tst hps|
+aviva uk:magnum dev hpb|
+aviva uk:magnum dev hps|
+aviva uk:magnum isis dev hps|
+aviva uk:magnum isis prd hpg|
+aviva uk:magnum isis prd hps|
+aviva uk:magnum isis prd hps(x)|
+aviva uk:magnum jv prd hps|
+aviva uk:magnum pre hpg|
+aviva uk:magnum pre hps|
+aviva uk:magnum pre hps(x)|
+aviva uk:magnum pre hpu|
+aviva uk:magnum sit hpb|
+aviva uk:magnum tst hpb|
+aviva uk:magnum uat hpb|
+aviva uk:magnum uat hps|
+aviva uk:mailing deletions dev hps|
+aviva uk:mailing deletions prd hpp|
+aviva uk:mainframe aviva france dev hpg|
+aviva uk:mainframe aviva france dev hps|
+aviva uk:mainframe aviva france prd hpg|
+aviva uk:mainframe aviva france prd hps|
+aviva uk:mainframe aviva france tst hpb|
+aviva uk:mainframe aviva france uat hpb|
+aviva uk:mainframe aviva france uat hpg|
+aviva uk:mainframe aviva france uat hps|
+aviva uk:mainframe aviva italy prd hpg|
+aviva uk:mainframe aviva italy tst hpb|
+aviva uk:mainframe diags tools dev hpb|
+aviva uk:mainframe diags tools dev hpg|
+aviva uk:mainframe diags tools dev hps|
+aviva uk:mainframe diags tools prd hpg|
+aviva uk:mainframe diags tools prd hpp|
+aviva uk:mainframe diags tools prd hps|
+aviva uk:mainframe inf sup prd hpg|
+aviva uk:mainframe infrastructure support dev hpb|
+aviva uk:mainframe infrastructure support dev hpg|
+aviva uk:mainframe infrastructure support dev hps|
+aviva uk:mainframe infrastructure support prd hpb|
+aviva uk:mainframe infrastructure support prd hpg|
+aviva uk:mainframe infrastructure support prd hpg(x)|
+aviva uk:mainframe infrastructure support prd hpp|
+aviva uk:mainframe infrastructure support prd hps|
+aviva uk:mainframe infrastructure support tst hpb|
+aviva uk:mainframe infrastructure support tst hps|
+aviva uk:mainframe security dev hps|
+aviva uk:mainframe security prd hpg|
+aviva uk:mainframe server management dr hpg|
+aviva uk:mainframe server management dr hpg(x)|
+aviva uk:mainframe server management dr hpp|
+aviva uk:mainframe server management dr hps|
+aviva uk:mainframe server management prd hpg|
+aviva uk:mainframe server management tst hpb|
+aviva uk:mainframe server management tst hpb(x)|
+aviva uk:make & model dev hps|
+aviva uk:make & model dev hps(x)|
+aviva uk:make & model prd hpg|
+aviva uk:make & model prd hpg(x)|
+aviva uk:make & model pre hpg|
+aviva uk:make & model tst hps|
+aviva uk:marine cardoc dev hps|
+aviva uk:marine cardoc prd hps|
+aviva uk:marine cargo dev hpb|
+aviva uk:marine cargo dev hpg|
+aviva uk:marine cargo dev hps|
+aviva uk:marine cargo prd hpg|
+aviva uk:marine cargo prd hps|
+aviva uk:marine cargo pre hpg|
+aviva uk:marine cargo tst hps|
+aviva uk:marine cargo uat hps|
+aviva uk:mars dev hps|
+aviva uk:mars prd hpp|
+aviva uk:mars uat hps|
+aviva uk:matlab prd hps|
+aviva uk:mdm dev hps|
+aviva uk:mdm prd hpg|
+aviva uk:mdm pre hpg|
+aviva uk:mdm sit hpb|
+aviva uk:mdm sit hps|
+aviva uk:mdm tst hps|
+aviva uk:mdm uat hps|
+aviva uk:measures matrix dev hpg|
+aviva uk:measures matrix dev hpg(x)|
+aviva uk:measures_matrix time_recording dev hpg|
+aviva uk:mediaview dev hpb|
+aviva uk:mediaview dev hps|
+aviva uk:mediaview prd hpb|
+aviva uk:mediaview prd hps|
+aviva uk:mediaview prd hps(x)|
+aviva uk:mediaview pre hps|
+aviva uk:mediaview trn hps|
+aviva uk:mediaview tst hpb|
+aviva uk:mediaview tst hps|
+aviva uk:mediaview uat hpb|
+aviva uk:memo life prd hps|
+aviva uk:memo prd hps|
+aviva uk:mercury licence management prd hps|
+aviva uk:merlin dev hpb|
+aviva uk:merlin dev hps|
+aviva uk:merlin prd hpg|
+aviva uk:merlin prd hps|
+aviva uk:merlin uat hpb|
+aviva uk:merlin uat hps|
+aviva uk:message broker (ai) prd hpg|
+aviva uk:message broker (ai) uat0 hpb|
+aviva uk:message broker (ai) uat1 hpb|
+aviva uk:message broker (ai) uat2 hpb|
+aviva uk:message broker (ai) uat3 hpb|
+aviva uk:message broker (ai) uatr hpb|
+aviva uk:message broker (ai) v6 dev hpb|
+aviva uk:message broker - rating prd hpg|
+aviva uk:message broker dev hpb|
+aviva uk:message broker dev hpb(x)|
+aviva uk:message broker dev hpg|
+aviva uk:message broker dev hps|
+aviva uk:message broker prd hpb|
+aviva uk:message broker prd hpg|
+aviva uk:message broker prd hpg(x)|
+aviva uk:message broker prd hpp|
+aviva uk:message broker prd hps|
+aviva uk:message broker prd hps(x)|
+aviva uk:message broker pre hpb|
+aviva uk:message broker pre hpg|
+aviva uk:message broker pre hpg(x)|
+aviva uk:message broker pre hps|
+aviva uk:message broker pre hps(x)|
+aviva uk:message broker prv hpb|
+aviva uk:message broker rating prd hpg|
+aviva uk:message broker rating prd hps|
+aviva uk:message broker tst hpb|
+aviva uk:message broker tst hpb(x)|
+aviva uk:message broker tst hpg|
+aviva uk:message broker tst hps|
+aviva uk:message broker uat hpb|
+aviva uk:message broker uat hpg|
+aviva uk:message broker uat hps|
+aviva uk:message broker uat hps(x)|
+aviva uk:message queue (ai) v6 dev hpb|
+aviva uk:mf fin bank wizard prd hpg|
+aviva uk:mf fin bank wizard prd hpp|
+aviva uk:mi marts dev hps|
+aviva uk:mi marts prd hpp|
+aviva uk:mi marts tst hps|
+aviva uk:miaftr dev hps|
+aviva uk:miaftr prd hps|
+aviva uk:mid prd hpp|
+aviva uk:mid tst hps|
+aviva uk:mid uat hps|
+aviva uk:midas exnu extract prd hpp|
+aviva uk:midrange cde prd hpg|
+aviva uk:midrange console server prd hps|
+aviva uk:midrange db2 model office tst hps|
+aviva uk:midrange dns prd hpg|
+aviva uk:midrange e-comm sandpit tst hpb|
+aviva uk:midrange ftp prd hpg|
+aviva uk:midrange hmc prd hpg|
+aviva uk:midrange hmc prd hps|
+aviva uk:midrange hmc tst hpb|
+aviva uk:midrange hpsa satellite prd hpg|
+aviva uk:midrange hpux vmhost prd hpb|
+aviva uk:midrange hpux vmhost pre hpb|
+aviva uk:midrange hpux vmhost tst hpb|
+aviva uk:midrange hpux vmhost tst hpb fmo|
+aviva uk:midrange ignite prd hpb|
+aviva uk:midrange kickstart prd hps|
+aviva uk:midrange ldap prd hpg|
+aviva uk:midrange lmt prd hps|
+aviva uk:midrange management server prd hpg|
+aviva uk:midrange management server prd hpg(x)|
+aviva uk:midrange model office hpb|
+aviva uk:midrange model office tst hpb|
+aviva uk:midrange nim prd hpb|
+aviva uk:midrange nim prd hpg|
+aviva uk:midrange nim prd hps|
+aviva uk:midrange nim tst hpb|
+aviva uk:midrange nis prd hpg|
+aviva uk:midrange oracle model office hps|
+aviva uk:midrange oracle model office tst hpb|
+aviva uk:midrange poc hpb|
+aviva uk:midrange poc tst hpb|
+aviva uk:midrange qas prd hpb|
+aviva uk:midrange quorum prd hpb|
+aviva uk:midrange server management poc hpb|
+aviva uk:midrange server management poc hpb(x)|
+aviva uk:midrange server management poc hpg|
+aviva uk:midrange server management poc hps|
+aviva uk:midrange server management prd hpb|
+aviva uk:midrange server management prd hpb(x)|
+aviva uk:midrange server management prd hpg|
+aviva uk:midrange server management prd hpg(x)|
+aviva uk:midrange server management prd hpp(x)|
+aviva uk:midrange server management prd hps|
+aviva uk:midrange server management prd hps(x)|
+aviva uk:midrange server management pre hpb|
+aviva uk:midrange server management pre hpg|
+aviva uk:midrange server management tst hpb|
+aviva uk:midrange server management tst hpb(x)|
+aviva uk:midrange tam sandpit tst hpb|
+aviva uk:midrange tim sandpit tst hpb|
+aviva uk:midrange websphere sandpit hpb|
+aviva uk:misc ukgi lts nts dbs prd hps|
+aviva uk:mobileiron prd hpg|
+aviva uk:mocca dev hps|
+aviva uk:mocca prd hps|
+aviva uk:mom prd hps|
+aviva uk:mosaic prd hpp|
+aviva uk:mosaic prd hps|
+aviva uk:mosar dev hpb|
+aviva uk:mosar dev hps|
+aviva uk:mosar prd hpp|
+aviva uk:mosar prd hps|
+aviva uk:mosar pre hpb|
+aviva uk:mosar uat hpb|
+aviva uk:mosar uat hps|
+aviva uk:motor certificate database prd hps|
+aviva uk:motor claims - cps prd hpp|
+aviva uk:motor claims - cps prd hps|
+aviva uk:motor claims - cps tst hps|
+aviva uk:motor claims - cps uat hps|
+aviva uk:mpo dev hpg|
+aviva uk:mpo dev hps|
+aviva uk:mpo prd hpg|
+aviva uk:mpo prd hpp|
+aviva uk:mpo prd hps|
+aviva uk:mpo pre hpg|
+aviva uk:mpo pre hps|
+aviva uk:mpo tst hpg|
+aviva uk:mpo uat hps|
+aviva uk:mq (ai) uat hpb|
+aviva uk:mq (ai) uat hps|
+aviva uk:mq management dev hpb|
+aviva uk:mq management dev hps|
+aviva uk:mq management tst hps|
+aviva uk:mras dev hpb|
+aviva uk:mras prd hps|
+aviva uk:mras uat hpb|
+aviva uk:ms reporting dev hpg|
+aviva uk:ms reporting dev hps|
+aviva uk:ms reporting dev hps(x)|
+aviva uk:ms reporting prd hpg|
+aviva uk:ms reporting prd hps|
+aviva uk:ms reporting tst hps|
+aviva uk:mso remoteware prd hpb|
+aviva uk:mso remoteware prd hps|
+aviva uk:muppet dev hpb|
+aviva uk:muppet dev hpg|
+aviva uk:muppet dev hps|
+aviva uk:muppet prd hpg|
+aviva uk:muppet prd hpg(x)|
+aviva uk:mvm vulnerability scan (ai) prd hpb|
+aviva uk:mvm vulnerability scan prd hpb|
+aviva uk:mvm vulnerability scan prd hps|
+aviva uk:my policy dev hpb|
+aviva uk:my policy dev hpg|
+aviva uk:my policy dev hps|
+aviva uk:my policy prd hpg|
+aviva uk:my policy prd hpg(x)|
+aviva uk:my policy prd hps|
+aviva uk:my policy pre hpg|
+aviva uk:my policy pre hps|
+aviva uk:my policy prv hpg|
+aviva uk:my policy tst hpb|
+aviva uk:my policy tst hps|
+aviva uk:my policy uat hpb|
+aviva uk:my policy uat hps|
+aviva uk:myaviva dev hps|
+aviva uk:myaviva mobile dev hps|
+aviva uk:myaviva mobile prd hpg|
+aviva uk:myaviva mobile pre hpg|
+aviva uk:myaviva mobile prv hpg|
+aviva uk:myaviva mobile tst hps|
+aviva uk:myaviva mobile uat hps|
+aviva uk:myaviva prd hpg|
+aviva uk:myaviva pre hpg|
+aviva uk:myaviva prv hpg|
+aviva uk:myaviva tst hps|
+aviva uk:myaviva uat hps|
+aviva uk:nacs dev hps|
+aviva uk:nacs prd hpg|
+aviva uk:nacs pre hpg|
+aviva uk:nacs tst hps|
+aviva uk:nas infrastructure (ai) npe hpb|
+aviva uk:nas infrastructure (ai) prd hpg|
+aviva uk:national it booking wizard dev hpb|
+aviva uk:national it booking wizard prd hps|
+aviva uk:national it booking wizard pre hpb|
+aviva uk:national it booking wizard tst hpb|
+aviva uk:national it booking wizard uat hpb|
+aviva uk:nbi data warehouse prd hpp|
+aviva uk:ncircle v6.7.1 prd hpb|
+aviva uk:netquotes dev hpb|
+aviva uk:netquotes dev hps|
+aviva uk:netquotes prd hpg|
+aviva uk:netquotes prd hpg(x)|
+aviva uk:netquotes prd hps|
+aviva uk:netquotes prd hps(x)|
+aviva uk:netquotes pre hpb|
+aviva uk:netquotes pre hpg|
+aviva uk:netquotes pre hpg(x)|
+aviva uk:netquotes prv hpb|
+aviva uk:netquotes sit hpb|
+aviva uk:netquotes tst hpb|
+aviva uk:netquotes uat hpb|
+aviva uk:netquotes uat hps|
+aviva uk:network application prd hps|
+aviva uk:network infrastructure (ai) prd hpg|
+aviva uk:new business tracking (nbt) prd hps|
+aviva uk:nightwatchman (ai) prd hpg|
+aviva uk:nightwatchman (ai) uat hpb|
+aviva uk:nightwatchman prd hpb|
+aviva uk:novadigm prd hps|
+aviva uk:novadigm tst hps|
+aviva uk:npe portal uat1 hpb|
+aviva uk:nu sipp prd hpg|
+aviva uk:nud information warehouse dev hps|
+aviva uk:nud information warehouse prd hpp|
+aviva uk:nud information warehouse tst hps|
+aviva uk:nui 01 lmg prd hpb|
+aviva uk:nui 01 lmg prd hps|
+aviva uk:nui 01 lmg prd hps(x)|
+aviva uk:nui data warehouse dev hps|
+aviva uk:nui data warehouse prd hpp|
+aviva uk:nui data warehouse tst hps|
+aviva uk:nupas prd hpg|
+aviva uk:nupas tst hpg|
+aviva uk:nupas uat hpg|
+aviva uk:nuqleus-3d dev hpb|
+aviva uk:nuqleus-3d dev hps|
+aviva uk:nuqleus-3d prd hpb(x)|
+aviva uk:nuqleus-3d prd hps|
+aviva uk:nuqleus-3d prd hps(x)|
+aviva uk:oasis prd hpb|
+aviva uk:obm tool tst hps|
+aviva uk:odr prd hpg|
+aviva uk:odr uat0 hpb|
+aviva uk:odr uat1 hpb|
+aviva uk:odr uat2 hpb|
+aviva uk:odr uat3 hpb|
+aviva uk:odr uatr hpb|
+aviva uk:ods db dev hps|
+aviva uk:ods db prd hpg|
+aviva uk:ods db pre hpg|
+aviva uk:ods db sit hps|
+aviva uk:ods db tst hps|
+aviva uk:ods db uat hps|
+aviva uk:ods plus dev hpb|
+aviva uk:ods plus prd hpg|
+aviva uk:oep dashboard dev hps|
+aviva uk:oep dashboard prd hpp|
+aviva uk:oep dashboard uat hps|
+aviva uk:office 365 mgration prd hpg|
+aviva uk:office management (oms/dip) dev hpb|
+aviva uk:office management (oms/dip) dev hpg|
+aviva uk:office management (oms/dip) prd hpg|
+aviva uk:on demand dev hpb|
+aviva uk:on demand dev hpg|
+aviva uk:on demand prd hpg|
+aviva uk:on demand prd hps|
+aviva uk:on demand pre hps|
+aviva uk:on demand tst hpb|
+aviva uk:on demand tst hpg|
+aviva uk:on demand uat hpb|
+aviva uk:on demand uat hpg|
+aviva uk:online it service centre prd hps|
+aviva uk:online it service centre uat hps|
+aviva uk:operational data store (ods) prd hpg|
+aviva uk:operational data store (ods) uat0 hps|
+aviva uk:operational data store (ods) uat1 hps|
+aviva uk:operational data store (ods) uat2 hps|
+aviva uk:operational data store (ods) uat3 hps|
+aviva uk:operational data store (ods) uatr hps|
+aviva uk:opportunity tracker prd hps|
+aviva uk:opportunity tracker pre hps|
+aviva uk:oracle dwh (ukl) dev hpb|
+aviva uk:oracle dwh (ukl) prd hpg|
+aviva uk:oracle dwh (ukl) pre hpb|
+aviva uk:oracle dwh (ukl) tst hpb|
+aviva uk:oracle dwh (ukl) uat hpb|
+aviva uk:oracle fin dev hpb|
+aviva uk:oracle fin dev hpg|
+aviva uk:oracle fin dev hpp|
+aviva uk:oracle fin dev hps|
+aviva uk:oracle fin dev hps(x)|
+aviva uk:oracle fin discoverer dev hpb|
+aviva uk:oracle fin discoverer dev hpg|
+aviva uk:oracle fin discoverer dev hps|
+aviva uk:oracle fin discoverer prd hpb|
+aviva uk:oracle fin discoverer prd hpg|
+aviva uk:oracle fin discoverer prd hps|
+aviva uk:oracle fin discoverer pre hpb|
+aviva uk:oracle fin discoverer pre hps|
+aviva uk:oracle fin discoverer tst hpb|
+aviva uk:oracle fin discoverer tst hps|
+aviva uk:oracle fin discoverer uat hpb|
+aviva uk:oracle fin discoverer uat hps|
+aviva uk:oracle fin isupp dev hpb|
+aviva uk:oracle fin isupp dev hps|
+aviva uk:oracle fin isupp prd hpg|
+aviva uk:oracle fin isupp prd hps|
+aviva uk:oracle fin isupp pre hpb|
+aviva uk:oracle fin isupp pre hpg|
+aviva uk:oracle fin isupp pre hps|
+aviva uk:oracle fin isupp tst hpb|
+aviva uk:oracle fin isupp tst hps|
+aviva uk:oracle fin isupp uat hpb|
+aviva uk:oracle fin isupp uat hps|
+aviva uk:oracle fin legacy prd hpg|
+aviva uk:oracle fin prd hpg|
+aviva uk:oracle fin prd hpg(x)|
+aviva uk:oracle fin prd hps|
+aviva uk:oracle fin pre hpb|
+aviva uk:oracle fin pre hps|
+aviva uk:oracle fin soa dev hpb|
+aviva uk:oracle fin soa prd hpg|
+aviva uk:oracle fin soa pre hpb|
+aviva uk:oracle fin soa sit hpb|
+aviva uk:oracle fin soa tst hpb|
+aviva uk:oracle fin soa uat hpb|
+aviva uk:oracle fin tst hpb|
+aviva uk:oracle fin tst hpg|
+aviva uk:oracle fin tst hpg(x)|
+aviva uk:oracle fin tst hps|
+aviva uk:oracle fin uat hpb|
+aviva uk:oracle fin uat hpg|
+aviva uk:oracle fin uat hps|
+aviva uk:oracle hr dev hpb|
+aviva uk:oracle hr dev hps|
+aviva uk:oracle hr discoverer dev hpb|
+aviva uk:oracle hr discoverer dev hps|
+aviva uk:oracle hr discoverer prd hpg|
+aviva uk:oracle hr discoverer prd hps|
+aviva uk:oracle hr discoverer pre hpb|
+aviva uk:oracle hr discoverer pre hps|
+aviva uk:oracle hr discoverer tst hpb|
+aviva uk:oracle hr discoverer tst hps|
+aviva uk:oracle hr discoverer uat hpb|
+aviva uk:oracle hr discoverer uat hps|
+aviva uk:oracle hr prd hpb|
+aviva uk:oracle hr prd hpg|
+aviva uk:oracle hr prd hps|
+aviva uk:oracle hr pre hpb|
+aviva uk:oracle hr pre hps|
+aviva uk:oracle hr tst hpb|
+aviva uk:oracle hr tst hps|
+aviva uk:oracle hr uat hpb|
+aviva uk:oracle hr uat hps|
+aviva uk:oracle hyperion planning dev hpb|
+aviva uk:oracle hyperion planning dev hps|
+aviva uk:oracle ofa c&w prd hpg|
+aviva uk:oracle ofa capex prd hpg|
+aviva uk:oracle ofa cost & charge prd hpg|
+aviva uk:oracle ofa fmi prd hpg|
+aviva uk:oracle rcu prd hpb|
+aviva uk:oracle real-time scheduler (ors) dev hpb|
+aviva uk:oracle real-time scheduler (ors) prd hps|
+aviva uk:oracle real-time scheduler (ors) tst hpb|
+aviva uk:oracle rtd dev hpb|
+aviva uk:orderit dev hpg|
+aviva uk:orderit dev hps|
+aviva uk:orderit prd hpg|
+aviva uk:orderit prd hps|
+aviva uk:orderit tst hpb|
+aviva uk:orderit tst hps|
+aviva uk:ordinary business prd hpg|
+aviva uk:ordinary business prd hpp|
+aviva uk:origo (webseal) dev hpb|
+aviva uk:origo (webseal) dev hps|
+aviva uk:origo (webseal) prd hpg|
+aviva uk:origo (webseal) pre hpb|
+aviva uk:origo (webseal) pre hpg|
+aviva uk:origo (webseal) pre hps|
+aviva uk:origo (webseal) prv hpg|
+aviva uk:origo (webseal) sit hpb|
+aviva uk:origo (webseal) sit hps|
+aviva uk:origo (webseal) tst hpb|
+aviva uk:origo (webseal) tst hps|
+aviva uk:origo (webseal) uat hpb|
+aviva uk:origo (webseal) uat hps|
+aviva uk:outbound proxy (ai) prd hpg|
+aviva uk:outbound proxy dev hpb|
+aviva uk:outbound proxy dev hpb(x)|
+aviva uk:outbound proxy dev hpg|
+aviva uk:outbound proxy dev hps|
+aviva uk:outbound proxy prd hpg|
+aviva uk:p142 prd hps|
+aviva uk:pac securenet prd hpg|
+aviva uk:pace 4 dev hpb|
+aviva uk:pace 4 dev hps|
+aviva uk:pace 4 prd hps|
+aviva uk:pace 4 tst hpb|
+aviva uk:paf (ukgi) dev hpg|
+aviva uk:paf (ukgi) dev hps|
+aviva uk:paf (ukgi) prd hpg|
+aviva uk:paf (ukgi) prd hpp|
+aviva uk:paf (ukgi) uat hpg|
+aviva uk:paf dev hpg|
+aviva uk:paf prd hpg|
+aviva uk:paf pre hpg|
+aviva uk:paf uat hpg|
+aviva uk:party esb (ukl) dev hps|
+aviva uk:party esb (ukl) prd hpg|
+aviva uk:party esb (ukl) pre hpg|
+aviva uk:party esb (ukl) prv hps|
+aviva uk:party esb (ukl) sit hps|
+aviva uk:party esb (ukl) tst hps|
+aviva uk:party esb (ukl) uat hps|
+aviva uk:party wps (ukl) dev hpb|
+aviva uk:party wps (ukl) dev hps|
+aviva uk:party wps (ukl) prd hpg|
+aviva uk:party wps (ukl) pre hpg|
+aviva uk:party wps (ukl) prv hps|
+aviva uk:party wps (ukl) sit hps|
+aviva uk:party wps (ukl) tst hps|
+aviva uk:party wps (ukl) uat hps|
+aviva uk:paxus dev hpg|
+aviva uk:paxus prd hpg|
+aviva uk:paxus uat hpg|
+aviva uk:payd dev hpg|
+aviva uk:payd dev hps|
+aviva uk:payd mailshot prd hpb|
+aviva uk:payd mailshot prd hpg|
+aviva uk:payd prd hpg|
+aviva uk:payd prd hps|
+aviva uk:payd test hpb|
+aviva uk:payd test hps|
+aviva uk:payd uat hps|
+aviva uk:payg dev hps|
+aviva uk:payg prd hpg|
+aviva uk:payg pre hpg|
+aviva uk:payg test hps|
+aviva uk:payg uat hps|
+aviva uk:paymaster paris prd hpb|
+aviva uk:payment authorisation dev hps|
+aviva uk:payment authorisation prd hpp|
+aviva uk:payment authorisation uat hps|
+aviva uk:pci dev hpb|
+aviva uk:pci dev hpg|
+aviva uk:pci dev hps|
+aviva uk:pci dev hps(x)|
+aviva uk:pci prd hpg|
+aviva uk:pci prd hpg(x)|
+aviva uk:pci prd hps|
+aviva uk:pci pre hpb|
+aviva uk:pci pre hps|
+aviva uk:pci tst hpb|
+aviva uk:pci tst hps|
+aviva uk:pci uat hpb|
+aviva uk:pci uat hps|
+aviva uk:pcm prd hpg|
+aviva uk:pcm prd hps|
+aviva uk:pcm uat1 hpb|
+aviva uk:pcontrol unit pricing dev hpb|
+aviva uk:pcontrol unit pricing prd hpg|
+aviva uk:pcontrol unit pricing pre hpg|
+aviva uk:pdt dev hpg|
+aviva uk:pdt dev hps|
+aviva uk:pdt prd hpg|
+aviva uk:pdt prd hpg(x)|
+aviva uk:pdt sit hpg|
+aviva uk:pdt tst hpg|
+aviva uk:pdt uat hpg|
+aviva uk:pe prd hpp|
+aviva uk:pe prd hps|
+aviva uk:pe tst hps|
+aviva uk:pe uat hps|
+aviva uk:pendragon perspective prd hps|
+aviva uk:pension & annuity esb (ukl) dev hpb|
+aviva uk:pension & annuity esb (ukl) dev hps|
+aviva uk:pension & annuity esb (ukl) prd hpg|
+aviva uk:pension & annuity esb (ukl) pre hpb|
+aviva uk:pension & annuity esb (ukl) pre hpg|
+aviva uk:pension & annuity esb (ukl) pre hps|
+aviva uk:pension & annuity esb (ukl) prv hpb|
+aviva uk:pension & annuity esb (ukl) prv hps|
+aviva uk:pension & annuity esb (ukl) sit hpb|
+aviva uk:pension & annuity esb (ukl) sit hps|
+aviva uk:pension & annuity esb (ukl) tst hpb|
+aviva uk:pension & annuity esb (ukl) tst hps|
+aviva uk:pension & annuity esb (ukl) uat hpb|
+aviva uk:pension & annuity esb (ukl) uat hps|
+aviva uk:pension & annuity wps (ukl) dev hpb|
+aviva uk:pension & annuity wps (ukl) dev hps|
+aviva uk:pension & annuity wps (ukl) prd hpg|
+aviva uk:pension & annuity wps (ukl) pre hpg|
+aviva uk:pension & annuity wps (ukl) prv hps|
+aviva uk:pension & annuity wps (ukl) sit hps|
+aviva uk:pension & annuity wps (ukl) tst hps|
+aviva uk:pension & annuity wps (ukl) uat hps|
+aviva uk:pension tracker (adviser) prd hpg|
+aviva uk:pension tracker (customer) prd hpg|
+aviva uk:pension tracker (customer) prd hpg(x)|
+aviva uk:pension tracker (customer) prd hps|
+aviva uk:pension tracker (customer) pre hpg|
+aviva uk:pension tracker (customer) pre hpg(x)|
+aviva uk:pension tracker (customer) prv hps|
+aviva uk:pension tracker (customer) uat hps(x)|
+aviva uk:pension tracker dev hpg|
+aviva uk:pension tracker prd hps|
+aviva uk:penstar uat hpg|
+aviva uk:penstar uat hpg(x)|
+aviva uk:personal lines u/w authorities dev hps|
+aviva uk:personal lines u/w authorities prd hpp|
+aviva uk:personal lines u/w authorities uat hps|
+aviva uk:pert (ai) prd hpg|
+aviva uk:pgp prd hpg|
+aviva uk:phoenix prd hps|
+aviva uk:pim dev hpg|
+aviva uk:pim prd hpg|
+aviva uk:plant safety dev hps|
+aviva uk:plant safety prd hpp|
+aviva uk:plant safety uat hps|
+aviva uk:pluto dev hps|
+aviva uk:pluto prd hpp|
+aviva uk:pluto uat hps|
+aviva uk:pmi (ukgi) dev hpb|
+aviva uk:pmi (ukgi) dev hpg|
+aviva uk:pmi (ukgi) dev hpg(x)|
+aviva uk:pmi (ukgi) dev hps|
+aviva uk:pmi (ukgi) prd hpg|
+aviva uk:pmi (ukgi) prd hpg(x)|
+aviva uk:pmi (ukgi) pre hpg|
+aviva uk:pmi (ukgi) pre hps|
+aviva uk:pmi (ukgi) tst hpb|
+aviva uk:pmi (ukgi) tst hpg|
+aviva uk:pmi (ukgi) tst hps|
+aviva uk:pmi (ukgi) uat hpb|
+aviva uk:pmi (ukgi) uat hps|
+aviva uk:pmi prd hpg|
+aviva uk:pmi pre hps|
+aviva uk:poet dev hpb|
+aviva uk:poet dev hpg|
+aviva uk:poet dev hps|
+aviva uk:poet prd hpg|
+aviva uk:poet prd hpg(x)|
+aviva uk:poet prd hpp|
+aviva uk:poet prd hps|
+aviva uk:poet pre hpg|
+aviva uk:poet pre hps|
+aviva uk:poet pre hps(x)|
+aviva uk:poet tst hps|
+aviva uk:poet uat hps|
+aviva uk:poet uat hps(x)|
+aviva uk:pol dev hpg|
+aviva uk:pol dev hps|
+aviva uk:pol prd hpg|
+aviva uk:polestar tst hpb|
+aviva uk:policy sales data db prd hps|
+aviva uk:polisy dev hpb|
+aviva uk:polisy dev hps|
+aviva uk:polisy prd hpg|
+aviva uk:polisy uat hpg|
+aviva uk:polisy uat hps|
+aviva uk:postx dev hpg|
+aviva uk:postx dev hps|
+aviva uk:postx prd hpg|
+aviva uk:postx prd hpg(x)|
+aviva uk:postx prd hps|
+aviva uk:postx pre hpg|
+aviva uk:postx pre hps|
+aviva uk:postx prv hpg|
+aviva uk:postx prv hps|
+aviva uk:postx tst hpb|
+aviva uk:postx tst hps|
+aviva uk:postx uat hps|
+aviva uk:pra viewer dev hpg|
+aviva uk:pra viewer prd hps|
+aviva uk:pra viewer pre hps|
+aviva uk:pra viewer uat hps|
+aviva uk:price optimisation prd hps|
+aviva uk:price optimisation prd hps(x)|
+aviva uk:print advisor tool dev hpb|
+aviva uk:print advisor tool prd hpg|
+aviva uk:print dashboard dev hps|
+aviva uk:print dashboard prd hps|
+aviva uk:print dashboard pre hps|
+aviva uk:print dashboard tst hpb|
+aviva uk:print dashboard tst hps|
+aviva uk:print management dev hpb(x)|
+aviva uk:print management prd hps|
+aviva uk:print monitoring prd hpg|
+aviva uk:print monitoring prd hps|
+aviva uk:print reconciliation prd hpg|
+aviva uk:print reconciliation prd hpp|
+aviva uk:print server (ai) prd hpb|
+aviva uk:print server poc hps|
+aviva uk:print server prd hpb|
+aviva uk:print server prd hpb(x)|
+aviva uk:print server prd hpg|
+aviva uk:print server prd hps|
+aviva uk:print server pre hpb|
+aviva uk:prms dev hpg|
+aviva uk:prms prd hpg|
+aviva uk:prms trn hpg|
+aviva uk:process expert prd hps|
+aviva uk:product catalogue dev hps|
+aviva uk:product catalogue prd hpp|
+aviva uk:product catalogue uat hps|
+aviva uk:property fund calculator prd hpg|
+aviva uk:prophet aviva france prd hps|
+aviva uk:prophet dev hpb|
+aviva uk:prophet dev hps|
+aviva uk:prophet prd hpb|
+aviva uk:prophet prd hpg|
+aviva uk:prophet prd hpg(x)|
+aviva uk:prophet prd hps|
+aviva uk:prophet prd hps(x)|
+aviva uk:prophet pre hpb(x)|
+aviva uk:prophet pre hps|
+aviva uk:prophet uat hps|
+aviva uk:prosper b2b life - barclays dev hpb|
+aviva uk:prosper b2b life - barclays dev hpg|
+aviva uk:prosper b2b life - barclays dev hps|
+aviva uk:prosper b2b life - barclays prd hpg|
+aviva uk:prosper b2b life - barclays prd hps|
+aviva uk:prosper b2b life - barclays pre hpg|
+aviva uk:prosper b2b life - barclays prv hpg|
+aviva uk:prosper b2b life - barclays prv hps|
+aviva uk:prosper b2b life - barclays sit hpb|
+aviva uk:prosper b2b life - barclays sit hpg|
+aviva uk:prosper b2b life - barclays sit hps|
+aviva uk:prosper b2b life - barclays tst hpb|
+aviva uk:prosper b2b life - barclays tst hps|
+aviva uk:prosper b2b life - barclays uat hps|
+aviva uk:prosper b2b life - rbsg dev hpb|
+aviva uk:prosper b2b life - rbsg dev hpg|
+aviva uk:prosper b2b life - rbsg dev hps|
+aviva uk:prosper b2b life - rbsg dev2 hps|
+aviva uk:prosper b2b life - rbsg prd hpg|
+aviva uk:prosper b2b life - rbsg pre hpg|
+aviva uk:prosper b2b life - rbsg pre hps|
+aviva uk:prosper b2b life - rbsg prv hpg|
+aviva uk:prosper b2b life - rbsg prv hps|
+aviva uk:prosper b2b life - rbsg sit hpb|
+aviva uk:prosper b2b life - rbsg sit hps|
+aviva uk:prosper b2b life - rbsg tst hpb|
+aviva uk:prosper b2b life - rbsg tst hps|
+aviva uk:prosper b2b life - rbsg uat hps|
+aviva uk:prosper b2b life - rbsg uat2 hps|
+aviva uk:prosper b2b life - santander dev hpb|
+aviva uk:prosper b2b life - santander dev hpg|
+aviva uk:prosper b2b life - santander dev hps|
+aviva uk:prosper b2b life - santander prd hpg|
+aviva uk:prosper b2b life - santander prd hps|
+aviva uk:prosper b2b life - santander pre hpg|
+aviva uk:prosper b2b life - santander prv hpg|
+aviva uk:prosper b2b life - santander prv hps|
+aviva uk:prosper b2b life - santander sit hpb|
+aviva uk:prosper b2b life - santander sit hpg|
+aviva uk:prosper b2b life - santander sit hps|
+aviva uk:prosper b2b life - santander tst hpb|
+aviva uk:prosper b2b life - santander tst hps|
+aviva uk:prosper b2b life - santander uat hps|
+aviva uk:prosper b2c life - barclays dev hpb|
+aviva uk:prosper b2c life - barclays dev hps|
+aviva uk:prosper b2c life - barclays prd hpg|
+aviva uk:prosper b2c life - barclays pre hpb|
+aviva uk:prosper b2c life - barclays pre hps|
+aviva uk:prosper b2c life - barclays prv hpg|
+aviva uk:prosper b2c life - barclays sit hpb|
+aviva uk:prosper b2c life - barclays sit hps|
+aviva uk:prosper b2c life - barclays tst hpb|
+aviva uk:prosper b2c life - barclays tst hps|
+aviva uk:prosper b2c life - barclays uat hpb|
+aviva uk:prosper b2c life - barclays uat hps|
+aviva uk:prosper b2c life - pofs dev hps|
+aviva uk:prosper b2c life - pofs prd hpg|
+aviva uk:prosper b2c life - pofs pre hpg|
+aviva uk:prosper b2c life - pofs prv hpg|
+aviva uk:prosper b2c life - pofs sit hps|
+aviva uk:prosper b2c life - pofs tst hps|
+aviva uk:prosper b2c life - pofs uat hps|
+aviva uk:prosper b2c life - rbsg tst hps|
+aviva uk:prosper b2c life - tesco dev hpb|
+aviva uk:prosper b2c life - tesco dev hps|
+aviva uk:prosper b2c life - tesco prd hpg|
+aviva uk:prosper b2c life - tesco pre hpg|
+aviva uk:prosper b2c life - tesco prv hps|
+aviva uk:prosper b2c life - tesco sit hps|
+aviva uk:prosper b2c life - tesco tst hps|
+aviva uk:prosper b2c life - tesco uat hps|
+aviva uk:prosper internal toolkit dev hps|
+aviva uk:prosper internal toolkit prd hpg|
+aviva uk:prosper internal toolkit pre hpg|
+aviva uk:prosper internal toolkit sit hps|
+aviva uk:prosper internal toolkit tst hps|
+aviva uk:prosper internal toolkit uat hps|
+aviva uk:prosper life - barclays prd hpg|
+aviva uk:proxy management dev hpb|
+aviva uk:ptr archive prd hps|
+aviva uk:published service broker prd hpp|
+aviva uk:pulse  uat hps|
+aviva uk:pulse applications dev hps|
+aviva uk:pulse applications prd hps|
+aviva uk:pulse dev hpb|
+aviva uk:pulse dev hps|
+aviva uk:pulse prd hpb|
+aviva uk:pulse prd hpg|
+aviva uk:pulse prd hps|
+aviva uk:pulse tst hps|
+aviva uk:pulse uat hps|
+aviva uk:pvcs dev hpb|
+aviva uk:pvcs prd hps|
+aviva uk:pvcs prd hps(x)|
+aviva uk:qars prd hpg|
+aviva uk:qars uat hpb|
+aviva uk:qas (ukgi) dev hpb|
+aviva uk:qas (ukgi) prd hps|
+aviva uk:qas (ukgi) uat hpb|
+aviva uk:qas nearest dev hpb|
+aviva uk:qas nearest dev hpg|
+aviva uk:qas nearest dev hps(x)|
+aviva uk:qas nearest prd hps|
+aviva uk:qas nearest pre hps(x)|
+aviva uk:qas proweb dev hpb|
+aviva uk:qas proweb prd hpg|
+aviva uk:qas proweb prd hps|
+aviva uk:qds prd hpg|
+aviva uk:qlikview (ai) prd hpg|
+aviva uk:qlikview (ai) uatr hpb|
+aviva uk:qlikview (ukgi) prd hpb|
+aviva uk:qmax prd hps|
+aviva uk:qpasa prd hpg|
+aviva uk:qpasa uat2 hpb|
+aviva uk:qpc mig screen pop client dev hpb|
+aviva uk:qpm prd hpg|
+aviva uk:qspf prd hpg|
+aviva uk:qspf uat hpg|
+aviva uk:quad dev hps|
+aviva uk:quad prd hpp|
+aviva uk:quad uat hps|
+aviva uk:quality center 9.0 tst hps|
+aviva uk:quest changeauditor prd hpg|
+aviva uk:quest migrator prd hpb|
+aviva uk:quest migrator prd hps|
+aviva uk:quest reporter prd hpg|
+aviva uk:quest secure copy prd hpb|
+aviva uk:quest uat1 hpb|
+aviva uk:quota management prd hps|
+aviva uk:quotes gears prd hpg|
+aviva uk:racads prd hpp|
+aviva uk:race dev hps|
+aviva uk:race prd hps|
+aviva uk:race tst hps|
+aviva uk:race uat hpg|
+aviva uk:race uat hps|
+aviva uk:racf security dev hpb|
+aviva uk:racf security prd hpg|
+aviva uk:racf security prd hps|
+aviva uk:rad&r - admim uat hpb|
+aviva uk:radar (ukgi rtpo) prd hpg|
+aviva uk:radar (ukgi rtpo) pre hpg|
+aviva uk:radar (ukgi rtpo) sit hpb|
+aviva uk:radar (ukgi rtpo) uat hpb|
+aviva uk:radar prd hpg|
+aviva uk:radar prd hps|
+aviva uk:radar pre hps|
+aviva uk:radia deployment dev hps|
+aviva uk:radia deployment prd hpb|
+aviva uk:radia deployment prd hpg|
+aviva uk:radia deployment prd hps|
+aviva uk:radia deployment pre hps|
+aviva uk:radia deployment tst hps|
+aviva uk:radia deployment uat hps|
+aviva uk:rational prd hps|
+aviva uk:rational uat hps|
+aviva uk:rbde prd hpg|
+aviva uk:rbdn prd hpg|
+aviva uk:rbmi prd hpb|
+aviva uk:rbom dev hpb|
+aviva uk:rbom dev hpg|
+aviva uk:rbom prd hpg|
+aviva uk:rebate tool prd hpg|
+aviva uk:red flag risks dev hps|
+aviva uk:red flag risks prd hpp|
+aviva uk:red flag risks uat hps|
+aviva uk:registry of members prd hpg|
+aviva uk:remote access manager (martini) test hpb|
+aviva uk:remote management (ai) prd hpb|
+aviva uk:remote management (ai) prd hpg|
+aviva uk:remote management (ai) uat hpb|
+aviva uk:respond (life) dev hpb|
+aviva uk:respond (life) dev hpg|
+aviva uk:respond (life) dev hps|
+aviva uk:respond (life) dev hps(x)|
+aviva uk:respond (life) prd hpg|
+aviva uk:respond (life) prd hps|
+aviva uk:respond (life) prd hps(x)|
+aviva uk:respond (life) tst hpb|
+aviva uk:respond (ukgi) dev hps|
+aviva uk:respond (ukgi) prd hpb|
+aviva uk:respond (ukgi) prd hpg(x)|
+aviva uk:respond (ukgi) prd hps(x)|
+aviva uk:rex pre hps|
+aviva uk:rightfax prd hps|
+aviva uk:rightfax tst hps|
+aviva uk:risk&gov self assesment db prd hps|
+aviva uk:rita ii dev hps|
+aviva uk:rita ii prd hpg|
+aviva uk:rita ii prd hpp|
+aviva uk:rita ii uat hps|
+aviva uk:rma dev hpb|
+aviva uk:rma prd hpg|
+aviva uk:robohelp prd hps|
+aviva uk:rochade dev hps|
+aviva uk:rochade prd hps|
+aviva uk:rope prd hps|
+aviva uk:rope prd hpu|
+aviva uk:rostrvm (db) dev hps|
+aviva uk:rostrvm (db) prd hpb|
+aviva uk:rules maintenance application dev hpb|
+aviva uk:rules maintenance application dev hpg|
+aviva uk:rules maintenance application dev hps|
+aviva uk:rules maintenance application prd hpg|
+aviva uk:rules maintenance application prd hps|
+aviva uk:rules maintenance application pre hpg|
+aviva uk:sabre prd hpg|
+aviva uk:safecom prd hpb|
+aviva uk:safeguard prd hpg|
+aviva uk:safeguard prd hps|
+aviva uk:sage dev hps|
+aviva uk:sage prd hps|
+aviva uk:sage pre hps|
+aviva uk:sage trn hps|
+aviva uk:sales intelligence dev hpb|
+aviva uk:sales intelligence dev hps|
+aviva uk:sales intelligence prd hpg|
+aviva uk:sales intelligence prd hpg(x)|
+aviva uk:sales intelligence prd hps|
+aviva uk:sales intelligence prd hps(x)|
+aviva uk:sales intelligence pre hps|
+aviva uk:sales intelligence pre hps(x)|
+aviva uk:sales intelligence tst hpb|
+aviva uk:sales intelligence tst hpg|
+aviva uk:sales intelligence tst hps|
+aviva uk:sales intelligence uat hps|
+aviva uk:sales logix prd hpg|
+aviva uk:sales logix prd hps|
+aviva uk:sales logix pre hps|
+aviva uk:sales management information dev hps|
+aviva uk:sales management information prd hps|
+aviva uk:saleslogix (ai) dev hpb|
+aviva uk:saleslogix (ai) uat1 hpb|
+aviva uk:saleslogix prd hpg|
+aviva uk:sam - secure auth msging prd hpg|
+aviva uk:sam - secure auth msging uat0 hpb|
+aviva uk:sam dev hps|
+aviva uk:sam prd hpp|
+aviva uk:sam tst hps|
+aviva uk:sametime 7.0 prd hps|
+aviva uk:sanctuary (ai) dev hpb|
+aviva uk:sanctuary (ai) prd hpg|
+aviva uk:sanctuary (ai) uat3 hpb|
+aviva uk:sanctuary (hp) prd hps|
+aviva uk:sas (ukgi) dev hps|
+aviva uk:sas (ukgi) prd hpg|
+aviva uk:sas (ukgi) prd hpg(x)|
+aviva uk:sas (ukgi) pre hpg|
+aviva uk:sas (ukgi) pre hps|
+aviva uk:sas (ukgi) uat hps|
+aviva uk:sas abm (ukgi) dev hps|
+aviva uk:sas abm (ukgi) prd hps|
+aviva uk:sas abm (ukl) dev hps|
+aviva uk:sas compute dev hps|
+aviva uk:sas compute prd hpg|
+aviva uk:sas compute pre hps|
+aviva uk:sas compute uat hps|
+aviva uk:sas di studio prd hps|
+aviva uk:sas ds acturis data prd hpg|
+aviva uk:sas ds gemini data prd hpg|
+aviva uk:sas dwh (ukl) prd hps|
+aviva uk:sas dwh (ukl) prd hps(x)|
+aviva uk:sas ent guide v4 sas v9 dev hps|
+aviva uk:sas ent guide v4 sas v9 prd hps|
+aviva uk:sas ent guide v4 sas v9 pre hps|
+aviva uk:sas ent guide v4 sas v9 uat hps|
+aviva uk:sas management console prd hps|
+aviva uk:sas metadata dev hps|
+aviva uk:sas metadata prd hpg|
+aviva uk:sas metadata pre hps|
+aviva uk:sas metadata uat hps|
+aviva uk:sas ms add in dev hps|
+aviva uk:sas ms add in prd hps|
+aviva uk:sas olap cubes prd hps|
+aviva uk:sas olap cubes studio dev hps|
+aviva uk:sas olap cubes studio prd hps|
+aviva uk:sas olap cubes studio pre hps|
+aviva uk:sas olap cubes studio uat hps|
+aviva uk:sas portal dev hps|
+aviva uk:sas portal prd hps|
+aviva uk:sas stored process dev hps|
+aviva uk:sas stored process prd hps|
+aviva uk:sas uk dev hpb|
+aviva uk:sas uk prd hpg|
+aviva uk:sas uk pre hpg|
+aviva uk:sas uk uat hpb|
+aviva uk:sas v8 dev hps|
+aviva uk:sas v8 hc prd hps|
+aviva uk:sas v8 prd hps|
+aviva uk:sas v8 pre hps|
+aviva uk:sas v8 uat hps|
+aviva uk:sas v9 hc dev hps|
+aviva uk:sas v9 hc dev hps(x)|
+aviva uk:sas v9 hc prd hps|
+aviva uk:sas v9 hc prd hps(x)|
+aviva uk:sas v9 hc pre hps|
+aviva uk:sas v9 hc uat hps|
+aviva uk:sas web olap viewer dev hps|
+aviva uk:sas web olap viewer prd hps|
+aviva uk:sas web olap viewer pre hps|
+aviva uk:sas web olap viewer uat hps|
+aviva uk:sas web report studio dev hps|
+aviva uk:sas web report studio prd hps|
+aviva uk:sas web report studio pre hps|
+aviva uk:sas web report studio uat hps|
+aviva uk:sas web report viewer dev hps|
+aviva uk:sas web report viewer prd hps|
+aviva uk:sas web report viewer pre hps|
+aviva uk:sas web report viewer uat hps|
+aviva uk:sast poc hps|
+aviva uk:sbc finance01 prd hps|
+aviva uk:sbc finance01 prd hps(x)|
+aviva uk:sbc finance01 pre hps|
+aviva uk:sbc finance01-spire prd hps(x)|
+aviva uk:sbc finance02 prd hps|
+aviva uk:sbc finance02 prd hps(x)|
+aviva uk:sbc finance02 pre hps|
+aviva uk:sbc gi01 prd hps|
+aviva uk:sbc gi01 pre hps|
+aviva uk:sbc gi01-spire prd hps|
+aviva uk:sbc groupfinance01 prd hps|
+aviva uk:sbc groupfinance01 pre hps|
+aviva uk:sbc healthcare01 prd hps|
+aviva uk:sbc healthcare01 pre hps|
+aviva uk:sbc healthcare01-spire prd hps|
+aviva uk:sbc hp01 prd hps|
+aviva uk:sbc hp01-spire prd hps|
+aviva uk:sbc infrastructure dublin prd hpb|
+aviva uk:sbc infrastructure norwich prd hpg|
+aviva uk:sbc infrastructure norwich prd hps|
+aviva uk:sbc infrastructure norwich prd hps(x)|
+aviva uk:sbc infrastructure norwich pre hps|
+aviva uk:sbc insurancebrokers01 pre hps|
+aviva uk:sbc itsupport prd hps|
+aviva uk:sbc itsupport prd hps(x)|
+aviva uk:sbc itsupport pre hps|
+aviva uk:sbc itsupport01-spire prd hps|
+aviva uk:sbc life01 prd hps|
+aviva uk:sbc life01 pre hps|
+aviva uk:sbc life01-spire prd hps|
+aviva uk:sbc lmg prd hps|
+aviva uk:sbc prophet01 prd hps|
+aviva uk:sbc prophet01 pre hps|
+aviva uk:sbc standby (ai) hps|
+aviva uk:sbc standby hps|
+aviva uk:sbc standby hps(x)|
+aviva uk:scalable prd hps|
+aviva uk:scart prd hps|
+aviva uk:sccm (ai) prd hpb|
+aviva uk:sccm (ai) prd hpg|
+aviva uk:sccm (ai) uat0 hpb|
+aviva uk:sccm poc hps|
+aviva uk:sccm prd hpb|
+aviva uk:sccm prd hpb(x)|
+aviva uk:sccm prd hpg|
+aviva uk:sccm prd hpg(x)|
+aviva uk:sccm prd hps|
+aviva uk:sccm pre hps|
+aviva uk:scheme payments dev hps|
+aviva uk:scheme payments prd hpg|
+aviva uk:scheme payments pre hpg|
+aviva uk:scheme payments pre hps|
+aviva uk:scheme payments tst hps|
+aviva uk:scheme payments uat hps|
+aviva uk:schemes accounting prd hpg|
+aviva uk:schemes accounts prd hpp|
+aviva uk:schemes tracking dev hps|
+aviva uk:schemes tracking prd hps(x)|
+aviva uk:sdc db dev hps|
+aviva uk:sdc db prd hpg|
+aviva uk:sdc db pre hpg|
+aviva uk:sdc db sit hps|
+aviva uk:sdc db tst hps|
+aviva uk:sdc db uat hps|
+aviva uk:securewave dev hps|
+aviva uk:securewave prd hps|
+aviva uk:securewave prd hps(x)|
+aviva uk:self service portal prd hpg|
+aviva uk:self service portal prd hpp|
+aviva uk:self service portal prd hps|
+aviva uk:self service portal pre hpg|
+aviva uk:self service portal pre hps|
+aviva uk:seps dev hps|
+aviva uk:seps prd hpg|
+aviva uk:seps prd hpp|
+aviva uk:seps prd hps|
+aviva uk:seps prd hpu|
+aviva uk:seps pre hps|
+aviva uk:seps uat hps|
+aviva uk:serena dimensions dr hps|
+aviva uk:serena dimensions prd hps|
+aviva uk:serena dimensions uat1 hpb|
+aviva uk:service management dev hps|
+aviva uk:service management prd hpp|
+aviva uk:service management uat hps|
+aviva uk:sharepoint (hp) prd hps|
+aviva uk:sharepoint dev hps|
+aviva uk:siebel 7 dev hpb|
+aviva uk:siebel 7 prd hpg|
+aviva uk:siebel 7 pre hpg|
+aviva uk:siebel 7 uat hpg|
+aviva uk:siebel 8 (ukhe) dev hpg|
+aviva uk:siebel 8 (ukhe) dev hps|
+aviva uk:siebel 8 (ukhe) prd hpg|
+aviva uk:siebel 8 (ukhe) prd hps|
+aviva uk:siebel 8 (ukhe) pre hpg|
+aviva uk:siebel 8 (ukhe) pre hps|
+aviva uk:siebel 8 (ukhe) sit hpg|
+aviva uk:siebel 8 (ukhe) sit hps|
+aviva uk:siebel 8 (ukhe) tst hpg|
+aviva uk:siebel 8 (ukhe) tst hps|
+aviva uk:siebel 8 (ukhe) uat hpg|
+aviva uk:siebel 8 (ukhe) uat hps|
+aviva uk:siebel 8 systhink dev hpb|
+aviva uk:siebel 8 systhink dev hps|
+aviva uk:siebel 8 systhink prd hpg|
+aviva uk:siebel 8 systhink pre hpg|
+aviva uk:siebel 8 systhink pre hps|
+aviva uk:sitefinity cms prd hpg|
+aviva uk:sitestudio prd hps|
+aviva uk:skillport dev hps|
+aviva uk:skillport prd hps|
+aviva uk:smart mail cp dev hpb|
+aviva uk:smart mail cp prd hps|
+aviva uk:smart mail cp pre hps|
+aviva uk:smart mail cp prv hps|
+aviva uk:smart mail cp tst hpb|
+aviva uk:smart mail cp uat hpb|
+aviva uk:sms broker dev hpb|
+aviva uk:sms broker dev hps|
+aviva uk:sms broker prd hps|
+aviva uk:sms messenger dev hpb|
+aviva uk:sms messenger dev hps|
+aviva uk:sms messenger dev hps(x)|
+aviva uk:sms messenger prd hpg|
+aviva uk:sms messenger prd hps|
+aviva uk:sms messenger prd hps(x)|
+aviva uk:smtp hub prd hps|
+aviva uk:softphone (in-house) dev hpb|
+aviva uk:softphone (in-house) prd hpg|
+aviva uk:softphone (in-house) prd hps|
+aviva uk:softphone (in-house) prd hps(x)|
+aviva uk:softphone (in-house) pre hpg|
+aviva uk:softphone (in-house) pre hps|
+aviva uk:softphone (in-house) pre hps(x)|
+aviva uk:softphone (in-house) tst hpb|
+aviva uk:softphone in-house dev hps|
+aviva uk:softphone in-house dev hps(x)|
+aviva uk:softphone log file manager dev hpb|
+aviva uk:softphone log file manager prd hps|
+aviva uk:softphone log file manager pre hps|
+aviva uk:softphone log file manager tst hpb|
+aviva uk:softphone wallboard dev hpb|
+aviva uk:softphone wallboard prd hps|
+aviva uk:softphone wallboard pre hps|
+aviva uk:softphone wallboard tst hpb|
+aviva uk:software ordering dev hpg|
+aviva uk:software ordering dev hps|
+aviva uk:software ordering prd hpg|
+aviva uk:software ordering prd hps|
+aviva uk:solar dev hps|
+aviva uk:solar prd hps(x)|
+aviva uk:solaris management (ai) dr hps|
+aviva uk:solaris management (ai) npe hpb|
+aviva uk:solaris management (ai) npe hps|
+aviva uk:solaris management (ai) prd hpg|
+aviva uk:solaris management (ai) prd hps|
+aviva uk:solas dev hpg|
+aviva uk:solas prd hpg|
+aviva uk:sophos (ai) prd hpb|
+aviva uk:sophos (ai) prd hpg|
+aviva uk:sophos (ai) uat0 hpb|
+aviva uk:sophos prd hps|
+aviva uk:sophos remote mgt system prd hpb|
+aviva uk:spearmint reinsurance prd hpg|
+aviva uk:splunk (ukgi) prd hpg|
+aviva uk:splunk (ukl) prd hpg|
+aviva uk:spotlight prd hpg|
+aviva uk:spotlight prd hpp|
+aviva uk:sql server management (ai) npe hpb|
+aviva uk:sql server management (ai) npe hps|
+aviva uk:sql server management (ai) prd hpg|
+aviva uk:sql server management (aia) npe hpb|
+aviva uk:sql server management (aia) npe hps|
+aviva uk:sql server management (aia) prd hpg|
+aviva uk:sql server management hpb|
+aviva uk:sql server management hpb(x)|
+aviva uk:sql server management hpg|
+aviva uk:sql server management hpg(x)|
+aviva uk:sql server management hps|
+aviva uk:sql server management hps(x)|
+aviva uk:sql ukgi sandpit db dev hpb|
+aviva uk:sql ukgi sandpit db dev hps|
+aviva uk:sql ukl generic db prd hpg|
+aviva uk:srpa server prd hpg|
+aviva uk:ssp portal prd hpp|
+aviva uk:staff pensions ps dev hpb(x)|
+aviva uk:staff pensions ps enterprise prd hpb|
+aviva uk:staff pensions ps enterprise tst hpb|
+aviva uk:staff pensions ps enterprise tst hpb(x)|
+aviva uk:staff pensions ps prd hpb|
+aviva uk:staff pensions ps prd hpg|
+aviva uk:staff pensions ps prd hps|
+aviva uk:staff pensions ps tst hpb|
+aviva uk:staff pensions ps tst hpb(x)|
+aviva uk:staff pensions scanning dev hpb|
+aviva uk:staff pensions scanning prd hpb|
+aviva uk:staff pensions sun accounts prd hpb|
+aviva uk:staff pensions sun accounts prd hpg|
+aviva uk:staff pensions sun accounts tst hpb|
+aviva uk:star aquarius portal prd hpg|
+aviva uk:stellent prd hps|
+aviva uk:storage & backup prd hpb|
+aviva uk:storage & backup prd hpb(x)|
+aviva uk:storage & backup prd hpg|
+aviva uk:storage & backup prd hps|
+aviva uk:storage & backup prd hps(x)|
+aviva uk:strategic printing online dev hpb|
+aviva uk:strategic printing online prd hps|
+aviva uk:strategic printing online pre hps|
+aviva uk:strategic printing online prv hps|
+aviva uk:strategic printing online tst hpb|
+aviva uk:strategic printing online uat hpb|
+aviva uk:sun accounts prd hps|
+aviva uk:sun accounts tst hpb|
+aviva uk:supplier mi dev hps|
+aviva uk:supplier mi prd hpp|
+aviva uk:sv quotes prd hpb|
+aviva uk:sv quotes prd hpg|
+aviva uk:sv quotes prd hps(x)|
+aviva uk:sv quotes tst hpb|
+aviva uk:symantec enterprise vault prd hpg|
+aviva uk:system arch catalog mgr (ai) prd hpg|
+aviva uk:system arch encyc mgr (ai) prd hpg|
+aviva uk:system arch inf web pubsher (ai) prd hpg|
+aviva uk:system architect (ai) prd hpg|
+aviva uk:system architect compare (ai) prd hpg|
+aviva uk:system architect dev hps|
+aviva uk:system architect prd hpg|
+aviva uk:system architect prd hps|
+aviva uk:system architect tst hpb|
+aviva uk:system architect tst hpb(x)|
+aviva uk:system architect tst hps|
+aviva uk:system management (oracle) dev hpg|
+aviva uk:system management (oracle) dev hps|
+aviva uk:system management (oracle) prd hpg(x)|
+aviva uk:systems inventory dev hps|
+aviva uk:systems inventory prd hps|
+aviva uk:tam 5 (ecommerce) dev hpb|
+aviva uk:tam 5 (ecommerce) dev hpg|
+aviva uk:tam 5 (ecommerce) dev hps|
+aviva uk:tam 5 (ecommerce) dev hps(x)|
+aviva uk:tam 5 (ecommerce) prd hpg|
+aviva uk:tam 5 (ecommerce) prd hps|
+aviva uk:tam 5 (ecommerce) pre hpb|
+aviva uk:tam 5 (ecommerce) pre hpg|
+aviva uk:tam 5 (ecommerce) pre hps|
+aviva uk:tam 5 (ecommerce) prv hpg|
+aviva uk:tam 5 (ecommerce) sit hpb|
+aviva uk:tam 5 (ecommerce) sit hps|
+aviva uk:tam 5 (ecommerce) tst hpb|
+aviva uk:tam 5 (ecommerce) tst hps|
+aviva uk:tam 5 (ecommerce) uat hpb|
+aviva uk:tam 5 (ecommerce) uat hpg|
+aviva uk:tam 5 (ecommerce) uat hps|
+aviva uk:tam 5 (ecommerce) uat hps(x)|
+aviva uk:tam 5 (webseal) prd hpg|
+aviva uk:tam 6 (ecommerce) dev hpb|
+aviva uk:tam 6 (ecommerce) dev hpg|
+aviva uk:tam 6 (ecommerce) dev hps|
+aviva uk:tam 6 (ecommerce) prd hpg|
+aviva uk:tam 6 (ecommerce) prd hps|
+aviva uk:tam 6 (ecommerce) pre hpg|
+aviva uk:tam 6 (ecommerce) pre hps|
+aviva uk:tam 6 (ecommerce) prv hpg|
+aviva uk:tam 6 (ecommerce) prv hps|
+aviva uk:tam 6 (ecommerce) sit hpb|
+aviva uk:tam 6 (ecommerce) sit hps|
+aviva uk:tam 6 (ecommerce) tst hpb|
+aviva uk:tam 6 (ecommerce) tst hps|
+aviva uk:tam 6 (ecommerce) uat hpb|
+aviva uk:tam 6 (ecommerce) uat hpg|
+aviva uk:tam 6 (ecommerce) uat hps|
+aviva uk:tam 6 (webseal) dev hpg|
+aviva uk:tam 6 (webseal) dev hps|
+aviva uk:tam 6 (webseal) prd hpg|
+aviva uk:tam 6 (webseal) pre hpg|
+aviva uk:tam-sso (desktop) dev hpg|
+aviva uk:tam-sso (desktop) dev hps|
+aviva uk:tam-sso (desktop) prd hpg|
+aviva uk:tam-sso (desktop) prd hpg(x)|
+aviva uk:tam-sso (desktop) prd hps|
+aviva uk:tam-sso (desktop) prd hps(x)|
+aviva uk:tam-sso (desktop) pre hpb|
+aviva uk:tam-sso (desktop) pre hpg|
+aviva uk:tam-sso (desktop) pre hps|
+aviva uk:tam-sso (desktop) pre hps(x)|
+aviva uk:tam-sso (desktop) tst hps|
+aviva uk:tam-sso (desktop) uat hps|
+aviva uk:tam-sso (desktop) uat hps(x)|
+aviva uk:tape services prd hpb|
+aviva uk:tape services prd hpg|
+aviva uk:tape services prd hps|
+aviva uk:tape services prd hps(x)|
+aviva uk:tardis informatica dev hpb|
+aviva uk:tardis informatica dev hps|
+aviva uk:tardis informatica prd hpg|
+aviva uk:tardis informatica prd hps|
+aviva uk:tardis informatica pre hpb|
+aviva uk:tardis informatica tst hpb|
+aviva uk:tardis informatica uat hpb|
+aviva uk:tardis informatica uat hps|
+aviva uk:tax calculator dev hps|
+aviva uk:tax calculator prd hps|
+aviva uk:tax calculator prd hps(x)|
+aviva uk:tcim dev hps|
+aviva uk:tdi6 dev hpg|
+aviva uk:tdi6 dev hps|
+aviva uk:tdi6 prd hpg|
+aviva uk:tdi6 prd hps|
+aviva uk:tdi6 pre hpg|
+aviva uk:tdi6 pre hps|
+aviva uk:tdi6 uat hps|
+aviva uk:team pages - nucs dev hps|
+aviva uk:team pages - nucs prd hps|
+aviva uk:teamworks prd hps|
+aviva uk:teamworks uat2 hpb|
+aviva uk:teradata management dev hpb|
+aviva uk:teradata management dev hps|
+aviva uk:teradata management dev hps(x)|
+aviva uk:teradata management npe dr hps|
+aviva uk:teradata management prd hps|
+aviva uk:teradata management tst hpb|
+aviva uk:teradata management tst hps|
+aviva uk:teradata management tst hps(x)|
+aviva uk:teradata viewpoint dev hps|
+aviva uk:teradata viewpoint dr hps|
+aviva uk:teradata viewpoint prd hps|
+aviva uk:tim5 dev hpg|
+aviva uk:tim5 dev hps|
+aviva uk:tim5 prd hpg|
+aviva uk:tim5 pre hpg|
+aviva uk:tim5 pre hps|
+aviva uk:tivoli compliance insight manager prd hps|
+aviva uk:tivoli management gateway prd hps|
+aviva uk:tivoli monitoring dev hpg|
+aviva uk:tivoli monitoring dev hpg(x)|
+aviva uk:tivoli monitoring dev hps|
+aviva uk:tivoli monitoring dev hps(x)|
+aviva uk:tivoli monitoring prd hpb|
+aviva uk:tivoli monitoring prd hpg|
+aviva uk:tivoli monitoring prd hpg(x)|
+aviva uk:tivoli monitoring prd hps|
+aviva uk:tivoli monitoring prd hps(x)|
+aviva uk:tivoli monitoring tst hpb|
+aviva uk:tlm smartstream prd hpg|
+aviva uk:tlm smartstream prd hpg(x)|
+aviva uk:tlm smartstream prd hps|
+aviva uk:tlm smartstream tst hpb|
+aviva uk:tlm smartstream tst hps|
+aviva uk:tlm smartstream uat hpb|
+aviva uk:tm1 1vot dev hpb|
+aviva uk:tm1 1vot dev hps|
+aviva uk:tm1 1vot prd hps|
+aviva uk:tm1 1vot prd hps(x)|
+aviva uk:tm1 1vot uat hpb|
+aviva uk:tm1 1vot uat hps|
+aviva uk:tm1 actuarial dev hpb|
+aviva uk:tm1 actuarial dev hps|
+aviva uk:tm1 actuarial prd hps|
+aviva uk:tm1 actuarial prd hps(x)|
+aviva uk:tm1 bscf dev hpb|
+aviva uk:tm1 bscf dev hps|
+aviva uk:tm1 bscf prd hps|
+aviva uk:tm1 bscf prd hps(x)|
+aviva uk:tm1 bscf uat hpb|
+aviva uk:tm1 bscf uat hps|
+aviva uk:tm1 eaf adjustments dev hpb|
+aviva uk:tm1 eaf adjustments prd hps|
+aviva uk:tm1 eaf adjustments uat hpb|
+aviva uk:tm164 (ai) prd hps|
+aviva uk:tm164 (ai) uat hpb|
+aviva uk:tms - travel medical screening dev hps|
+aviva uk:tms - travel medical screening prd hpp|
+aviva uk:tms - travel medical screening uat hps|
+aviva uk:tmu prd hpb|
+aviva uk:tmu prd hpb(x)|
+aviva uk:tmu prd hps|
+aviva uk:tmu prd hps(x)|
+aviva uk:tmu uat hpb|
+aviva uk:top desk prd hps|
+aviva uk:top desk prd hps(x)|
+aviva uk:total incident management - colossus dev hps|
+aviva uk:total incident management - colossus prd hpg|
+aviva uk:total incident management - colossus prd hpp|
+aviva uk:total incident management - colossus uat hps|
+aviva uk:total incident management - sps dev hps|
+aviva uk:total incident management - sps prd hpp|
+aviva uk:total incident managemetn - sps uat hps|
+aviva uk:trackpoint dev hpb|
+aviva uk:trackpoint prd hps|
+aviva uk:transaction cache prd hpg|
+aviva uk:transaction cache prd hpg(x)|
+aviva uk:trillium dev hps|
+aviva uk:trillium prd hpp|
+aviva uk:trillium sit hps|
+aviva uk:trillium tst hps|
+aviva uk:trillium uat hps|
+aviva uk:trojan mi dev hps|
+aviva uk:trojan mi prd hpp|
+aviva uk:tsm prd hpb|
+aviva uk:tsm prd hpg|
+aviva uk:tsm prd hpg(x)|
+aviva uk:tsm prd hps(x)|
+aviva uk:tso infoman dev hps|
+aviva uk:tvas dev hps|
+aviva uk:tvas prd hps|
+aviva uk:tvas tst hps|
+aviva uk:ukdi data feed prd hps|
+aviva uk:ukdi fast track renewals dev hpb|
+aviva uk:ukdi fast track renewals pre hps|
+aviva uk:ukdi fast track renewals prv hps|
+aviva uk:ukdi fast track renewals tst hpb|
+aviva uk:ukdi fast track renewals uat hpb|
+aviva uk:ukdi fast track renewals uat hps|
+aviva uk:ukdi home call centre web q&b dev hpb|
+aviva uk:ukdi home call centre web q&b prd hpg|
+aviva uk:ukdi home call centre web q&b prd hps|
+aviva uk:ukdi home call centre web q&b pre hpb|
+aviva uk:ukdi home call centre web q&b pre hpg|
+aviva uk:ukdi home call centre web q&b pre hps|
+aviva uk:ukdi home call centre web q&b sit hpb|
+aviva uk:ukdi home quote & buy dev hpb|
+aviva uk:ukdi home quote & buy dev hps|
+aviva uk:ukdi home quote & buy pre hps|
+aviva uk:ukdi home quote & buy prv hps|
+aviva uk:ukdi home quote & buy tst hpb|
+aviva uk:ukdi home quote & buy uat hpb|
+aviva uk:ukdi internet dev hps|
+aviva uk:ukdi internet dev hps(x)|
+aviva uk:ukdi internet prd hpb|
+aviva uk:ukdi internet prd hps|
+aviva uk:ukdi internet tst hpb|
+aviva uk:ukdi internet tst hps|
+aviva uk:ukdi motor call centre web q&b dev hpb|
+aviva uk:ukdi motor call centre web q&b prd hpg|
+aviva uk:ukdi motor call centre web q&b prd hps|
+aviva uk:ukdi motor call centre web q&b pre hpb|
+aviva uk:ukdi motor call centre web q&b pre hpg|
+aviva uk:ukdi motor call centre web q&b pre hps|
+aviva uk:ukdi motor call centre web q&b tst hpb|
+aviva uk:ukdi motor call centre web q&b uat hpb|
+aviva uk:ukdi motor quote & buy dev hpb|
+aviva uk:ukdi motor quote & buy dev hps|
+aviva uk:ukdi motor quote & buy pre hps|
+aviva uk:ukdi motor quote & buy prv hps|
+aviva uk:ukdi motor quote & buy tst hpb|
+aviva uk:ukdi motor quote & buy uat hpb|
+aviva uk:ukdi policy tracking (ned) dev hps|
+aviva uk:ukdi policy tracking (ned) prd hpp|
+aviva uk:ukdi policy tracking (ned) uat hps|
+aviva uk:ukdi quote & buy dev hpb|
+aviva uk:ukdi quote & buy prd hps|
+aviva uk:ukdi quote & buy pre hpb|
+aviva uk:ukdi quote & buy pre hpg|
+aviva uk:ukdi quote & buy pre hps|
+aviva uk:ukdi quote & buy prv hps|
+aviva uk:ukdi quote & buy tst hpb|
+aviva uk:ukdi quote & buy tst hps|
+aviva uk:ukdi quote & buy uat hpb|
+aviva uk:ukdi rescue q&b dev hpb|
+aviva uk:ukdi rescue q&b dev hps|
+aviva uk:ukdi rescue q&b pre hps|
+aviva uk:ukdi rescue q&b prv hps|
+aviva uk:ukdi rescue q&b tst hpb|
+aviva uk:ukdi rescue q&b uat hpb|
+aviva uk:ukdi travel quote & buy dev hpb|
+aviva uk:ukdi travel quote & buy dev hps|
+aviva uk:ukdi travel quote & buy pre hps|
+aviva uk:ukdi travel quote & buy prv hps|
+aviva uk:ukdi travel quote & buy tst hpb|
+aviva uk:ukdi travel quote & buy uat hpb|
+aviva uk:ukgi bucket hp hs|
+aviva uk:ukgi complaints prd hpp|
+aviva uk:ukgi ebroking web q&b prd hps|
+aviva uk:ukhe bucket hp hs|
+aviva uk:ukl bucket hp hs|
+aviva uk:ukl marketing mi prd hps|
+aviva uk:un sanctions (c6) prd hpp|
+aviva uk:un sanctions (c6) uat hps|
+aviva uk:underwriting authorities dev hps|
+aviva uk:underwriting authorities prd hpp|
+aviva uk:underwriting authorities uat hps|
+aviva uk:underwriting self-assessment dev hps|
+aviva uk:underwriting self-assessment prd hpp|
+aviva uk:underwriting self-assessment uat hps|
+aviva uk:uniprint prd hps|
+aviva uk:unisure dev hpg|
+aviva uk:unisure dev hpg(x)|
+aviva uk:unisure dev hps|
+aviva uk:unisure dev hps(x)|
+aviva uk:unisure ftp prd hpb|
+aviva uk:unisure poc hps|
+aviva uk:unisure prd hpb|
+aviva uk:unisure prd hpg|
+aviva uk:unisure prd hpg(x)|
+aviva uk:unisure prd hpp|
+aviva uk:unisure pre hpg|
+aviva uk:unisure pre hpp|
+aviva uk:unisure pre hps|
+aviva uk:unisure tst hpg|
+aviva uk:unisure tst hpg(x)|
+aviva uk:unisure tst hps|
+aviva uk:unisure uat hpg|
+aviva uk:unisure uat hps|
+aviva uk:upp claims analytics dev hpb|
+aviva uk:upp claims analytics prd hpg|
+aviva uk:upp claims analytics uat hps|
+aviva uk:upp pricing datamarts dev hpb|
+aviva uk:upp pricing datamarts dev hpg|
+aviva uk:upp pricing datamarts prd hpg|
+aviva uk:upp pricing datamarts prd hps|
+aviva uk:upp pricing datamarts uat hpb|
+aviva uk:upp pricing datamarts uat hpg|
+aviva uk:val98 (vs) prd hpg|
+aviva uk:valuation phi prd hpg|
+aviva uk:value management prd hps|
+aviva uk:value master prd hpg|
+aviva uk:variable annuity dev hpb|
+aviva uk:variable annuity dev hpg|
+aviva uk:variable annuity prd hpg|
+aviva uk:variable annuity prd hps|
+aviva uk:vca self service portal dev hpb|
+aviva uk:vca self service portal pre hps|
+aviva uk:vca self service portal tst hpb|
+aviva uk:vca self service portal uat hps|
+aviva uk:vio prd hpb|
+aviva uk:vio prd hpg|
+aviva uk:vio prd hpg(x)|
+aviva uk:vio prd hps|
+aviva uk:vio prd hps(x)|
+aviva uk:vio pre hpb|
+aviva uk:vio tst hpb|
+aviva uk:vio tst hpb(x)|
+aviva uk:virtual centre dev hpb|
+aviva uk:virtual centre prd hpg|
+aviva uk:virtual centre prd hps|
+aviva uk:virtual host (ai) prd hpg|
+aviva uk:virtual host dev hpb|
+aviva uk:virtual host dev hps|
+aviva uk:virtual host prd hpg|
+aviva uk:virtual host prd hps|
+aviva uk:virtual host pre hpg|
+aviva uk:virtual host pre hps|
+aviva uk:virtual management (ai) prd hpg|
+aviva uk:virtual management dev hpb|
+aviva uk:virtual management dr hps|
+aviva uk:virtual management prd hpg|
+aviva uk:virtual management prd hpg(x)|
+aviva uk:virtual management prd hps|
+aviva uk:virtual management prd hps(x)|
+aviva uk:wagner ds lite dev hps|
+aviva uk:wagner ds lite prd hpg|
+aviva uk:wallboard (inova) prd hps|
+aviva uk:wcc dev hpb|
+aviva uk:wcc dev hpg|
+aviva uk:wcc prd hpg|
+aviva uk:wcc prd hpp|
+aviva uk:wcc pre hpp|
+aviva uk:wcc tst hpg|
+aviva uk:wcc tst hps|
+aviva uk:web enabled siebel pre hps|
+aviva uk:web enabled siebel uat hps|
+aviva uk:web monitoring prd hpb|
+aviva uk:web service gateway (fuse) dev hpb|
+aviva uk:web service gateway (fuse) prd hpg|
+aviva uk:web service gateway (fuse) pre hpb|
+aviva uk:web service gateway (fuse) prv hpb|
+aviva uk:web service gateway (fuse) tst hpb|
+aviva uk:web service gateway (fuse) uat hpb|
+aviva uk:web support intranet eventviewer prd hpg(x)|
+aviva uk:web support intranet eventviewer prd hps|
+aviva uk:web support intranet eventviewer pre hpb|
+aviva uk:web support intranet eventviewer pre hps|
+aviva uk:web support intranet eventviewer pre hps(x)|
+aviva uk:web support intranet eventviewer tst hpb|
+aviva uk:web support intranet eventviewer tst hpb(x)|
+aviva uk:web support intranet eventviewer tst hpg|
+aviva uk:web support intranet eventviewer tst hps|
+aviva uk:web support intranet eventviewer tst hps(x)|
+aviva uk:web support intranet eventviewer uat hpb|
+aviva uk:web support intranet eventviewer uat hpg|
+aviva uk:web support intranet eventviewer uat hpg(x)|
+aviva uk:web support intranet eventviewer uat hps|
+aviva uk:web support intranet eventviewer uat hps(x)|
+aviva uk:websense prd hps|
+aviva uk:webseries dev hpb|
+aviva uk:webseries dev hps|
+aviva uk:webseries prd hpg|
+aviva uk:webseries prd hpp|
+aviva uk:webseries prd hps(x)|
+aviva uk:webseries pre hps|
+aviva uk:websphere business monitor dev hps|
+aviva uk:websphere business monitor prd hpg|
+aviva uk:websphere business monitor pre hpg|
+aviva uk:websphere business monitor prv hps|
+aviva uk:websphere business monitor sit hps|
+aviva uk:websphere business monitor tst hps|
+aviva uk:websphere business monitor uat hps|
+aviva uk:whats up gold norwich prd hpg|
+aviva uk:whats up gold york prd hps|
+aviva uk:whiteboard - its dev hps|
+aviva uk:whiteboard - its prd hps|
+aviva uk:wiki prd hps|
+aviva uk:wiki uat1 hpb|
+aviva uk:wintel shared app (ai) npe hpb|
+aviva uk:wintel shared app (ai) npe hps|
+aviva uk:wintel shared app (ai) prd hpg|
+aviva uk:wipro tools vms bhive prd hps|
+aviva uk:work monitoring prd hpp|
+aviva uk:workplace savings hub (sso) dev hpb|
+aviva uk:workplace savings hub (sso) dev hps|
+aviva uk:workplace savings hub (sso) prd hpg|
+aviva uk:workplace savings hub (sso) pre hpg|
+aviva uk:workplace savings hub (sso) pre hps|
+aviva uk:workplace savings hub (sso) prv hpg|
+aviva uk:workplace savings hub (sso) sit hpb|
+aviva uk:workplace savings hub (sso) sit hps|
+aviva uk:workplace savings hub (sso) tst hpb|
+aviva uk:workplace savings hub (sso) tst hps|
+aviva uk:workplace savings hub (sso) uat hpb|
+aviva uk:workplace savings hub (sso) uat hps|
+aviva uk:wps (ukhe) database prd hpg|
+aviva uk:wps (ukhe) dev hpb|
+aviva uk:wps (ukhe) dev hpg|
+aviva uk:wps (ukhe) dev hps|
+aviva uk:wps (ukhe) prd hpg|
+aviva uk:wps (ukhe) pre hpg|
+aviva uk:wps (ukhe) sit hpg|
+aviva uk:wps (ukhe) trn hps|
+aviva uk:wps (ukhe) tst hpg|
+aviva uk:wps (ukhe) tst hps|
+aviva uk:wps (ukhe) uat hps|
+aviva uk:wps dev hpg|
+aviva uk:wps dev hps|
+aviva uk:wps dev hps(x)|
+aviva uk:wps prd hpg(x)|
+aviva uk:wps trn hps|
+aviva uk:wps uat hpg|
+aviva uk:wsrte (ireland) prd hpg|
+aviva uk:wsrte (ireland) pre hpg|
+aviva uk:wsrte prd hpg|
+aviva uk:wsrte pre hpg|
+aviva uk:wsrte sit hpb|
+aviva uk:wsrte uat hpb|
+aviva uk:xml broker processor dev hpg|
+aviva uk:xml broker processor prd hps|
+aviva uk:xml cont enq bond prd hpg|
+aviva uk:xml cont enq pension prd hpg|
+aviva uk:xml cont enq txnhist bond prd hpg|
+aviva uk:xml cont enq txnhist pension prd hpg|
+aviva uk:xml messaging dev hpb|
+aviva uk:xml new joiner dev hpb|
+aviva uk:xml new joiner dev hps|
+aviva uk:xml new joiner prd hpg|
+aviva uk:xml new joiner prd hpg(x)|
+aviva uk:xml new joiner prd hpp|
+aviva uk:xml new joiner pre hpg|
+aviva uk:xml new joiner pre hpg(x)|
+aviva uk:xml new joiner pre hps|
+aviva uk:xml new joiner pre hps(x)|
+aviva uk:xml new joiner prv hpg|
+aviva uk:xml new joiner sit hpb|
+aviva uk:xml new joiner sit hps|
+aviva uk:xml new joiner tst hpb|
+aviva uk:xml new joiner tst hpg|
+aviva uk:xml new joiner uat hpb|
+aviva uk:xml new joiner uat hpb(x)|
+aviva uk:xml new joiner uat hps|
+aviva uk:xml new joiner uat hps(x)|
+aviva uk:xml trans history prd hpg|
+aviva uk:your reports dev hpb|
+aviva uk:your reports dev hpg|
+aviva uk:your reports dev hps|
+aviva uk:your reports prd hpg|
+aviva uk:your reports prd hpg(x)|
+aviva uk:your reports prd hps|
+aviva uk:your reports prd hps(x)|
+aviva uk:your reports tst hpb|
+aviva uk:your reports tst hps|

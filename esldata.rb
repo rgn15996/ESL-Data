@@ -287,20 +287,34 @@ module ESLdata
     # puts "Loaded #{count} rows from relationship data"
   end
 
-  def ESLdata.load_hsns(hsns)
+  def ESLdata.load_solutions(sols)
     count = 0
-    #puts "Loading HSN data"
+    #puts "Loading SOlution data"
     CSV.foreach("data/esl_aviva_3_sol.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
-      hsns[count] = row
-      hsns[count].each do |field, value|
+      sols[count] = row
+      sols[count].each do |field, value|
         if value.nil? then
-          hsns[count][field] = "#UNDEFINED#"
+          sols[count][field] = "#UNDEFINED#"
         end
       end
       count += 1
     end
-    #puts "Loaded #{count} rows from HSN data"
-  end    
+    #puts "Loaded #{count} rows from Solution data"
+  end  
+  def ESLdata.load_business_solutions(sols)
+    count = 0
+    #puts "Loading SOlution data"
+    CSV.foreach("data/esl_aviva_11_bus_sol.csv", {:headers => true, :header_converters => :symbol, :col_sep => "|"}) do |row|
+      sols[count] = row
+      sols[count].each do |field, value|
+        if value.nil? then
+          sols[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+    #puts "Loaded #{count} rows from Solution data"
+  end  
 
   def ESLdata.load_instances(instances)
     count = 0
@@ -340,6 +354,66 @@ module ESLdata
     end
     vmhosts
   end
+  
 
+  def ESLdata.load_BPOS_exclusions(items)
+    count = 0
+    source = "data/BPOS-exclusions-oct-2013.csv"
+    opts = {:headers => true, :header_converters => :symbol}
+    CSV.foreach(source, opts) do |row|
+      items[count] = row
+      items[count].each do |field, value|
+        if value.nil? then
+          items[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
+
+  def ESLdata.load_DIST(items)
+    count = 0
+    source = "data/DIST-corrected-oct-2013.csv"
+    opts = {:headers => true, :header_converters => :symbol}
+    CSV.foreach(source, opts) do |row|
+      items[count] = row
+      items[count].each do |field, value|
+        if value.nil? then
+          items[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
+
+  def ESLdata.load_MID_exclusions(items)
+    count = 0
+    source = "data/MID-exclusions-oct-2013.csv"
+    opts = {:headers => true, :header_converters => :symbol}
+    CSV.foreach(source, opts) do |row|
+      items[count] = row
+      items[count].each do |field, value|
+        if value.nil? then
+          items[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
+
+  def ESLdata.load_LINUX_inclusions(items)
+    count = 0
+    source = "data/LINUX-inclusions-oct-2013.csv"
+    opts = {:headers => true, :header_converters => :symbol}
+    CSV.foreach(source, opts) do |row|
+      items[count] = row
+      items[count].each do |field, value|
+        if value.nil? then
+          items[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
 
 end

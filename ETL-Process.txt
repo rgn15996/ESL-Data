@@ -1,0 +1,9 @@
+1) run TEST-dataload.rb on clean neo4j install // NOT creating unique solutions!
+2) stop neo4j
+3) loadfile label_solutions.cql
+4) loadfile create_indices.cql
+5) loadfile set-labels.cql
+6) run gen-relations.rb > rels.cql
+7) loadfile rels.cql
+8) run gen_sol_relations.rb > sols.cql
+9) loadfile sols.cql

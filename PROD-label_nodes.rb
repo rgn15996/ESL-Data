@@ -4,7 +4,7 @@ require 'neography'
 
 @neo = Neography::Rest.new
 
-query_string = "MATCH n WHERE n.system_type! = 'server' " + 
+query_string = "MATCH n WHERE n.system_type = 'server' " + 
                "SET n:server " +
                "RETURN n.full_node_name;"
 @neo.execute_query(query_string)
