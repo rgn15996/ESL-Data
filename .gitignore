@@ -1,6 +1,7 @@
 # Exclude the data
 data/
 old-data/
+*.csv
 
 #################
 ## Eclipse
