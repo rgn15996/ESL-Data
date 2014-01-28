@@ -12,12 +12,14 @@ require "#{File.dirname(__FILE__)}/esldata"
 srvs = Array.new
 sols = Array.new
 solmap = Array.new
+ci_rels = Array.new
 
 # open nodes file for writing
 
 ci_file = File.open('ci.csv', "w")
 sol_file = File.open('sol.csv', "w")
 sol_rel_file = File.open('sol_rels.csv', "w")
+ci_rel_file = File.open('ci_rels.csv', "w")
 
 # Load basic CI data into an array
 ESLdata.load_servers(srvs)
@@ -110,16 +112,23 @@ sol_file.close()
 
 # Load solution to ci mappings
 ESLdata.load_solutions(solmap)
-puts "Solution fields"
 
-sizy = 0
-solmap[0].each do |key,value|
+# sizy = 0
+# solmap[0].each do |key,value|
 
-  puts "#{sizy} #{key}"
-  sizy += 1
-end
+#   puts "#{sizy} #{key}"
+#   sizy += 1
+# end
 
-solmap.each do |inst|
+puts "write solution relationship header"
+
+sol_rel_file.write("start\tend\ttype\n")
+
+puts "Write solution relationship data"
+sol_rels_length = solmap.length
+solmap.each_with_index do |inst, indx_rel|
+  percent = (indx_rel * 100 / sol_rels_length) 
+  print "\r#{percent}% complete"
 	srvs.each_with_index do |srv, indx_srv|
 		if srv[:full_node_name] == inst[:full_node_name] then
 			# found the server in the srvs array
@@ -138,3 +147,46 @@ solmap.each do |inst|
 end
 
 sol_rel_file.close()
+# load ci relationships
+ESLdata.load_relations(ci_rels)
+
+puts "write ci relationship header"
+
+ci_rel_file.write("start\tend\ttype\trelation\n")
+
+puts "Write ci relationship data"
+# loop through the ci relationships and for each...
+# go through the ci list finding the child and parent then 
+# output the child, parent relation to csv file
+#
+ci_rels_length = ci_rels.length
+puts "#{ci_rels_length} relations"
+ci_rels.each_with_index do |rel, indx_rel|
+	percent = (indx_rel * 100 / ci_rels_length) 
+	print "\r#{percent}% complete"
+	parent = 0
+	child = 0
+	relation = ""
+	srvs.each_with_index do |srv, indx_srv|
+		if srv[:full_node_name] == rel[:full_node_name] then
+			child = indx_srv
+		end
+		if srv[:full_node_name] == rel[:parent_system] then
+			parent = indx_srv
+			relation = rel[:relation_type]
+		end
+	end
+	if child && parent then
+		ci_rel_file.write(child)
+		ci_rel_file.write("\t")
+		ci_rel_file.write(parent)
+		ci_rel_file.write("\t")
+		ci_rel_file.write("DEPENDS_ON\t")
+		ci_rel_file.write(relation)
+		ci_rel_file.write("\n")
+		# puts "child: #{child} parent: #{parent} relation: #{relation}"
+	else
+		puts "--- NO RELATION --- for #{rel[:full_node_name]}"
+	end
+end
+ci_rel_file.close()
