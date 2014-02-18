@@ -6,13 +6,18 @@
 #
 require 'csv'
 require 'rubygems'
-require 'json'
+# require 'json'
 require "#{File.dirname(__FILE__)}/esldata"
 
 srvs = Array.new
 sols = Array.new
 solmap = Array.new
 ci_rels = Array.new
+assets = Array.new
+doms_dc2 = Array.new
+doms_dc3 = Array.new
+doms_wynyard = Array.new
+doms = Array.new
 
 # open nodes file for writing
 
@@ -23,6 +28,36 @@ ci_rel_file = File.open('ci_rels.csv', "w")
 
 # Load basic CI data into an array
 ESLdata.load_servers(srvs)
+
+# add asset fields
+# This is a bit of a kludge, but it'll get us working...
+
+srvs.each do |srv|
+	srv[:asset_number] = ""
+	srv[:asset_owner] = ""
+	srv[:manufacturer] = ""
+	srv[:purchase_date] = ""
+	srv[:serial_number] = ""
+	srv[:system_model] = ""
+	srv[:doms_rfid] = ""
+	srv[:doms_serial_number] = ""
+	srv[:doms_model_type] = ""
+	srv[:doms_model_name] = ""
+	srv[:doms_brand_name] = ""
+end
+
+# load asset sheet
+ESLdata.load_assets(assets)
+
+# load doms data
+
+ESLdata.load_doms(doms_dc2, "doms_dc2.csv")
+ESLdata.load_doms(doms_dc3, "doms_dc3.csv")
+ESLdata.load_doms(doms_wynyard, "doms_wynyard.csv")
+
+doms.concat doms_dc2
+doms.concat doms_dc3
+doms.concat doms_wynyard
 
 # puts "Server fields"
 # sizy = 0
@@ -47,6 +82,40 @@ srv_length = srvs.length
 puts "There are #{srvs.length} servers, #{srvs.uniq.length} unique"
 puts "There are #{sols.length} business solutions, #{sols.uniq.length} unique"
 
+# Add asset data to the ci data
+
+puts "Adding asset information to CI list"
+srvs.each_with_index do |srv, indx_srv|
+	percent = (indx_srv * 100 / srv_length) 
+  print "\r#{percent}% complete"
+	assets.each do |asset|
+		if asset[:full_node_name] ==srv[:full_node_name] then
+			srv[:asset_number] = asset[:asset_number]
+			srv[:asset_owner] = asset[:asset_owner]
+			srv[:manufacturer] = asset[:manufacturer]
+			srv[:purchase_date] = asset[:purchase_date]
+			srv[:serial_number] = asset[:serial_number]
+			srv[:system_model] = asset[:system_model]
+			srv[:doms_rfid] = asset[:doms_rfid]
+		end
+	end
+end
+print "\n"
+
+puts "Adding DOMS information to CI list"
+srvs.each_with_index do |srv, indx_srv|
+	percent = (indx_srv * 100 / srv_length) 
+  print "\r#{percent}% complete"
+	doms.each do |device|
+		if device[:rfid_tag] == srv[:doms_rfid] then
+			srv[:doms_serial_number] = device[:serial_number]
+			srv[:doms_model_type] = device[:model_type]
+			srv[:doms_model_name] = device[:model_name]
+			srv[:doms_brand_name] = device[:brand_name]
+		end
+	end
+end
+print "\n"
 puts "Write CI header row"
 
 ci_file.write("l:label\t")
@@ -76,7 +145,6 @@ srvs.each_with_index do |srv, index|
 		indx += 1
 	end
 end
-
 
 puts "Write Sol header row"
 
@@ -145,6 +213,7 @@ solmap.each_with_index do |inst, indx_rel|
 		end
 	end
 end
+print "\n"
 
 sol_rel_file.close()
 # load ci relationships
@@ -189,4 +258,6 @@ ci_rels.each_with_index do |rel, indx_rel|
 		puts "--- NO RELATION --- for #{rel[:full_node_name]}"
 	end
 end
+print "\n"
+
 ci_rel_file.close()

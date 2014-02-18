@@ -1,0 +1,1 @@
+MATCH (x:ci) RETURN x.full_node_name, ID(x);

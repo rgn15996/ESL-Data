@@ -331,6 +331,37 @@ module ESLdata
     #puts "Loaded #{count} rows from Instance data"
   end   
 
+  def ESLdata.load_assets(assets)
+    count = 0
+    source = "data/esl_aviva_8_asset.csv"
+    opts = {:headers => true, :header_converters => :symbol, :col_sep => "|"}
+    CSV.foreach(source, opts) do |row|
+      assets[count] = row
+      assets[count].each do |field, value|
+        if value.nil? then
+          assets[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
+
+  def ESLdata.load_doms(items, fileName)
+    count = 0
+    source = "data/" + fileName
+    puts "opening #{source}"
+    opts = {:headers => true, :header_converters => :symbol}
+    CSV.foreach(source, opts) do |row|
+      items[count] = row
+      items[count].each do |field, value|
+        if value.nil? then
+          items[count][field] = "#UNDEFINED#"
+        end
+      end
+      count += 1
+    end
+  end
+
   def ESLdata.del_deinstalled(servers)
     servers.delete_if {|server| server[:system_status] == "deinstalled"}
   end

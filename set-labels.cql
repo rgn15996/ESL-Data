@@ -53,19 +53,7 @@ WHERE n.system_type = 'san switch'
 SET n:sanSwitch
 RETURN n.full_node_name;
 
-<<<<<<< HEAD
-MATCH n:server 
-WHERE n.virtualization_role = 'Virtual Guest' AND n.virtualization_technology = 'VMWare'
-SET n:vmwareGuest
-RETURN n.full_node_name;
 
-MATCH n:server 
-WHERE n.virtualization_role = 'Server for Virtual Guest' AND n.virtualization_technology = 'VMWare'
-SET n:vmwareHost
-RETURN n.full_node_name;
-
-MATCH n:farm
-=======
 MATCH (n:server) 
 WHERE n.virtualization_role = 'Virtual Guest' 
 AND n.virtualization_technology = 'VMWare'
@@ -79,29 +67,20 @@ SET n:vmwareHost
 RETURN n.full_node_name;
 
 MATCH (n:farm)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'VMWare' 
 AND n.virtualization_role = 'Farm' 
 AND n.virtualization_technology = 'VMWare'
 SET n:vmwareCluster
 RETURN n.full_node_name;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
 MATCH (n)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'AIX' 
 AND n.virtualization_role = 'Secure Resource Partition'
 AND n.virtualization_technology = 'LPAR'
 SET n:powervmGuest
 RETURN n.full_node_name, n.system_type;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE (n.os_class = 'Other' OR n.os_class = 'AIX') 
 AND n.virtualization_role = 'Server for Secure Resource Partition'
 AND n.virtualization_technology = 'LPAR'
@@ -109,9 +88,6 @@ AND n.customer_classification <> 'HP SUPERDOME'
 SET n:powervmHost
 RETURN n.full_node_name, n.system_type;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
 MATCH (n:server)
 WHERE n.os_class = 'AIX'
 AND n.virtualization_role = '#UNDEFINED#'
@@ -127,40 +103,29 @@ SET n:aixPhysicalServer
 RETURN n.full_node_name, n.system_type, labels(n);
 
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'Windows' 
 AND n.virtualization_role = '#UNDEFINED#'
 AND n.virtualization_technology = '#UNDEFINED#'
 SET n:windowsPhysicalServer
 RETURN n.full_node_name, n.system_type;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
+
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'Linux' 
 AND n.virtualization_role = '#UNDEFINED#'
 AND n.virtualization_technology = '#UNDEFINED#'
 SET n:linuxPhysicalServer
 RETURN n.full_node_name, n.system_type;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
+
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'HP-UX' 
 AND n.virtualization_role = '#UNDEFINED#'
 AND n.virtualization_technology = '#UNDEFINED#'
 SET n:hpuxPhysicalServer
 RETURN n.full_node_name, n.system_type;
 
-<<<<<<< HEAD
-MATCH n:server
-=======
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'Other' 
 AND n.virtualization_role = 'Secure Resource Partition'
 AND n.virtualization_technology = 'LPAR'
@@ -169,20 +134,7 @@ SET n:powervmGuest
 SET n:strange
 RETURN n.full_node_name, n.system_type, n.sub_business_name;
 
-<<<<<<< HEAD
-MATCH n:server
-WHERE n.os_class = 'Other' 
-AND n.virtualization_role = 'Secure Resource Partition'
-AND n.virtualization_technology = 'LPAR'
-AND n.sub_business_name = 'Midrange'
-SET n:powervmGuest
-SET n:strange
-RETURN n.full_node_name, n.system_type, n.sub_business_name;
-
-MATCH n:server
-=======
 MATCH (n:server)
->>>>>>> b62844351033eda9a485ee29f18bf7e15ad35cc9
 WHERE n.os_class = 'Other' 
 AND n.virtualization_role = 'Secure Resource Partition'
 AND n.virtualization_technology = 'LPAR'
